@@ -19,4 +19,5 @@ build
 logs/
 media/
 static/
-.csv
+*.csv
+csv/
