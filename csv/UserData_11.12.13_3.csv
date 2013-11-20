@@ -1,0 +1,993 @@
+eeid,username,legal_name,fname,lname,manager,l1,l2,l3,email,hire_date,job_code,job_title,location,region
+3128,AACHATH,Ajay Balaram Achath,Ajay Balaram,Achath,Larry Voster,Robert Ragusa,Larry Voster,Larry Voster,aachath@accuray.com,2013-01-02,504051,Dir Global Supply Chain Mgmt,1209 Deming,North America
+1087,AALBRECHT,Alexander Albrecht,Alexander,Albrecht,Daniel Garrett,Robert Ragusa,Lee Ann Harris,Daniel Garrett,aalbrecht@accuray.com,2007-10-02,654042,Mgr Service Training,1240 Deming,North America
+20056,AARCEREDILLO,Andres Arceredillo,Andres,Arceredillo,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,aarceredillo@accuray.com,2008-12-01,802013,Field Service Engr III,Remote - Spain,EIMEA
+1099,AARTS,Angela Arts,Angela,Arts,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,aarts@accuray.com,2009-12-02,655141,Manager Training,1240 Deming,North America
+1107,ABALLWEG,Aletha Ballweg,Aletha,Ballweg,Susan Savich,Theresa Dadone,Susan Savich,Susan Savich,aballweg@accuray.com,2011-03-23,305022,HRIS Analyst II,1240 Deming,North America
+3132,ABORBELY,Aniko Borbely,Aniko,Borbely,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,aborbely@accuray.com,2013-01-07,101013,Admin Assistant III,Morges,EIMEA
+1604,ACABANILLA,Aubrey Bowman,Aubrey,Bowman,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,acabanilla@accuray.com,2011-06-13,802013,Field Service Engr III,Remote - US,North America
+20069,ACHIASSON,Amelie Chiasson,Amelie,Chiasson,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,achiasson@accuray.com,2010-08-01,807023,Clinical Support Spec III,Morges,EIMEA
+694,ACOHEN,Alan Cohen,Alan,Cohen,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,acohen@accuray.com,2006-11-27,401524,Physicist IV,Remote - US,North America
+3173,ACOLE,Andrew Cole,Andrew,Cole,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,acole@accuray.com,2013-05-13,373023,System Admin III,1240 Deming,North America
+1187,ACOX,Andrea Cox,Andrea,Cox,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,acox@accuray.com,2005-06-01,601551,Dir Product Marketing,1240 Deming,North America
+3026,AELANGO,Arthi Pappu Elango,Arthi,Pappu Elango,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,aelango@accuray.com,2012-08-06,404523,Systems Software Engr III,1320 Chesapeake,North America
+1645,AELLEDGE,Alexandra Elledge,Alexandra,Elledge,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,aelledge@accuray.com,2011-08-25,157521,Technical Writer I,1209 Deming,North America
+786,AGARISH,Andrea Garish,Andrea,Garish,Heather Wilkerson,Robert Ragusa,Lee Ann Harris,Heather Wilkerson,agarish@accuray.com,2010-12-13,102023,Project Manager III (Admin),1310 Chesapeake,North America
+3231,AGEORGE,Abby George,Abby,George,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,ageorge@accuray.com,2013-09-23,801212,Service Dev Eng II,1310 Chesapeake,North America
+1240,AGFULLER,Andrew Fuller,Andrew,Fuller,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,agfuller@accuray.com,2013-11-04,601942,Sr Mgr Product Marketing,1240 Deming,North America
+1259,AGUENTHER,Adam Guenther,Adam,Guenther,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,aguenther@accuray.com,2006-09-04,802013,Field Service Engr III,Remote - US,North America
+883,AHAWRYLUK,Ann Hawryluk,Ann,Hawryluk,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,ahawryluk@accuray.com,2008-05-19,807024,Clinical Support Spec IV,Remote - US,North America
+1282,AHILGENDORF,Alex Hilgendorf,Alex,Hilgendorf,David Sloey,Robert Ragusa,Robert Hill,Gerald Fordyce,ahilgendorf@accuray.com,2010-09-21,409923,R&D Engineer III,1240 Deming,North America
+1298,AHUBBARD,Albert Hubbard,Albert,Hubbard,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,ahubbard@accuray.com,2007-03-12,802013,Field Service Engr III,Remote - US,North America
+1300,AHUSSLI,Andrew Hussli,Andrew,Hussli,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,ahussli@accuray.com,2007-12-04,507523,Reliability Engineer III,1240 Deming,North America
+3237,AJABBARI,Adil Jabbari,Adil,Jabbari,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,ajabbari@accuray.com,2013-10-01,804023,Medical Physicist III,Remote - France,EIMEA
+790,AKIRKPATRICK,Andrew Kirkpatrick,Andrew,Kirkpatrick,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,akirkpatrick@accuray.com,2007-07-30,607062,SVP Corporate Dev,1310 Chesapeake,North America
+1614,AKRISHNAMOORTHY,Aruna Krishnamoorthy,Aruna,Krishnamoorthy,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,akrishnamoorthy@accuray.com,2011-06-20,372024,Business Sys Analyst IV,Remote - US,North America
+40068,AKYOSHIDA,Akira Yoshida,Akira,Yoshida,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,akyoshida@accuray.com,2012-07-01,802013,Field Service Engr III,Tokyo,Japan
+1350,ALAFRENIER,Adam Lafrenier,Adam,Lafrenier,Craig Kirch,Robert Ragusa,Robert Hill,Thomas Finnessy,alafrenier@accuray.com,2004-09-27,409223,Development Engineer III,1240 Deming,North America
+3232,ALEDAKAS,Arturas Ledakas,Arturas,Ledakas,Kevin Waters,Greg Lichtwardt,Kevin Waters,Kevin Waters,aledakas@accuray.com,2013-09-23,202042,Sr Mgr Accounting,1320 Chesapeake,North America
+50112,ALIU,Agnes Liu,Agnes,Liu,James Wu,Robert Ragusa,Robert Zahn,Guang Fang,aliu@accuray.com,2012-06-01,152041,Mgr Quality Assurance,Chengdu,APAC
+1371,ALOPEZ,Luis Alejandro Lopez,Luis Alejandro,Lopez,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,alopez@accuray.com,2011-03-21,802013,Field Service Engr III,Remote - US,North America
+934,AMALINAO,Angelita Malinao,Angelita,Malinao,Saikat Paul,Greg Lichtwardt,Kevin Waters,Saikat Paul,amalinao@accuray.com,2009-01-05,202041,Mgr Accounting,1320 Chesapeake,North America
+564,AMEDLAND,Alicia Medland,Alicia,Medland,Eddie Martinez,Robert Ragusa,Larry Voster,Eddie Martinez,amedland@accuray.com,2006-03-27,504124,Buyer/Planner IV,1310 Orleans,North America
+40001,AMITSUISHI,Atsushi Mitsuishi,Atsushi,Mitsuishi,Atsushi Suzuki,Kelly Londy,Juki Hozumi,Atsushi Suzuki,amitsuishi@accuray.com,2004-10-01,801042,Sr Mgr Cust Service,Tokyo,Japan
+996,AMYRONENKO,Andriy Myronenko,Andriy,Myronenko,Petr Jordan,Robert Ragusa,Calvin Maurer Jr,Petr Jordan,amyronenko@accuray.com,2010-06-21,401022,Research Scientist II,1310 Chesapeake,North America
+20101,AMZOURI,Abdeltif Mzouri,Abdeltif,Mzouri,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,amzouri@accuray.com,2007-09-17,802014,Field Service Engr IV,Remote - France,EIMEA
+60036,ANAKAMURA,Asako Nakamura,Asako,Nakamura,Takako Takeda,Kelly Londy,Juki Hozumi,Takako Takeda,anakamura@accuray.com,2013-05-19,101014,Admin Assistant IV,Tokyo,Japan
+1415,ANGAMPONGSAI,Pongpun Ngampongsai,Pongpun,Ngampongsai,John Liebig,Robert Ragusa,John Liebig,John Liebig,angampongsai@accuray.com,2004-05-17,806051,Dir Global Tech Support,1240 Deming,North America
+20047,ANOIROT,Antoine Noirot,Antoine,Noirot,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,anoirot@accuray.com,2010-11-15,806023,Tech Support Engr III,Paris,EIMEA
+647,ANOURI,Alaleh Nouri,Alaleh,Nouri,Darren Milliken,Darren Milliken,Darren Milliken,Darren Milliken,anouri@accuray.com,2010-12-20,351061,Associate Gen Counsel VP,1320 Chesapeake,North America
+20107,APOYO,Alberto Poyo,Alberto,Poyo,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,apoyo@accuray.com,2006-09-01,806023,Tech Support Engr III,Remote - Spain,EIMEA
+1462,APROCHASKA,Andrew Prochaska,Andrew,Prochaska,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,aprochaska@accuray.com,2007-05-08,503042,Mgr Mfg Engineering,1209 Deming,North America
+60098,AROSATI,Andrea Rosati,Andrea,Rosati,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,arosati@accuray.com,2013-09-01,801513,Customer Supp Coord III,Morges,EIMEA
+20046,ASALEM,Ahmed M N Salem,Ahmed,Salem,Hakan Baraner,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,asalem@accuray.com,2010-08-01,708024,Territory Sales Manager,Remote - United Arab Emirates,EIMEA
+20135,ASANDOVAL,Alvaro Sandoval Vallejo,Alvaro,Sandoval,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,asandoval@accuray.com,2011-06-06,802013,Field Service Engr III,Remote - Spain,EIMEA
+20029,ASCHEFCZIK,Achim Schefczik,Achim,Schefczik,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,aschefczik@accuray.com,2007-12-01,708051,Reg Business Director,Remote - Switzerland,EIMEA
+312,ASCHLAGENHAFT,Anne Schlagenhaft,Anne,Schlagenhaft,Greg Bange,Darl Moreland,Joy Sacmar,Greg Bange,aschlagenhaft@accuray.com,2002-09-16,155024,Reg Affairs Spec IV,1310 Chesapeake,North America
+868,ASEKON,Alexander Sekon,Alexander,Sekon,Richard Sah,Robert Ragusa,Robert Hill,Sohail Sayeh,asekon@accuray.com,2008-04-07,407023,Linac Engineer III,1310 Orleans,North America
+1058,ASTILLO,Alex Stillo,Alex,Stillo,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,astillo@accuray.com,2011-03-28,373024,System Admin IV,1320 Chesapeake,North America
+40034,ASUZUKI,Atsushi Suzuki,Atsushi,Suzuki,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,asuzuki@accuray.com,2011-06-01,801251,Dir Installed Base,Tokyo,Japan
+60056,ATADDEI,Andre Taddei,Andre,Taddei,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,ataddei@accuray.com,2013-08-01,201023,Financial Analyst III,Morges,EIMEA
+40065,ATIKOMA,Atsushi Ikoma,Atsushi,Ikoma,Kenji Hirose,Kelly Londy,Juki Hozumi,Atsushi Suzuki,atikoma@accuray.com,2012-07-01,802013,Field Service Engr III,Tokyo,Japan
+40063,ATIRUMAGAWA,Atsushi Irumagawa,Atsushi,Irumagawa,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,atirumagawa@accuray.com,2012-07-01,802013,Field Service Engr III,Tokyo,Japan
+40062,ATMINAMI,Atsunori Minami,Atsunori,Minami,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,atminami@accuray.com,2012-07-01,802012,Field Service Engr II,Tokyo,Japan
+1551,ATOOMEY,Amanda Toomey,Amanda,Toomey,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,atoomey@accuray.com,2007-10-30,502013,Production Tech III,1209 Deming,North America
+20036,AVIGNY,Antoine Vigny,Antoine,Vigny,Denis Hafon,Robert Ragusa,Xavier de Misouard,Denis Hafon,avigny@accuray.com,2009-07-20,406023,Project Manager III (R&D),Morges,EIMEA
+601,AWAHI,Anita Wahi,Anita,Wahi,Elizabeth Osuna,Robert Ragusa,Lee Ann Harris,Elizabeth Osuna,awahi@accuray.com,2006-06-05,157524,Technical Writer IV,1310 Chesapeake,North America
+635,AWEBER,Adam Weber,Adam,Weber,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,aweber@accuray.com,2006-07-19,403241,Mgr Mechanical Engrg,1310 Chesapeake,North America
+20127,AWILKINSON,Alan Wilkinson,Alan,Wilkinson,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,awilkinson@accuray.com,2008-06-01,802013,Field Service Engr III,Remote - UK,EIMEA
+1606,AWU,Andy Wu,Andy,Wu,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,awu@accuray.com,2012-02-17,503021,Manufacturing Engr I,1310 Orleans,North America
+3175,BABOUSHAAR,Belal Abou Shaar,Belal,Abou Shaar,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,baboushaar@accuray.com,2013-05-21,802013,Field Service Engr III,Remote - Canada,North America
+1096,BANTONUCCI,Brian Antonucci,Brian,Antonucci,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,bantonucci@accuray.com,2007-09-17,802014,Field Service Engr IV,Remote - US,North America
+631,BBAILEY,Beatrice Bailey,Beatrice,Bailey,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,bbailey@accuray.com,2006-07-10,352014,Contracts Manager IV,1320 Chesapeake,North America
+489,BBENTON,William Benton,William,Benton,Andy Kirkpatrick,Andy Kirkpatrick,Andy Kirkpatrick,Andy Kirkpatrick,bbenton@accuray.com,2005-07-06,803542,Sr Mgr Site Planning,Remote - US,North America
+60091,BBERTHOUD,Bastien Berthoud,Bastien,Berthoud,Quoc An Dinh,Robert Ragusa,Xavier de Misouard,Quoc An Dinh,bberthoud@accuray.com,2013-10-01,504222,Logistics Analyst II,Morges,EIMEA
+3199,BBHE,Bin Bin He,Bin Bin,He,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,bbhe@accuray.com,2013-07-01,603924,Market Access Mgr,Shanghai,APAC
+1124,BBJORK,Brett Bjork,Brett,Bjork,Glen Taniguchi,Greg Lichtwardt,Kevin Waters,Glen Taniguchi,bbjork@accuray.com,2011-03-21,202524,Cost Accountant IV,1209 Deming,North America
+20017,BBONNER,Barry Bonner,Barry,Bonner,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,bbonner@accuray.com,2007-01-01,708051,Reg Business Director,Remote - UK,EIMEA
+558,BBRANDT,William Brandt,William,Brandt,Jean Kihara,Darl Moreland,Jean Kihara,Jean Kihara,bbrandt@accuray.com,2006-03-06,152024,Quality Engr IV,1310 Orleans,North America
+20067,BBRIERS,Bert Briers,Bert,Briers,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,bbriers@accuray.com,2006-06-01,802013,Field Service Engr III,Brussels,EIMEA
+1146,BBRUNKER,Bradley Brunker,Bradley,Brunker,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,bbrunker@accuray.com,2004-11-08,409023,Continuing Engineer III,1209 Deming,North America
+1674,BBRUSH,Billie Brush,Billie,Brush,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,bbrush@accuray.com,2012-01-09,701025,Sales Rep III,Remote - US,North America
+1150,BBURGER,Brian Burger,Brian,Burger,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,bburger@accuray.com,2004-03-06,801212,Service Dev Eng II,1240 Deming,North America
+1156,BBUTRYMOWICZ,William Butrymowicz,William,Butrymowicz,Scott Adler,Robert Ragusa,Robert Hill,Thomas Finnessy,bbutrymowicz@accuray.com,2006-09-19,403223,Mechanical Engr III,1240 Deming,North America
+1176,BCLAYTON,Byron Clayton,Byron,Clayton,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,bclayton@accuray.com,2008-08-11,802013,Field Service Engr III,Remote - US,North America
+1177,BCLEMENS,Brandon Clemens,Brandon,Clemens,Ron Chavez,Robert Ragusa,John Liebig,Ron Chavez,bclemens@accuray.com,2010-07-20,201023,Financial Analyst III,1209 Deming,North America
+1189,BCROWDER,Brian Crowder,Brian,Crowder,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,bcrowder@accuray.com,2007-11-05,802014,Field Service Engr IV,Remote - US,North America
+20031,BDENIEL,Benoit Deniel,Benoit,Deniel,Remi Bavu,Robert Ragusa,Xavier de Misouard,Remi Bavu,bdeniel@accuray.com,2008-06-25,802041,Mgr Field Service,Remote - France,EIMEA
+1210,BDRESEN,Brian Dresen,Brian,Dresen,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,bdresen@accuray.com,2005-04-04,505023,Logistics Manager III,1209 Deming,North America
+1739,BESAYLOR,Benjamin Saylor,Benjamin,Saylor,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,besaylor@accuray.com,2012-04-23,802012,Field Service Engr II,Remote - US,North America
+60001,BFREDERICK,Charles Frederick,Charles,Frederick,Richard Holloway,Robert Ragusa,Robert Hill,Marcus Bittman,bfrederick@accuray.com,2012-09-04,404022,Software Engr II,Remote - US,North America
+666,BGRESHAM,Brian Gresham,Brian,Gresham,Steve Wright,Kelly Londy,Bill Yeado,Steve Wright,bgresham@accuray.com,2013-08-12,708024,Territory Sales Manager,Remote - US,North America
+1726,BGRIFFIN,Bruce Griffin,Bruce,Griffin,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,bgriffin@accuray.com,2012-04-09,375024,IT Compliance Manager,1320 Chesapeake,North America
+1634,BHINES,Benjamin Hines,Benjamin,Hines,Richard Nash,Robert Ragusa,Robert Hill,Marcus Bittman,bhines@accuray.com,2011-08-08,404025,Software Engr V,Remote - US,North America
+50065,BHUNG,Wui Ho Hung,Wui Ho,Hung,Larry Voster,Robert Ragusa,Larry Voster,Larry Voster,bhung@accuray.com,2011-07-20,504042,Sr Mgr Supply Chain Mgmt,Hong Kong,APAC
+981,BINGUYEN,Phat Nguyen,Phat,Nguyen,Jean Kihara,Darl Moreland,Jean Kihara,Jean Kihara,binguyen@accuray.com,2010-03-15,152024,Quality Engr IV,1310 Orleans,North America
+3059,BIXUE,Bing Xue,Bing,Xue,Miguel Carrillo,Greg Lichtwardt,Miguel Carrillo,Miguel Carrillo,bixue@accuray.com,2012-09-17,201024,Financial Analyst IV,1320 Chesapeake,North America
+1304,BJANNUSCH,Benton Jannusch,Benton,Jannusch,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,bjannusch@accuray.com,2001-06-04,402224,Systems Engr IV,1240 Deming,North America
+3017,BKELLEY,William Kelley,William,Kelley,Daniel Garrett,Robert Ragusa,Lee Ann Harris,Daniel Garrett,bkelley@accuray.com,2012-07-16,653124,Trng Proj Localization Mgr,1310 Chesapeake,North America
+1334,BKNIGHT,Barbara Knight,Barbara,Knight,Brian Dresen,Robert Ragusa,Robert Zahn,Brian Dresen,bknight@accuray.com,2005-11-08,506013,Material Handler III,1240 Deming,North America
+1688,BKRAWCZYK,Benita Krawczyk,Benita,Krawczyk,Zarina Bhandari,Greg Lichtwardt,Kevin Waters,Marian Chen,bkrawczyk@accuray.com,2012-06-04,202224,Revenue Accountant IV,1320 Chesapeake,North America
+3057,BKUMARAN,BalaSubramanian Kumaran,BalaSubramanian,Kumaran,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,bkumaran@accuray.com,2012-09-10,404523,Systems Software Engr III,1320 Chesapeake,North America
+50029,BLANDICHO,Vichael Landicho,Vichael,Landicho,Frederick Romeo,Robert Ragusa,Xavier de Misouard,Tim Dowden,blandicho@accuray.com,2006-07-01,802013,Field Service Engr III,Remote - Philippines,APAC
+1353,BLANG,Bradley Lang,Bradley,Lang,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,blang@accuray.com,2004-09-13,806041,Mgr Technical Support,1240 Deming,North America
+60037,BLINCKS,Brian Lincks,Brian,Lincks,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,blincks@accuray.com,2013-11-04,371012,Desktop Sup Spec II,1240 Deming,North America
+1370,BLOBNER,Bradley Lobner,Bradley,Lobner,Ron Chavez,Robert Ragusa,John Liebig,Ron Chavez,blobner@accuray.com,2004-03-06,371041,Mgr Infrastructure,1209 Deming,North America
+1397,BMEIER,Brian Meier,Brian,Meier,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,bmeier@accuray.com,2005-08-29,502014,Production Tech IV,1209 Deming,North America
+1399,BMEYER,Billy Meyer,Billy,Meyer,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,bmeyer@accuray.com,2005-03-11,802013,Field Service Engr III,Remote - US,North America
+938,BMOCK,Brian Mock,Brian,Mock,Marian Chen,Greg Lichtwardt,Kevin Waters,Marian Chen,bmock@accuray.com,2009-01-12,202242,Sr Mgr Revenue Acctg,1320 Chesapeake,North America
+776,BNGUYEN,Be Nguyen,Be,Nguyen,Jean Kihara,Darl Moreland,Jean Kihara,Jean Kihara,bnguyen@accuray.com,2007-06-25,152513,Receiving Inspector III,1310 Orleans,North America
+3139,BOLSON,Brian Olson,Brian,Olson,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,bolson@accuray.com,2013-01-28,509024,EH&S Mgr,1209 Deming,North America
+3194,BPECHAN,Brian Pechan,Brian,Pechan,Jeffrey Zondag,Darl Moreland,Jeffrey Zondag,Jeffrey Zondag,bpechan@accuray.com,2013-07-15,152023,Quality Engr III,1209 Deming,North America
+1446,BPEKAREK,Robert Pekarek,Robert,Pekarek,Shiby John,Robert Ragusa,Robert Hill,Marcus Bittman,bpekarek@accuray.com,2001-05-11,404024,Software Engr IV,Remote - US,North America
+50096,bqyuan,Bingquan Yuan,Bingquan,Yuan,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,bqyuan@accuray.com,2011-08-24,502014,Production Tech IV,Chengdu,APAC
+3248,BRAMIREZ,Billy Ramirez,Billy,Ramirez,Madelyn Homick,Kelly Londy,Susan Hopkins,Madelyn Homick,bramirez@accuray.com,2013-10-21,602924,Web Developer Mktg IV,1320 Chesapeake,North America
+889,BRANDLE,Blake Randle,Blake,Randle,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,brandle@accuray.com,2008-06-16,807023,Clinical Support Spec III,Remote - US,North America
+1481,BROSHOLT,William Rosholt,William,Rosholt,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,brosholt@accuray.com,2008-01-08,153022,Development QA Engr II,1240 Deming,North America
+1490,BSAYLOR,William Saylor,William,Saylor,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,bsaylor@accuray.com,2007-11-26,802014,Field Service Engr IV,Remote - US,North America
+581,BSEIJO,Bernadette Seijo,Bernadette,Seijo,James Zug,Robert Ragusa,Robert Hill,Marcus Bittman,bseijo@accuray.com,2006-04-18,404024,Software Engr IV,1310 Chesapeake,North America
+3184,BTHAKKAR,Bharat Thakkar,Bharat,Thakkar,Sean Rokni,Robert Ragusa,Robert Hill,Sohail Sayeh,bthakkar@accuray.com,2013-06-10,409022,Continuing Engineer II,1310 Chesapeake,North America
+405,BTIEN,Binh Tien,Binh,Tien,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,btien@accuray.com,2004-11-29,806041,Mgr Technical Support,1310 Chesapeake,North America
+3043,BTRINH,Bao Trinh,Bao,Trinh,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,btrinh@accuray.com,2012-09-04,503024,Manufacturing Engr IV,1310 Orleans,North America
+481,BVOGEL,William Vogel II,William,Vogel II,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,bvogel@accuray.com,2005-06-06,807024,Clinical Support Spec IV,Remote - US,North America
+1567,BVREDEVELD,Robert Vredeveld,Robert,Vredeveld,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,bvredeveld@accuray.com,2006-03-21,371013,Desktop Sup Spec III,1240 Deming,North America
+336,BWANG,Bai Wang,Bai,Wang,James Zug,Robert Ragusa,Robert Hill,Marcus Bittman,bwang@accuray.com,2003-06-09,404025,Software Engr V,1310 Chesapeake,North America
+20128,BWILLETT,Benjamin Willett,Benjamin,Willett,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,bwillett@accuray.com,2004-06-01,401522,Physicist II,1310 Chesapeake,North America
+3222,CAHUANG,Yi Hsiang Huang,Yi Hsiang,Huang,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,cahuang@accuray.com,2013-09-01,601923,Product Mktg Manager III,Hong Kong,APAC
+3150,CALLEN,Charles Allen,Charles,Allen,Alex Albrecht,Robert Ragusa,Lee Ann Harris,Daniel Garrett,callen@accuray.com,2013-03-04,654022,Service Training Spec II,1240 Deming,North America
+1755,CARINES,Cathy Arines,Cathy,Arines,Joyce Bernardo,Robert Ragusa,Joyce Bernardo,Joyce Bernardo,carines@accuray.com,2012-05-29,101211,Receptionist I,1310 Orleans,North America
+3250,CBRIDGEFORTH,Carlton Bridgeforth,Carlton,Bridgeforth,Rebecca Andersen,Darl Moreland,Rebecca Andersen,Rebecca Andersen,cbridgeforth@accuray.com,2013-10-21,151041,Mgr QA & RA,1240 Deming,North America
+946,CCALLE,Carlos Calle,Carlos,Calle,Ivan Astralaga,Kelly Londy,Lionel Hadjadjeba,Ivan Astralaga,ccalle@accuray.com,2009-05-26,704022,Sales Specialist II,Remote - US,North America
+50012,CCHAN,Man Ling Chan,Man Ling,Chan,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,cchan@accuray.com,2006-10-03,603052,Sr Dir Medical Affairs,Hong Kong,APAC
+1168,CCHAPIN,Curtis Chapin,Curtis,Chapin,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,cchapin@accuray.com,2008-06-09,802013,Field Service Engr III,Remote - US,North America
+1062,CCHEUNG,Carolisa Cheung,Carolisa,Cheung,Victor Chen,Kelly Londy,Kelly Londy,Victor Chen,ccheung@accuray.com,2011-04-04,603222,Clinical Studies II,1310 Chesapeake,North America
+515,CCIBRIAN,Claudia Cibrian,Claudia,Cibrian,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,ccibrian@accuray.com,2005-10-31,352014,Contracts Manager IV,1320 Chesapeake,North America
+987,CCLINKENBEARD,Charles Clinkenbeard,Charles,Clinkenbeard,Chris McKinley,Robert Ragusa,Michael Stratford Collins,Chris McKinley,cclinkenbeard@accuray.com,2010-04-26,506014,Material Handler IV,1310 Orleans,North America
+1185,CCOOPER,Charles Cooper,Charles,Cooper,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,ccooper@accuray.com,2007-11-26,802014,Field Service Engr IV,Remote - US,North America
+1209,CDOYLE,Christien Doyle,Christien,Doyle,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,cdoyle@accuray.com,2006-10-02,802013,Field Service Engr III,Remote - US,North America
+20078,CFEDELE,Cristiano Fedele,Cristiano,Fedele,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,cfedele@accuray.com,2010-11-01,802013,Field Service Engr III,Remote - Italy,EIMEA
+3189,CFLATT,Carlan Flatt,Carlan,Flatt,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,cflatt@accuray.com,2013-06-17,802014,Field Service Engr IV,Remote - US,North America
+20038,CFRAISSE,Caroline Fraisse,Caroline,Fraisse,Philippe Degreze,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,cfraisse@accuray.com,2010-01-04,601924,Product Mktg Manager IV,Paris,EIMEA
+907,CFRY,Clyde Fry III,Clyde,Fry III,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,cfry@accuray.com,2008-10-06,802014,Field Service Engr IV,Remote - US,North America
+1018,CFUMERO,Catalina Martinez-Fumero,Catalina,Martinez-Fumero,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,cmartinez-fumero@accuray.com,2010-10-04,704022,Sales Specialist II,Remote - US,North America
+1258,CGROSSPIETSC,Carl Grosspietsch II,Carl,Grosspietsch II,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,cgrosspietsch@accuray.com,2007-05-01,372041,Mgr IT Applications,1240 Deming,North America
+521,CHINGHO,Ching-Hung Ho,Ching-Hung,Ho,George Asmerom,Robert Ragusa,Robert Hill,Sohail Sayeh,chingho@accuray.com,2005-11-28,401524,Physicist IV,1310 Orleans,North America
+1320,CKAUZLARICH,Carrie Kauzlarich,Carrie,Kauzlarich,Ron Chavez,Robert Ragusa,John Liebig,Ron Chavez,ckauzlarich@accuray.com,2007-01-15,101012,Admin Assistant II,1209 Deming,North America
+1328,CKIRCH,Craig Kirch,Craig,Kirch,Thomas Finnessy,Robert Ragusa,Robert Hill,Thomas Finnessy,ckirch@accuray.com,2006-07-11,409141,Mgr Prod Integration Eng,1240 Deming,North America
+50070,CLCHAN,Chun Lun Chan,Chun Lun,Chan,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,clchan@accuray.com,2012-03-21,701023,Sales Rep I,Hong Kong,APAC
+1372,CLORANG,Craig Lorang,Craig,Lorang,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,clorang@accuray.com,2010-09-27,802012,Field Service Engr II,Remote - US,North America
+1382,CMALY,Charles Maly,Charles,Maly,Guang Fang,Robert Ragusa,Robert Zahn,Guang Fang,cmaly@accuray.com,2003-04-28,502014,Production Tech IV,1209 Deming,North America
+1387,CMAUER,Carl Mauer,Carl,Mauer,Kenneth Ruchala,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,cmauer@accuray.com,2004-02-02,401241,Mgr Research,1240 Deming,North America
+458,CMAURER,Calvin Maurer Jr,Calvin,Maurer Jr,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,cmaurer@accuray.com,2005-04-16,401061,VP Research,1310 Chesapeake,North America
+360,CMCDANIEL,Christopher McDaniel,Christopher,McDaniel,John Liebig,Robert Ragusa,John Liebig,John Liebig,cmcdaniel@accuray.com,2004-03-22,802043,Regional Service Mgr II,Remote - US,North America
+241,CMCKINLEY,Christine McKinley,Christine,McKinley,Michael Stratford Collins,Robert Ragusa,Michael Stratford Collins,Michael Stratford Collins,cmckinley@accuray.com,2000-09-01,505531,Supv Warehouse,1310 Orleans,North America
+3107,CMOLTER,Corey Molter,Corey,Molter,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,cmolter@accuray.com,2012-11-12,502213,Microwave Technician III,1310 Orleans,North America
+1413,CNEGRUT,Cristina Negrut,Cristina,Negrut,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,cnegrut@accuray.com,2007-02-27,409924,R&D Engineer IV,1240 Deming,North America
+1681,CNG,Constance Ng,Constance,Ng,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,cng@accuray.com,2012-01-30,101012,Admin Assistant II,1320 Chesapeake,North America
+1435,CPAIN,Christophe Pain,Christophe,Pain,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,cpain@accuray.com,2008-03-10,802013,Field Service Engr III,Remote - US,North America
+1442,CPAUER,Christopher Pauer,Christopher,Pauer,Gabe Westmont,Robert Ragusa,Robert Hill,Marcus Bittman,cpauer@accuray.com,2006-11-21,404023,Software Engr III,1240 Deming,North America
+20105,CPEDRETTI,Claudio Pedretti,Claudio,Pedretti,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,cpedretti@accuray.com,2009-10-01,802013,Field Service Engr III,Remote - Italy,EIMEA
+1603,CPIGOS,Charles Pigos,Charles,Pigos,Larry Voster,Robert Ragusa,Larry Voster,Larry Voster,cpigos@accuray.com,2011-06-06,505042,Sr Mgr Global Serv Logistics,1209 Deming,North America
+1458,CPLOEGSMA,Charles Ploegsma,Charles,Ploegsma,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,cploegsma@accuray.com,2007-06-25,802013,Field Service Engr III,Remote - US,North America
+1474,CRIVAS,Carlos Rivas,Carlos,Rivas,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,crivas@accuray.com,2007-07-14,802013,Field Service Engr III,Remote - US,North America
+3230,CROUDABUSH,Catherine Roudabush,Catherine,Roudabush,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,croudabush@accuray.com,2013-09-16,703022,Sales Ops Specialist II,Morges,EIMEA
+1495,CSCHIEMANN,Christoph Schiemann,Christoph,Schiemann,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,cschiemann@accuray.com,2004-09-20,807024,Clinical Support Spec IV,Remote - US,North America
+994,CSCHUMAN,Christopher Schuman,Christopher,Schuman,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,cschuman@accuray.com,2010-06-07,807024,Clinical Support Spec IV,1310 Chesapeake,North America
+1511,CSHAW,Christopher Shaw,Christopher,Shaw,Elizabeth Osuna,Robert Ragusa,Lee Ann Harris,Elizabeth Osuna,cshaw@accuray.com,2006-08-22,157523,Technical Writer III,1240 Deming,North America
+632,CSIMS,Colin Sims,Colin,Sims,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,csims@accuray.com,2006-07-10,401541,Mgr Adv Treatment Plng,Remote - US,North America
+1539,CTALBOT,Charles Talbot,Charles,Talbot,Andy Prochaska,Robert Ragusa,Robert Zahn,Gary Tarpinian,ctalbot@accuray.com,2005-07-18,409022,Continuing Engineer II,1209 Deming,North America
+1547,CTHOMAS,Charles Thomas,Charles,Thomas,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,cthomas@accuray.com,2005-09-13,802014,Field Service Engr IV,Remote - US,North America
+401,CTHOMES,Christopher Thomes,Christopher,Thomes,Mike McGann,Kelly Londy,Bill Yeado,Mike McGann,cthomes@accuray.com,2004-10-25,709025,Territory Sales Director V,Remote - US,North America
+50020,CYCHAN,Yuk Wah Chan,Yuk Wah,Chan,Louisa Leung,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,cychan@accuray.com,2008-04-21,202022,Accountant II,Hong Kong,APAC
+20155,DARIODPP,Dario Di Pietro Paolo,Dario,Di Pietro Paolo,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,dariodpp@accuray.com,2012-03-15,802013,Field Service Engr III,Remote - Italy,EIMEA
+1100,DAYRES,Dorothy Ayres,Dorothy,Ayres,Trisha Boelter,Robert Ragusa,Robert Zahn,Trisha Boelter,dayres@accuray.com,2005-01-10,101212,Receptionist II,1240 Deming,North America
+20153,DAYUBI,Danish Ayubi,Danish,Ayubi,Jagmeet Singh,Robert Ragusa,Xavier de Misouard,Remi Bavu,dayubi@accuray.com,2011-08-01,802013,Field Service Engr III,Remote - India,EIMEA
+1621,DBATMAN,Don Batman,Don,Batman,Chris McKinley,Robert Ragusa,Michael Stratford Collins,Chris McKinley,dbatman@accuray.com,2011-07-18,506014,Material Handler IV,1310 Orleans,North America
+1699,DBECK,Dana Beck,Dana,Beck,Jeffrey Zondag,Darl Moreland,Jeffrey Zondag,Jeffrey Zondag,dbeck@accuray.com,2012-03-01,152022,Quality Engr II,1209 Deming,North America
+20023,DBIGGS,David Biggs,David,Biggs,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,dbiggs@accuray.com,2007-06-21,807041,Mgr Clinical Support,Remote - UK,EIMEA
+1610,DBRADLEY,David Bradley,David,Bradley,Sean Rokni,Robert Ragusa,Robert Hill,Sohail Sayeh,dbradley@accuray.com,2011-12-05,409024,Continuing Engineer IV,1310 Chesapeake,North America
+485,DBROWN,Daniel Brown,Daniel,Brown,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,dbrown@accuray.com,2005-07-11,404523,Systems Software Engr III,1310 Chesapeake,North America
+1149,DBURDICK,Daniel Burdick,Daniel,Burdick,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,dburdick@accuray.com,2006-11-29,802013,Field Service Engr III,Remote - US,North America
+1163,DCASEY,Dylan Casey,Dylan,Casey,Eric Schnarr,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,dcasey@accuray.com,2011-05-10,401522,Physicist II,1240 Deming,North America
+941,DCAVALLARO,Debra Cavallaro,Debra,Cavallaro,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,dcavallaro@accuray.com,2009-02-09,155523,Product Complaint Spec III,1310 Chesapeake,North America
+1186,DCORTEZ,Daniel Cortez,Daniel,Cortez,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,dcortez@accuray.com,2006-03-20,802014,Field Service Engr IV,Remote - US,North America
+1191,DCULBERTSON,David Culbertson,David,Culbertson,Alex Albrecht,Robert Ragusa,Lee Ann Harris,Daniel Garrett,dculbertson@accuray.com,2005-08-29,654023,Service Training Spec III,1209 Deming,North America
+1192,DCZAPLINSKI,Donald Czaplinski,Donald,Czaplinski,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,dczaplinski@accuray.com,2008-03-03,802013,Field Service Engr III,Remote - US,North America
+618,DDASHER,Donald Dasher,Donald,Dasher,Nancy Arnold,Robert Ragusa,Robert Hill,Nancy Arnold,ddasher@accuray.com,2006-06-26,406024,Project Manager IV (R&D),1310 Chesapeake,North America
+1218,DELORANTA,David Eloranta,David,Eloranta,James Jacoby,Robert Ragusa,Robert Hill,Thomas Finnessy,deloranta@accuray.com,2006-02-28,409022,Continuing Engineer II,1240 Deming,North America
+1684,DENGELHART,Donald Engelhart,Donald,Engelhart,Tosha Fugate,Robert Ragusa,Larry Voster,Tosha Fugate,dengelhart@accuray.com,2012-02-06,504124,Buyer/Planner IV,1209 Deming,North America
+1751,DFITTING,Andrew Fitting,Andrew,Fitting,Kolos Lugosi,Robert Ragusa,Robert Hill,Sohail Sayeh,dfitting@accuray.com,2012-05-14,404023,Software Engr III,1310 Chesapeake,North America
+1624,DFLORES,Desire Flores,Desire,Flores,Joyce Bernardo,Robert Ragusa,Joyce Bernardo,Joyce Bernardo,dflores@accuray.com,2011-07-25,101211,Receptionist I,1310 Chesapeake,North America
+229,DFREITAS,David Freitas,David,Freitas,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,dfreitas@accuray.com,2000-07-17,502014,Production Tech IV,1310 Orleans,North America
+3170,DFREYNHAGEN,Dirk Freynhagen,Dirk,Freynhagen,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,dfreynhagen@accuray.com,2013-05-01,708051,Reg Business Director,Remote - Germany,EIMEA
+1242,DGABLE,Donald Gable,Donald,Gable,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,dgable@accuray.com,2005-03-28,508023,Fac Engr/Planner III,1209 Deming,North America
+1677,DGALARNEAU,Diane Galarneau,Diane,Galarneau,Glen Taniguchi,Greg Lichtwardt,Kevin Waters,Glen Taniguchi,dgalarneau@accuray.com,2012-01-30,202523,Cost Accountant III,1209 Deming,North America
+1783,DGARRETT,Daniel Garrett,Daniel,Garrett,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,dgarrett@accuray.com,2012-06-25,651142,Sr Mgr Global Ed Pgrms,1310 Chesapeake,North America
+20083,DGHIRARDINI,Davide Ghirardini,Davide,Ghirardini,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,dghirardini@accuray.com,2008-08-04,802013,Field Service Engr III,Remote - Italy,EIMEA
+1261,DGUTZKE,Daniel Gutzke,Daniel,Gutzke,Bradley Lang,Robert Ragusa,John Liebig,Abby Ngampongsai,dgutzke@accuray.com,2004-05-24,806029,Tech Support Engr NE,Remote - US,North America
+20024,DHAFON,Denis Hafon,Denis,Hafon,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,dhafon@accuray.com,2007-08-06,406051,Dir Program Management,Morges,EIMEA
+1278,DHENDERSON,Douglas Henderson,Douglas,Henderson,Carl Mauer,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,dhenderson@accuray.com,2002-10-21,401524,Physicist IV,1240 Deming,North America
+1313,DJONES,David Jones,David,Jones,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,djones@accuray.com,2008-08-11,802013,Field Service Engr III,Remote - US,North America
+1322,DKEHL,David Kehl,David,Kehl,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,dkehl@accuray.com,2010-08-31,802013,Field Service Engr III,Remote - US,North America
+1731,DKERN,Dugan Kern,Dugan,Kern,Terri Allender,Theresa Dadone,Susan Savich,Terri Allender,dkern@accuray.com,2012-04-09,303025,Compensation Manager,Remote - US,North America
+20030,DKIM,DuYeon Kim,DuYeon,Kim,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,dkim@accuray.com,2008-03-01,802013,Field Service Engr III,Remote - UK,EIMEA
+1686,DKISTING,Daniel Kisting,Daniel,Kisting,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,dkisting@accuray.com,2012-02-13,404523,Systems Software Engr III,Remote - US,North America
+1345,DKRON,David Kron,David,Kron,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,dkron@accuray.com,2007-06-26,404022,Software Engr II,1240 Deming,North America
+1747,DLAM,Dan Lam,Dan,Lam,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,dlam@accuray.com,2012-05-07,373023,System Admin III,1320 Chesapeake,North America
+1375,DLUCAS,Daniel Lucas,Daniel,Lucas,Robert Cravens,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,dlucas@accuray.com,2002-07-29,401523,Physicist III,1240 Deming,North America
+1385,DMARTIN,Kenneth Martin,Kenneth,Martin,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,dmartin@accuray.com,2006-04-25,802013,Field Service Engr III,Remote - US,North America
+3120,DMARTINEZ,Debra Martinez,Debra,Martinez,Theresa Dadone,Theresa Dadone,Theresa Dadone,Theresa Dadone,dmartinez@accuray.com,2012-12-10,301024,Human Resources Rep IV,1240 Deming,North America
+1386,DMARZ,Daniel Marz,Daniel,Marz,Madelyn Homick,Kelly Londy,Susan Hopkins,Madelyn Homick,dmarz@accuray.com,2005-06-20,602042,Sr Mgr Marketing Comm,1240 Deming,North America
+1400,DMIANA,Domie Miana Jr.,Domie,Miana Jr.,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,dmiana@accuray.com,2006-06-13,802013,Field Service Engr III,Remote - US,North America
+368,DMILLIKEN,Darren Milliken,Darren,Milliken,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,dmilliken@accuray.com,2004-04-26,351062,SVP General Counsel,1320 Chesapeake,North America
+3217,DMORELAND,Darl Moreland,Darl,Moreland,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,dmoreland@accuray.com,2013-08-26,101062,SVP General Manager,1310 Chesapeake,North America
+799,DMUTO,Daniel Muto,Daniel,Muto,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,dmuto@accuray.com,2007-09-10,402224,Systems Engr IV,1320 Chesapeake,North America
+1431,DOREN,Derek Oren,Derek,Oren,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,doren@accuray.com,2010-01-19,371013,Desktop Sup Spec III,1240 Deming,North America
+1448,DPETERSEN,David Petersen,David,Petersen,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,dpetersen@accuray.com,2007-06-10,404024,Software Engr IV,1240 Deming,North America
+1450,DPETERSON,Donna Peterson,Donna,Peterson,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,dpeterson@accuray.com,2004-03-15,801214,Service Dev Eng IV,1240 Deming,North America
+533,DSCHAAL,David Schaal,David,Schaal,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,dschaal@accuray.com,2006-01-09,603552,Sr Dir Clinical Pubs,1310 Chesapeake,North America
+1494,DSCHEURELL,Daniel Scheurell,Daniel,Scheurell,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,dscheurell@accuray.com,2007-10-16,404024,Software Engr IV,1240 Deming,North America
+3155,DSEVERSON,Derek Severson,Derek,Severson,Gabe Westmont,Robert Ragusa,Robert Hill,Marcus Bittman,dseverson@accuray.com,2013-03-18,404022,Software Engr II,1240 Deming,North America
+1516,DSIDNEY,Daniel Sidney,Daniel,Sidney,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,dsidney@accuray.com,2004-04-01,401523,Physicist III,1240 Deming,North America
+429,DSKOWBO,David Skowbo,David,Skowbo,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,dskowbo@accuray.com,1998-08-19,503025,Manufacturing Engr V,1310 Orleans,North America
+1520,DSLOEY,David Sloey,David,Sloey,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,dsloey@accuray.com,2007-11-13,409141,Mgr Prod Integration Eng,1240 Deming,North America
+3137,DSMITH,David Smith,David,Smith,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,dsmith@accuray.com,2013-01-21,708051,Reg Business Director,Remote - Canada,North America
+879,DSPELLMAN,David Spellman,David,Spellman,Richard Nash,Robert Ragusa,Robert Hill,Marcus Bittman,dspellman@accuray.com,2008-04-28,404025,Software Engr V,Remote - US,North America
+50081,dspeng,Ding Shu Peng,Ding Shu,Peng,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,dspeng@accuray.com,2010-06-01,502014,Production Tech IV,Chengdu,APAC
+3249,DSTLOUIS,Danielle St Louis,Danielle,St Louis,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,dstlouis@accuray.com,2013-10-21,157521,Technical Writer I,1209 Deming,North America
+1537,DSURATT,David Suratt,David,Suratt,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,dsuratt@accuray.com,2011-02-15,802013,Field Service Engr III,Remote - US,North America
+707,DSWANSON,David Swanson,David,Swanson,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,dswanson@accuray.com,2007-01-08,802014,Field Service Engr IV,Remote - US,North America
+999,DTADIKAMALA,Deepthi Tadikamala,Deepthi,Tadikamala,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,dtadikamala@accuray.com,2010-06-28,372024,Business Sys Analyst IV,1320 Chesapeake,North America
+1553,DTRULEN,Dwight Trulen,Dwight,Trulen,Bradley Lang,Robert Ragusa,John Liebig,Abby Ngampongsai,dtrulen@accuray.com,2005-01-03,806029,Tech Support Engr NE,1240 Deming,North America
+1359,DVLE,Do Le,Do,Le,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,dvle@accuray.com,2008-09-23,802013,Field Service Engr III,Remote - US,North America
+432,DWILLIAMS,David Williams,David,Williams,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,dwilliams@accuray.com,2003-10-20,402014,Engineering Tech IV,1310 Orleans,North America
+3133,DWONG,Kam Keung Wong,Kam Keung,Wong,Frederick Romeo,Robert Ragusa,Xavier de Misouard,Tim Dowden,dwong@accuray.com,2013-01-14,806023,Tech Support Engr III,Hong Kong,APAC
+833,DWURNITSCH,Denice da Gloria-Wurnitsch,Denice,da Gloria-Wurnitsch,Robert Hill,Robert Ragusa,Robert Hill,Robert Hill,dwurnitsch@accuray.com,2008-01-02,101023,Executive Asst,1310 Chesapeake,North America
+20142,EANGER,Eleonore Anger,Eleonore,Anger,Eric Marin,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,eanger@accuray.com,2012-10-01,202022,Accountant II,Morges,EIMEA
+20009,EARNOULD,Eric Arnould,Eric,Arnould,Kevin Waters,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,earnould@accuray.com,2006-06-05,201061,VP Finance,Paris,EIMEA
+3161,EBELAYA,Elena Belaya,Elena,Belaya,Jason Ehrlich,Darl Moreland,Eitan Zohar,Jason Ehrlich,ebelaya@accuray.com,2013-04-01,153023,Development QA Engr III,1310 Chesapeake,North America
+453,EBLACK,Eli Black,Eli,Black,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,eblack@accuray.com,1998-08-19,503022,Manufacturing Engr II,1310 Orleans,North America
+1125,EBLONDIN,Ernest Blondin Jr,Ernest,Blondin Jr,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,eblondin@accuray.com,2008-07-21,802013,Field Service Engr III,Remote - US,North America
+1129,EBOLDUAN,Eric Bolduan,Eric,Bolduan,Jeremy Heil,Robert Ragusa,Robert Hill,Marcus Bittman,ebolduan@accuray.com,2008-01-08,404023,Software Engr III,Remote - US,North America
+1140,EBRACAMONTES,Eddie Bracamontes,Eddie,Bracamontes,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,ebracamontes@accuray.com,2006-06-26,802013,Field Service Engr III,Remote - US,North America
+3012,EBROADHURST,Robert Broadhurst,Robert,Broadhurst,Richard Holloway,Robert Ragusa,Robert Hill,Marcus Bittman,ebroadhurst@accuray.com,2012-07-16,404024,Software Engr IV,Remote - US,North America
+3010,ECHANEY,Edward Chaney,Edward,Chaney,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,echaney@accuray.com,2012-07-16,401026,Research Scientist VI,Remote - US,North America
+1167,ECHAO,Edward Chao,Edward,Chao,Robert Cravens,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,echao@accuray.com,2005-12-06,401523,Physicist III,1240 Deming,North America
+712,ECIBRIAN,Efrain Cibrian,Efrain,Cibrian,Stan Gee,Kelly Londy,Stan Gee,Stan Gee,ecibrian@accuray.com,2007-01-29,705012,Lead Generation Spec II,1310 Chesapeake,North America
+1194,EDAVIS,Eric Davis,Eric,Davis,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,edavis@accuray.com,2004-12-06,155524,Product Complaint Spec IV,1240 Deming,North America
+3084,EGIULESCU,Eugenia Giulescu,Eugenia,Giulescu,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,egiulescu@accuray.com,2012-10-22,202024,Accountant IV,Morges,EIMEA
+627,EGOZUN,Enrique Gozun,Enrique,Gozun,George Asmerom,Robert Ragusa,Robert Hill,Sohail Sayeh,egozun@accuray.com,2006-07-06,402015,Engineering Tech V,1310 Orleans,North America
+1267,EHANSON,Eric Hanson,Eric,Hanson,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,ehanson@accuray.com,2005-08-01,507015,Test Technician V,1209 Deming,North America
+20086,EHASANCIC,Elvis Hasancic,Elvis,Hasancic,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,ehasancic@accuray.com,2009-10-01,708024,Territory Sales Manager,Remote - Germany,EIMEA
+3253,EHOU,Po Hsun Hou,Po Hsun,Hou,Frederick Romeo,Robert Ragusa,Xavier de Misouard,Tim Dowden,ehou@accuray.com,2013-11-01,806023,Tech Support Engr III,Hong Kong,APAC
+3051,EHUANG,Xiaoyun Huang,Xiaoyun,Huang,Agnes Liu,Robert Ragusa,Robert Zahn,Guang Fang,ehuang@accuray.com,2012-08-13,157011,Doc Control Spec I,Chengdu,APAC
+1059,EJANTE,Ellen Jante,Ellen,Jante,Brian Mock,Greg Lichtwardt,Kevin Waters,Marian Chen,ejante@accuray.com,2011-07-18,202021,Accountant I,1320 Chesapeake,North America
+1306,EJENSEN,Erik Jensen,Erik,Jensen,Kevin Parker,Ole Mikkelsen,Kevin Parker,Kevin Parker,ejensen@accuray.com,2006-05-02,372024,Business Sys Analyst IV,1240 Deming,North America
+874,EJOHNSON,Eric Johnson,Eric,Johnson,Adam Weber,Robert Ragusa,Robert Hill,Sohail Sayeh,ejohnson@accuray.com,2008-04-21,403224,Mechanical Engr IV,1310 Chesapeake,North America
+3127,EJONES,Elaine Jones,Elaine,Jones,Daniel Garrett,Robert Ragusa,Lee Ann Harris,Daniel Garrett,ejones@accuray.com,2013-01-03,653024,Curriculum Developer IV,1310 Chesapeake,North America
+1003,EKISHAWI,Eyad Kishawi,Eyad,Kishawi,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,ekishawi@accuray.com,2010-07-26,405041,Mgr Electrical Engrg,1310 Chesapeake,North America
+661,ELESSARD,Etienne Lessard,Etienne,Lessard,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,elessard@accuray.com,2006-09-18,603651,Dir New Clinical App Dev,1310 Chesapeake,North America
+1724,ELIMARTINEZ,Elias Martinez Dominguez,Elias,Martinez Dominguez,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,elimartinez@accuray.com,2012-04-01,802013,Field Service Engr III,Remote - US,North America
+20045,EMARIN,Eric Marin,Eric,Marin,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,emarin@accuray.com,2010-06-01,202042,Sr Mgr Accounting,Morges,EIMEA
+610,EMARTINEZ,Eduardo Martinez,Eduardo,Martinez,Larry Voster,Robert Ragusa,Larry Voster,Larry Voster,emartinez@accuray.com,2006-06-12,504042,Sr Mgr Supply Chain Mgmt,1310 Orleans,North America
+1403,EMILLER,Edwin Miller,Edwin,Miller,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,emiller@accuray.com,2007-10-22,802013,Field Service Engr III,Remote - US,North America
+963,EMOLINA,Eduardo Molina,Eduardo,Molina,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,emolina@accuray.com,2009-10-19,373023,System Admin III,1320 Chesapeake,North America
+757,EMUNDHEIM,Elen Mundheim,Elen,Mundheim,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,emundheim@accuray.com,2007-04-30,704022,Sales Specialist II,Remote - US,North America
+805,EOSUNA,Elizabeth Osuna,Elizabeth,Osuna,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,eosuna@accuray.com,2007-09-24,157541,Mgr Tech Publications,1310 Chesapeake,North America
+1488,ESANTOS,Efren Santos,Efren,Santos,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,esantos@accuray.com,2007-09-24,802013,Field Service Engr III,Remote - US,North America
+20001,ESCHLEBUSCH,Elke Schlebusch,Elke,Schlebusch,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,eschlebusch@accuray.com,2004-10-01,101023,Executive Asst,Paris,EIMEA
+1501,ESCHNARR,Eric Schnarr,Eric,Schnarr,Kenneth Ruchala,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,eschnarr@accuray.com,2002-01-02,401241,Mgr Research,1240 Deming,North America
+1562,EVEIGA,Enrique Veiga,Enrique,Veiga,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,eveiga@accuray.com,2007-08-06,802014,Field Service Engr IV,Remote - US,North America
+1566,EVOLGENSKY,Eugene Volgensky,Eugene,Volgensky,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,evolgensky@accuray.com,2008-04-07,802013,Field Service Engr III,Remote - US,North America
+390,EWIDENER,Earnest Widener Jr,Earnest,Widener Jr,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,ewidener@accuray.com,2004-08-23,802014,Field Service Engr IV,Remote - US,North America
+1628,EWJOHNSON,Eric Johnson,Eric,Johnson,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,ewjohnson@accuray.com,2011-08-01,202052,Sr Controller,1320 Chesapeake,North America
+1020,EZOHAR,Eitan Zohar,Eitan,Zohar,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,ezohar@accuray.com,2010-10-18,153051,Dir Development QA,1310 Chesapeake,North America
+1031,FEUZEBIO,Fabiana Lima,Fabiana,Lima,Ivan Astralaga,Kelly Londy,Lionel Hadjadjeba,Ivan Astralaga,flima@accuray.com,2010-11-29,603124,Field Mktg Manager IV,Remote - US,North America
+3228,FFELDMAN,Faith Feldman,Faith,Feldman,Heather Wilkerson,Robert Ragusa,Lee Ann Harris,Heather Wilkerson,ffeldman@accuray.com,2013-09-09,652011,Training Support Spec I,1240 Deming,North America
+3223,FGARDES,Francis Gardes,Francis,Gardes,Remi Bavu,Robert Ragusa,Xavier de Misouard,Remi Bavu,fgardes@accuray.com,2013-09-01,802041,Mgr Field Service,Remote - France,EIMEA
+1253,FGONZALEZ,Fernando Gonzalez,Fernando,Gonzalez,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,fgonzalez@accuray.com,2008-02-04,802013,Field Service Engr III,Remote - Canada,North America
+3069,FJACKSON,Frances Jackson,Frances,Jackson,Oria De La Cerda,Darren Milliken,Oria De La Cerda,Oria De La Cerda,fjackson@accuray.com,2012-10-01,204023,Stock Administrator III,1320 Chesapeake,North America
+3130,FPARRAS,Francis Parras,Francis,Parras,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,fparras@accuray.com,2013-01-07,502213,Microwave Technician III,1310 Orleans,North America
+20108,FPRATI,Francesco Prati,Francesco,Prati,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,fprati@accuray.com,2007-10-01,802013,Field Service Engr III,Remote - Italy,EIMEA
+1480,FROMEO,Frederick Romeo,Frederick,Romeo,Tim Dowden,Robert Ragusa,Xavier de Misouard,Tim Dowden,fromeo@accuray.com,2004-10-04,806041,Mgr Technical Support,Remote - Thailand,APAC
+20144,FTECK,Fissaone Teck,Fissaone,Teck,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,fteck@accuray.com,2012-10-01,201022,Financial Analyst II,Morges,EIMEA
+50111,fwu,Frida Wu,Frida,Wu,James Wu,Robert Ragusa,Robert Zahn,Guang Fang,frwu@accuray.com,2012-05-22,506041,Mgr Materials,Chengdu,APAC
+20055,GALIBERTI,Gaetano Aliberti,Gaetano,Aliberti,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,galiberti@accuray.com,2009-04-01,802013,Field Service Engr III,Remote - Italy,EIMEA
+770,GASMEROM,Giorgio Asmerom,Giorgio,Asmerom,Richard Sah,Robert Ragusa,Robert Hill,Sohail Sayeh,gasmerom@accuray.com,2007-06-11,407041,Mgr Advanced Devel,1310 Orleans,North America
+1108,GBANGE,Gregory Bange,Gregory,Bange,Joy Sacmar,Darl Moreland,Joy Sacmar,Joy Sacmar,gbange@accuray.com,2010-06-01,155042,Sr Mgr Reg Affairs,1240 Deming,North America
+1220,GFANG,Guang Fang,Guang,Fang,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,gfang@accuray.com,1999-06-01,503051,Dir Manufacturing,Remote - US,North America
+1230,GFORDYCE,Gerald Fordyce,Gerald,Fordyce,Robert Hill,Robert Ragusa,Robert Hill,Robert Hill,gfordyce@accuray.com,2005-05-02,404051,Dir Software Eng,1240 Deming,North America
+3062,GFORNIER,Gregory Fornier,Gregory,Fornier,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,gfornier@accuray.com,2012-09-18,703022,Sales Ops Specialist II,Morges,EIMEA
+573,GFRIED,Gary Fried,Gary,Fried,Chris McKinley,Robert Ragusa,Michael Stratford Collins,Chris McKinley,gfried@accuray.com,2006-04-10,506014,Material Handler IV,1310 Orleans,North America
+1245,GGARSTKA,Gregory Garstka,Gregory,Garstka,Sean Connell,Robert Ragusa,Robert Hill,Thomas Finnessy,ggarstka@accuray.com,2007-08-07,402223,Systems Engr III,1240 Deming,North America
+855,GHAMPTON,Gerald Hampton,Gerald,Hampton,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,ghampton@accuray.com,2008-03-03,802014,Field Service Engr IV,Remote - US,North America
+422,GJOHNSON,Gary Johnson,Gary,Johnson,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,gjohnson@accuray.com,1998-08-19,802013,Field Service Engr III,Remote - US,North America
+912,GJOINER,Gary Joiner,Gary,Joiner,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,gjoiner@accuray.com,2008-11-03,371013,Desktop Sup Spec III,1320 Chesapeake,North America
+1712,GKREITZER,Gregory Kreitzer,Gregory,Kreitzer,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,gkreitzer@accuray.com,2012-03-19,802012,Field Service Engr II,Remote - US,North America
+50075,gli,Gang Li,Gang,Li,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,gli@accuray.com,2011-08-23,502014,Production Tech IV,Chengdu,APAC
+3225,GLICHTWARDT,Gregory Lichtwardt,Gregory,Lichtwardt,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,glichtwardt@accuray.com,2013-09-03,201072,EVP CFO,1320 Chesapeake,North America
+1377,GLUKEY,Graham Lukey,Graham,Lukey,Rebecca Andersen,Darl Moreland,Rebecca Andersen,Rebecca Andersen,glukey@accuray.com,2000-08-01,151024,RA QA Technical Mgr,1240 Deming,North America
+598,GORR,Gregory Orr,Gregory,Orr,John Dooley,Robert Ragusa,Calvin Maurer Jr,John Dooley,gorr@accuray.com,2006-05-30,401025,Research Scientist V,1310 Chesapeake,North America
+269,GORTEGA,Gregory Ortega,Gregory,Ortega,Eyad Kishawi,Robert Ragusa,Robert Hill,Sohail Sayeh,gortega@accuray.com,2001-01-22,402015,Engineering Tech V,1310 Chesapeake,North America
+20113,GSANTOLAYA,Gustavo Santolaya,Gustavo,Santolaya,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,gsantolaya@accuray.com,2011-05-16,802013,Field Service Engr III,Remote - Spain,EIMEA
+3141,GSCOTOLATI,Greta Scotolati,Greta,Scotolati,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,gscotolati@accuray.com,2013-02-01,101023,Executive Asst,Morges,EIMEA
+20115,GSIMPSON,Gregory Simpson,Gregory,Simpson,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,gsimpson@accuray.com,2007-04-01,802014,Field Service Engr IV,Remote - Italy,EIMEA
+3179,GSINGH,Gurpreet Singh,Gurpreet,Singh,Jeremiah Pepper,Robert Ragusa,John Liebig,Jeremiah Pepper,gsingh@accuray.com,2013-06-03,803111,System Install Engr I,1310 Chesapeake,North America
+3163,GSPARKS,Gordon Sparks,Gordon,Sparks,Jean Kihara,Darl Moreland,Jean Kihara,Jean Kihara,gsparks@accuray.com,2013-04-01,152024,Quality Engr IV,1310 Orleans,North America
+1532,GSTASHEK,Gerald Stashek,Gerald,Stashek,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,gstashek@accuray.com,2008-06-30,802014,Field Service Engr IV,Remote - US,North America
+664,GTANIGUCHI,Glen Taniguchi,Glen,Taniguchi,Kevin Waters,Greg Lichtwardt,Kevin Waters,Kevin Waters,gtaniguchi@accuray.com,2006-09-25,202542,Sr Mgr Cost Accounting,1320 Chesapeake,North America
+1540,GTARPINIAN,Gary Tarpinian,Gary,Tarpinian,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,gtarpinian@accuray.com,2007-11-06,409042,Sr Mgr Continuing Engrg,1209 Deming,North America
+493,GWELDON,Grant Weldon,Grant,Weldon,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,gweldon@accuray.com,2005-07-18,402224,Systems Engr IV,1310 Chesapeake,North America
+1578,GWESTMONT,Gabe Westmont,Gabe,Westmont,Shiby John,Robert Ragusa,Robert Hill,Marcus Bittman,gwestmont@accuray.com,2005-06-03,404241,Mgr Software Data Mgmt,1240 Deming,North America
+50092,gxin,Guoxiang Xin,Guoxiang,Xin,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,gxin@accuray.com,2008-11-03,502015,Production Tech V,Chengdu,APAC
+40030,HAHONGO,Hajime Hongo,Hajime,Hongo,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,hhongo@accuray.com,2011-02-14,156051,Dir Reg Affairs & QA,Tokyo,Japan
+20022,HBARANER,Hakan Baraner,Hakan,Baraner,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,hbaraner@accuray.com,2007-05-07,708051,Reg Business Director,Remote - Switzerland,EIMEA
+3131,HBEDDADI,Hocine Beddadi,Hocine,Beddadi,Patrice Lompech,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,hbeddadi@accuray.com,2013-01-07,708024,Territory Sales Manager,Paris,EIMEA
+20145,HBOULKOUANE,Hacene Boulkouane,Hacene,Boulkouane,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,hboulkouane@accuray.com,2006-08-01,802014,Field Service Engr IV,Remote - Switzerland,EIMEA
+40009,HENDO,Hiroyuki Endo,Hiroyuki,Endo,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,hendo@accuray.com,2008-04-16,802012,Field Service Engr II,Tokyo,Japan
+3044,HFILHO,Haroldo Filho,Haroldo,Filho,Eyad Kishawi,Robert Ragusa,Robert Hill,Sohail Sayeh,hfilho@accuray.com,2012-09-04,405023,Electrical Engr III,1310 Chesapeake,North America
+3262,HHATCHETT,Holly Hatchett,Holly,Hatchett,Julius Fortuna,Kelly Londy,Susan Hopkins,Johann Fernando,hhatchett@accuray.com,2013-11-11,709123,Strategic Business Mgr,Remote - US,North America
+620,HHOSFORD,Herbert Hosford,Herbert,Hosford,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,hhosford@accuray.com,2006-07-01,802013,Field Service Engr III,Remote - US,North America
+1315,HJUHN,Heinrich Juhn,Heinrich,Juhn,Nancy Arnold,Robert Ragusa,Robert Hill,Nancy Arnold,hjuhn@accuray.com,2005-03-01,406042,Sr Mgr Program Management,1240 Deming,North America
+40003,HKOGA,Hidetaka Koga,Hidetaka,Koga,Atsushi Suzuki,Kelly Londy,Juki Hozumi,Atsushi Suzuki,hkoga@accuray.com,2006-04-11,802042,Regional Service Mgr I,Remote - Japan,Japan
+40061,HMIZUTANI,Hideki Mizutani,Hideki,Mizutani,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,hmizutani@accuray.com,2012-07-01,701024,Sales Rep II,Tokyo,Japan
+40008,HOOHASHI,Hirofumi Oohashi,Hirofumi,Oohashi,Kazuyuki Kobayashi,Kelly Londy,Juki Hozumi,Atsushi Suzuki,hoohashi@accuray.com,2008-04-01,808123,Physics/Applications Eng,Tokyo,Japan
+723,HQASSOUDI,Hadi Qassoudi,Hadi,Qassoudi,Shiby John,Robert Ragusa,Robert Hill,Marcus Bittman,hqassoudi@accuray.com,2007-02-05,404024,Software Engr IV,1310 Chesapeake,North America
+60090,HSCHALLER,Hermann Schaller,Hermann,Schaller,Kirsti Gordon,Robert Ragusa,Michael Deghuee,Kirsti Gordon,hschaller@accuray.com,2013-07-01,704022,Sales Specialist II,Remote - UK,EIMEA
+1554,HTSCHOPIK,Harry Tschopik,Harry,Tschopik,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,htschopik@accuray.com,2003-10-15,601942,Sr Mgr Product Marketing,1240 Deming,North America
+431,HVELASCO,Hansel Velasco,Hansel,Velasco,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,hvelasco@accuray.com,2010-09-16,502013,Production Tech III,1310 Orleans,North America
+40044,HWATANABE,Hiroyuki Watanabe,Hiroyuki,Watanabe,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,hwatanabe@accuray.com,2011-12-05,802012,Field Service Engr II,Remote - Japan,Japan
+340,HWILKERSON,Heather Wilkerson,Heather,Wilkerson,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,hwilkerson@accuray.com,2003-06-30,651042,Sr Mgr Customer Training,Remote - US,North America
+50110,hzhou,Hua Zhou,Hua,Zhou,Frida Wu,Robert Ragusa,Robert Zahn,Guang Fang,hzhou@accuray.com,2012-03-01,508034,Car Driver IV,Chengdu,APAC
+734,IASTRALAGA,Ivan Astralaga,Ivan,Astralaga,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,iastralaga@accuray.com,2007-02-26,701061,VP Sales,Remote - US,North America
+3112,ICHAUDHRY,Iftikhar Chaudhry,Iftikhar,Chaudhry,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,ichaudhry@accuray.com,2012-11-26,601051,Dir Marketing,1310 Chesapeake,North America
+829,ISMALL,Ian Small,Ian,Small,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,ismall@accuray.com,2007-12-03,704022,Sales Specialist II,Remote - US,North America
+3209,ITERRAHE,Ilka Terrahe,Ilka,Terrahe,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,iterrahe@accuray.com,2013-08-01,703022,Sales Ops Specialist II,Morges,EIMEA
+1083,JABBA,Jessica Abba,Jessica,Abba,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,jabba@accuray.com,2006-07-11,153023,Development QA Engr III,1240 Deming,North America
+1085,JACCOLA,Jason Accola,Jason,Accola,James Jacoby,Robert Ragusa,Robert Hill,Thomas Finnessy,jaccola@accuray.com,2007-06-12,409022,Continuing Engineer II,1240 Deming,North America
+40033,JAIKO,Junko Aiko,Junko,Aiko,Takako Takeda,Kelly Londy,Juki Hozumi,Takako Takeda,jaiko@accuray.com,2011-05-11,601223,Marketing Specialist III,Tokyo,Japan
+3197,JAWU,Zhou Wu,Zhou,Wu,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,jawu@accuray.com,2013-07-01,503051,Dir Manufacturing,Chengdu,APAC
+1111,JBARROWS,Jason Barrows,Jason,Barrows,Brian Dresen,Robert Ragusa,Robert Zahn,Brian Dresen,jbarrows@accuray.com,2007-09-11,506014,Material Handler IV,1209 Deming,North America
+1121,JBIDDLE,Jacob Biddle,Jacob,Biddle,Bradley Lang,Robert Ragusa,John Liebig,Abby Ngampongsai,jbiddle@accuray.com,2008-08-12,806029,Tech Support Engr NE,Remote - US,North America
+3004,JBILICH,James Bilich,James,Bilich,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,jbilich@accuray.com,2012-07-09,601942,Sr Mgr Product Marketing,1320 Chesapeake,North America
+3213,JBLIECK,Joshua De Blieck,Joshua,De Blieck,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,jblieck@accuray.com,2013-09-01,802011,Field Service Engr I,Remote - Germany,EIMEA
+685,JBRAY,JoAnn Bray,JoAnn,Bray,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,jbray@accuray.com,2007-11-12,372024,Business Sys Analyst IV,1209 Deming,North America
+588,JBRITTON,Douglas Britton,Douglas,Britton,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,jbritton@accuray.com,2006-04-24,802013,Field Service Engr III,1310 Chesapeake,North America
+529,JBROOKS,Jason Brooks,Jason,Brooks,James English,Kelly Londy,Bill Yeado,James English,jbrooks@accuray.com,2006-01-03,704024,Territory Clinical Specialist,Remote - US,North America
+1145,JBRUNKER,Jeff Brunker,Jeff,Brunker,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,jbrunker@accuray.com,2004-01-05,507015,Test Technician V,1209 Deming,North America
+1147,JBRUST,Jeffrey Brust,Jeffrey,Brust,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,jbrust@accuray.com,2005-06-13,802014,Field Service Engr IV,Remote - US,North America
+20147,JBRUYNINCKX,John Bruyninckx,John,Bruyninckx,Denis Hafon,Robert Ragusa,Xavier de Misouard,Denis Hafon,jbruyninckx@accuray.com,2011-09-01,406023,Project Manager III (R&D),Brussels,EIMEA
+848,JCASH,James Cash,James,Cash,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,jcash@accuray.com,2008-02-19,404022,Software Engr II,1310 Chesapeake,North America
+1043,JCHAPPELOW,Jonathan Chappelow,Jonathan,Chappelow,Petr Jordan,Robert Ragusa,Calvin Maurer Jr,Petr Jordan,jchappelow@accuray.com,2011-02-07,401022,Research Scientist II,1310 Chesapeake,North America
+1178,JCLEMENTE,Jessamine Clemente,Jessamine,Clemente,Elizabeth Osuna,Robert Ragusa,Lee Ann Harris,Elizabeth Osuna,jclemente@accuray.com,2004-05-17,157524,Technical Writer IV,1240 Deming,North America
+1362,JCLENTZ,Jason Lentz,Jason,Lentz,Bill Benton,Andy Kirkpatrick,Bill Benton,Bill Benton,jclentz@accuray.com,2010-11-30,402513,Mech Designer III,1209 Deming,North America
+1690,JCORTEZ,Jennice Cortez,Jennice,Cortez,Joyce Bernardo,Robert Ragusa,Joyce Bernardo,Joyce Bernardo,jcortez@accuray.com,2012-02-14,101211,Receptionist I,1310 Chesapeake,North America
+872,JCUYLER,Jermaine Cuyler,Jermaine,Cuyler,James English,Kelly Londy,Bill Yeado,James English,jcuyler@accuray.com,2008-04-14,709021,Territory Sales Director I,Remote - US,North America
+1693,JDENISI,John DeNisi,John,DeNisi,Richard Nash,Robert Ragusa,Robert Hill,Marcus Bittman,jdenisi@accuray.com,2012-02-21,404026,Software Engr VI,Remote - US,North America
+3124,JDEPAULA,Jean Pierre de Paula,Jean Pierre,de Paula,Bill Benton,Andy Kirkpatrick,Bill Benton,Bill Benton,jdepaula@accuray.com,2012-12-17,803624,Customer Ops Reg Mgr,Remote - Brazil,LATAM
+154,JDOOLEY,John Dooley,John,Dooley,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,jdooley@accuray.com,1997-06-24,401141,Mgr Treat Plng Research,1310 Chesapeake,North America
+1653,JEHRLICH,Jason Ehrlich,Jason,Ehrlich,Eitan Zohar,Darl Moreland,Eitan Zohar,Eitan Zohar,jehrlich@accuray.com,2011-11-07,153042,Sr Mgr Development QA,Remote - US,North America
+1216,JELKO,Joseph Elko,Joseph,Elko,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,jelko@accuray.com,2006-10-02,802013,Field Service Engr III,Remote - US,North America
+356,JENGLISH,James English,James,English,Bill Yeado,Kelly Londy,Bill Yeado,Bill Yeado,jenglish@accuray.com,2012-04-03,701052,Sr Dir Sales,Remote - US,North America
+1219,JEURAQUE,Joaquin Euraque,Joaquin,Euraque,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jeuraque@accuray.com,2008-04-07,802013,Field Service Engr III,Remote - US,North America
+527,JEVANS,Jayme Evans,Jayme,Evans,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,jevans@accuray.com,2006-01-01,802014,Field Service Engr IV,Remote - US,North America
+20077,JFAY,Jerome Fay,Jerome,Fay,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,jfay@accuray.com,2011-04-04,802014,Field Service Engr IV,Remote - Germany,EIMEA
+1685,JFERNANDO,Johann Fernando,Johann,Fernando,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,jfernando@accuray.com,2012-02-13,601052,Sr Dir Marketing,1310 Chesapeake,North America
+1227,JFLICK,Jeffrey Flick,Jeffrey,Flick,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,jflick@accuray.com,2004-06-01,402224,Systems Engr IV,1240 Deming,North America
+1229,JFOOTE,JoAnn Foote,JoAnn,Foote,Tosha Fugate,Robert Ragusa,Larry Voster,Tosha Fugate,jfoote@accuray.com,2005-06-06,504121,Buyer/Planner I,1209 Deming,North America
+3138,JFORTUNA,Julius Fortuna,Julius,Fortuna,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,jfortuna@accuray.com,2013-01-21,708051,Reg Business Director,Remote - US,North America
+940,JGAO,Jian Gao,Jian,Gao,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,jgao@accuray.com,2009-02-09,402241,Mgr Device Controls,1310 Chesapeake,North America
+20081,JGERARD,Julien Gerard,Julien,Gerard,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,jgerard@accuray.com,2007-07-01,804023,Medical Physicist III,Brussels,EIMEA
+972,JGERSCHWILER,Judith Gerschwiler,Judith,Gerschwiler,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,jgerschwiler@accuray.com,2010-01-11,651024,Training Specialist IV,Remote - US,North America
+1249,JGLISSENDORF,Jerry Glissendorf,Jerry,Glissendorf,Brian Dresen,Robert Ragusa,Robert Zahn,Brian Dresen,jglissendorf@accuray.com,2006-04-25,505524,Traffic/Ship Coord IV,1209 Deming,North America
+1691,JGOCHOCO,Josephine Gochoco,Josephine,Gochoco,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,jgochoco@accuray.com,2012-05-21,202014,Accounting Clerk IV,1320 Chesapeake,North America
+876,JGORMAN,Jason Gorman,Jason,Gorman,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,jgorman@accuray.com,2008-04-21,807041,Mgr Clinical Support,Remote - US,North America
+1257,JGROGAN,James Grogan,James,Grogan,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,jgrogan@accuray.com,2007-06-25,802013,Field Service Engr III,Remote - US,North America
+1264,JHALDEMANN,Jason Haldemann,Jason,Haldemann,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,jhaldemann@accuray.com,2004-03-29,507015,Test Technician V,1209 Deming,North America
+1265,JHAMILTON,John Hamilton,John,Hamilton,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,jhamilton@accuray.com,2011-01-11,801212,Service Dev Eng II,1240 Deming,North America
+3200,JHAMMER,Janine Hammer,Janine,Hammer,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,jhammer@accuray.com,2013-09-01,151024,RA QA Technical Mgr,Morges,EIMEA
+50073,jhe,Jun He,Jun,He,Frida Wu,Robert Ragusa,Robert Zahn,Guang Fang,jhe@accuray.com,2010-11-01,504121,Buyer/Planner I,Chengdu,APAC
+1275,JHEIL,Jeremy Heil,Jeremy,Heil,Marcus Bittman,Robert Ragusa,Robert Hill,Marcus Bittman,jheil@accuray.com,2011-01-18,408041,Mgr Treatment Planning,1240 Deming,North America
+1280,JHICKLIN,Jeff Hicklin,Jeff,Hicklin,Jeffrey Zondag,Darl Moreland,Jeffrey Zondag,Jeffrey Zondag,jhicklin@accuray.com,2011-02-01,152024,Quality Engr IV,1209 Deming,North America
+1762,JHOMP,Joseph Homp,Joseph,Homp,Eric Schnarr,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,jhomp@accuray.com,2012-06-04,401023,Research Scientist III,1240 Deming,North America
+1295,JHOOPER,John Hooper,John,Hooper,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,jhooper@accuray.com,2008-03-17,802013,Field Service Engr III,Remote - US,North America
+3094,JHOSTETTLER,Joelle Hostettler Rueger,Joelle,Hostettler Rueger,Nicolas Gex,Theresa Dadone,Nicolas Gex,Nicolas Gex,jhostettler@accuray.com,2012-11-01,301041,Mgr Human Resources,Morges,EIMEA
+1597,JHOVEY,Jerry Hovey,Jerry,Hovey,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,jhovey@accuray.com,2011-05-31,507014,Test Technician IV,1310 Orleans,North America
+40019,JHOZUMI,Juki Hozumi,Juki,Hozumi,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,jhozumi@accuray.com,2009-11-01,101051,Managing Director Country,Tokyo,Japan
+3056,JHUNT,Jennifer Hunt,Jennifer,Hunt,Steve Wright,Kelly Londy,Bill Yeado,Steve Wright,jhunt@accuray.com,2012-09-10,704024,Territory Clinical Specialist,Remote - US,North America
+3024,JJACKSON,John Jackson,John,Jackson,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,jjackson@accuray.com,2012-07-30,371013,Desktop Sup Spec III,1320 Chesapeake,North America
+1302,JJACOBY,James Jacoby,James,Jacoby,Scott Adler,Robert Ragusa,Robert Hill,Thomas Finnessy,jjacoby@accuray.com,2005-09-27,405041,Mgr Electrical Engrg,1240 Deming,North America
+1312,JJONES,Jeffrey Jones,Jeffrey,Jones,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,jjones@accuray.com,2007-09-17,802013,Field Service Engr III,Remote - US,North America
+3221,JKENNEY,John Kenney,John,Kenney,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,jkenney@accuray.com,2013-09-03,801212,Service Dev Eng II,1240 Deming,North America
+924,JKIHARA,Jean Kihara,Jean,Kihara,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,jkihara@accuray.com,2008-12-08,152042,Sr Mgr Quality Assurance,1310 Orleans,North America
+1326,JKING,Joshua King,Joshua,King,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,jking@accuray.com,2008-07-21,802014,Field Service Engr IV,Remote - US,North America
+3187,JKINROSS,Jeffrey Kinross,Jeffrey,Kinross,Jeremy Heil,Robert Ragusa,Robert Hill,Marcus Bittman,jkinross@accuray.com,2013-06-17,404024,Software Engr IV,1240 Deming,North America
+1332,JKLEVENBERG,Jerry Klevenberg,Jerry,Klevenberg,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,jklevenberg@accuray.com,2008-09-29,802013,Field Service Engr III,Remote - US,North America
+1335,JKNIGHT,Jeffery Knight,Jeffery,Knight,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,jknight@accuray.com,2005-06-20,502013,Production Tech III,1209 Deming,North America
+3254,JKXU,Jian Kang Xu,Jian Kang,Xu,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,jkxu@accuray.com,2013-10-27,601923,Product Mktg Manager III,Shanghai,APAC
+3129,jlai,Wai Chuen Lai,Wai Chuen,Lai,Frederick Romeo,Robert Ragusa,Xavier de Misouard,Tim Dowden,jlai@accuray.com,2013-01-02,806022,Tech Support Engr II,Hong Kong,APAC
+1363,JLEONARD,Joseph Leonard,Joseph,Leonard,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,jleonard@accuray.com,2010-09-14,157522,Technical Writer II,1209 Deming,North America
+1364,JLETUSICK,John Letusick,John,Letusick,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jletusick@accuray.com,2011-04-11,802013,Field Service Engr III,Remote - US,North America
+3083,JLEVINE,Joshua Levine,Joshua,Levine,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,jlevine@accuray.com,2012-10-12,101074,President & CEO,1310 Chesapeake,North America
+746,JLIEBIG,John Liebig,John,Liebig,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,jliebig@accuray.com,2007-04-16,802061,VP Global Field Services,1310 Chesapeake,North America
+3190,JLOPEZ,Jose Lopez,Jose,Lopez,Steve Wright,Kelly Londy,Bill Yeado,Steve Wright,jlopez@accuray.com,2013-07-08,708024,Territory Sales Manager,Remote - US,North America
+1378,JLUND,Jeremy Lund,Jeremy,Lund,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,jlund@accuray.com,2003-01-06,404024,Software Engr IV,1240 Deming,North America
+50078,jluo,Jie Luo,Jie,Luo,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,jluo@accuray.com,2011-08-23,502014,Production Tech IV,Chengdu,APAC
+478,JMCCOY,Jonathan McCoy,Jonathan,McCoy,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,jmccoy@accuray.com,2005-06-19,402223,Systems Engr III,1310 Chesapeake,North America
+1392,JMCCUBBIN,Joel McCubbin,Joel,McCubbin,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,jmccubbin@accuray.com,2004-11-01,502015,Production Tech V,1209 Deming,North America
+1393,JMCDANIEL,Jerad McDaniel,Jerad,McDaniel,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jmcdaniel@accuray.com,2007-07-16,802013,Field Service Engr III,Remote - US,North America
+1395,JMCINTOSH,Jonathan McIntosh,Jonathan,McIntosh,Thomas Finnessy,Robert Ragusa,Robert Hill,Thomas Finnessy,jmcintosh@accuray.com,2001-09-18,402341,Mgr Syst & Reliability Eng,1240 Deming,North America
+817,JMORAN,Joshua Moran,Joshua,Moran,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,jmoran@accuray.com,2007-11-12,801212,Service Dev Eng II,1320 Chesapeake,North America
+656,JMORRIS,Jeffrey Morris,Jeffrey,Morris,Charles Pigos,Robert Ragusa,Larry Voster,Charles Pigos,jmorris@accuray.com,2006-08-30,504123,Buyer/Planner III,1310 Orleans,North America
+1409,JMUEHLENKAMP,Joseph Muehlenkamp,Joseph,Muehlenkamp,Matthew Beneke,Robert Ragusa,Robert Hill,Thomas Finnessy,jmuehlenkamp@accuray.com,2006-10-24,402223,Systems Engr III,1240 Deming,North America
+3109,JNBROWN,Jason Brown,Jason,Brown,Jean Kihara,Darl Moreland,Jean Kihara,Jean Kihara,jnbrown@accuray.com,2012-11-19,152024,Quality Engr IV,1310 Orleans,North America
+1110,JOEBARNI,Joseph Barni,Joseph,Barni,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,joebarni@accuray.com,2001-09-25,507041,Mgr Manufacturing Test,1209 Deming,North America
+1428,JOLSEN,Joshua Olsen,Joshua,Olsen,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,jolsen@accuray.com,2007-03-27,153022,Development QA Engr II,1240 Deming,North America
+1047,JOVERMOYER,James Overmoyer,James,Overmoyer,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jovermoyer@accuray.com,2011-02-21,802013,Field Service Engr III,Remote - US,North America
+1778,JPABON,Jose Pabon,Jose,Pabon,Sean Rokni,Robert Ragusa,Robert Hill,Sohail Sayeh,jpabon@accuray.com,2013-04-08,402015,Engineering Tech V,1310 Chesapeake,North America
+50080,jpan,Junchao Pan,Junchao,Pan,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,jpan@accuray.com,2008-11-03,502015,Production Tech V,Chengdu,APAC
+1436,JPARFIEVICH,John Parfievich,John,Parfievich,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,jparfievich@accuray.com,2005-01-03,502013,Production Tech III,1209 Deming,North America
+1439,JPARSONS,Jill Parsons,Jill,Parsons,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,jparsons@accuray.com,2007-02-06,802013,Field Service Engr III,Remote - US,North America
+1734,JPATTERSON,Jeffrey Patterson,Jeffrey,Patterson,Michael Stratford Collins,Robert Ragusa,Michael Stratford Collins,Michael Stratford Collins,jpatterson@accuray.com,2012-11-12,406024,Project Manager IV (R&D),1310 Orleans,North America
+20068,JPCAGE,Jean-Philippe Cage,Jean-Philippe,Cage,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,jpcage@accuray.com,2009-01-26,802013,Field Service Engr III,Remote - France,EIMEA
+1444,JPEACOCK,John Peacock,John,Peacock,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,jpeacock@accuray.com,2008-02-05,409023,Continuing Engineer III,1209 Deming,North America
+414,JPEPPER,Jeremiah Pepper,Jeremiah,Pepper,John Liebig,Robert Ragusa,John Liebig,John Liebig,jpepper@accuray.com,2005-01-06,802043,Regional Service Mgr II,1310 Chesapeake,North America
+20091,JPLANASPEZE,Jean-Philippe Lanaspeze,Jean-Philippe,Lanaspeze,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,jplanaspeze@accuray.com,2007-01-01,802013,Field Service Engr III,Remote - France,EIMEA
+3058,JPOST,Jeffrey Post,Jeffrey,Post,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,jpost@accuray.com,2012-09-01,806021,Tech Support Engr I,Morges,EIMEA
+3239,JPSIER,Jean-Paul Sier,Jean-Paul,Sier,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,jpsier@accuray.com,2013-10-07,601942,Sr Mgr Product Marketing,1310 Chesapeake,North America
+3122,JQUIROZ,Jorge Quiroz,Jorge,Quiroz,Michael Stratford Collins,Robert Ragusa,Michael Stratford Collins,Michael Stratford Collins,jquiroz@accuray.com,2012-12-17,508013,Facilities Tech III,1310 Orleans,North America
+446,JQUISQUINO,Joyce Bernardo,Joyce,Bernardo,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,jquisquino@accuray.com,2005-03-07,101031,Supv Admin Services,1310 Orleans,North America
+1465,JRAPPAPORT,Jeffrey Rappaport,Jeffrey,Rappaport,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,jrappaport@accuray.com,2006-09-18,802013,Field Service Engr III,Remote - US,North America
+20148,JREYES,Julio Reyes,Julio,Reyes,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,jreyes@accuray.com,2011-10-07,802013,Field Service Engr III,Remote - France,EIMEA
+427,JROCK,John Rock,John,Rock,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,jrock@accuray.com,2003-05-05,802014,Field Service Engr IV,Remote - US,North America
+1478,JRODRIGUEZ,Josue Rodriguez,Josue,Rodriguez,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,jrodriguez@accuray.com,2007-08-27,802013,Field Service Engr III,Remote - US,North America
+60083,JROLLINS,Jessica Rollins,Jessica,Rollins,Joel Traurig,Theresa Dadone,Joel Traurig,Joel Traurig,jrollins@accuray.com,2013-10-14,302012,HR Admin II,1310 Chesapeake,North America
+455,JSACMAR,Joy Sacmar,Joy,Sacmar,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,jsacmar@accuray.com,2005-04-11,151061,VP QA & RA,1310 Chesapeake,North America
+1507,JSCHUMAN,Jesse Schuman,Jesse,Schuman,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jschuman@accuray.com,2007-02-19,802014,Field Service Engr IV,Remote - US,North America
+867,JSHAFFER,John Shaffer,John,Shaffer,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,jshaffer@accuray.com,2008-03-31,802013,Field Service Engr III,Remote - US,North America
+50021,JSINGH,Jagmeet Singh,Jagmeet,Singh,Remi Bavu,Robert Ragusa,Xavier de Misouard,Remi Bavu,jsingh@accuray.com,2008-09-01,802014,Field Service Engr IV,Remote - India,EIMEA
+3149,JSKRZYCKI,Jonathan Skrzycki,Jonathan,Skrzycki,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jskrzycki@accuray.com,2013-03-04,802013,Field Service Engr III,Remote - US,North America
+748,JSLI,Jonathan Li,Jonathan,Li,Michael Stratford Collins,Robert Ragusa,Michael Stratford Collins,Michael Stratford Collins,jli@accuray.com,2007-04-23,503042,Mgr Mfg Engineering,1310 Orleans,North America
+1533,JSTEWART,Jeffrey Stewart,Jeffrey,Stewart,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,jstewart@accuray.com,2005-05-09,802014,Field Service Engr IV,Remote - US,North America
+1536,JSUDMEIER,Jeffrey Sudmeier,Jeffrey,Sudmeier,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,jsudmeier@accuray.com,2007-11-06,153023,Development QA Engr III,1240 Deming,North America
+644,JSWAUGER,Joseph Swauger,Joseph,Swauger,John Liebig,Robert Ragusa,John Liebig,John Liebig,jswauger@accuray.com,2006-08-01,802043,Regional Service Mgr II,Remote - US,North America
+1538,JSZOLYGA,Jon Szolyga,Jon,Szolyga,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,jszolyga@accuray.com,2007-06-01,409023,Continuing Engineer III,1209 Deming,North America
+20119,JTCRENDE,Jorge Trabada Crende,Jorge,Trabada Crende,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,jtcrende@accuray.com,2006-09-01,802013,Field Service Engr III,Remote - Spain,EIMEA
+1544,JTEVICH,Jeffrey Tevich,Jeffrey,Tevich,Andy Prochaska,Robert Ragusa,Robert Zahn,Gary Tarpinian,jtevich@accuray.com,2006-06-27,409022,Continuing Engineer II,1209 Deming,North America
+1658,JTRAURIG,Joel Traurig,Joel,Traurig,Theresa Dadone,Theresa Dadone,Theresa Dadone,Theresa Dadone,jtraurig@accuray.com,2011-11-14,302051,Dir Talent Acquisition,1310 Chesapeake,North America
+1552,JTROIA,Jeffery Troia,Jeffery,Troia,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,jtroia@accuray.com,2006-10-17,502013,Production Tech III,1209 Deming,North America
+1556,JURBAN,Jack Urban,Jack,Urban,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,jurban@accuray.com,2006-08-07,802013,Field Service Engr III,Remote - US,North America
+1557,JURBINE,Ronald Urbine,Ronald,Urbine,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,jurbine@accuray.com,2007-12-10,802013,Field Service Engr III,Remote - US,North America
+1561,JVASOLD,Jeffrey Vasold,Jeffrey,Vasold,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,jvasold@accuray.com,2006-08-07,802014,Field Service Engr IV,Remote - US,North America
+762,JVELASCO,Johnny Velasco,Johnny,Velasco,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,jvelasco@accuray.com,2007-05-21,502013,Production Tech III,1310 Orleans,North America
+1568,JWALACH,James Walach,James,Walach,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,jwalach@accuray.com,2008-01-21,802013,Field Service Engr III,Remote - US,North America
+3117,JWALTERS,John Walters,John,Walters,Rebecca Andersen,Darl Moreland,Rebecca Andersen,Rebecca Andersen,jwalters@accuray.com,2012-12-03,155523,Product Complaint Spec III,1240 Deming,North America
+124,JWANG,Jin-Wu Wang,Jin-Wu,Wang,Nancy Arnold,Robert Ragusa,Robert Hill,Nancy Arnold,jwang@accuray.com,1998-07-16,406025,Project Manager V,1310 Chesapeake,North America
+1570,JWARRINGTON,John Warrington,John,Warrington,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,jwarrington@accuray.com,2011-03-21,802013,Field Service Engr III,Remote - US,North America
+1579,JWESTMONT,John Westmont,John,Westmont,Eitan Zohar,Darl Moreland,Eitan Zohar,Eitan Zohar,jwestmont@accuray.com,2001-01-08,153042,Sr Mgr Development QA,1240 Deming,North America
+713,JWHITE,Jack White,Jack,White,Eddie Martinez,Robert Ragusa,Larry Voster,Eddie Martinez,jwhite@accuray.com,2007-01-29,504124,Buyer/Planner IV,1310 Orleans,North America
+473,JWLIU,Jonathan Liu,Jonathan,Liu,Nancy Arnold,Robert Ragusa,Robert Hill,Nancy Arnold,jwliu@accuray.com,2005-06-08,406023,Project Manager III (R&D),1310 Chesapeake,North America
+50033,JWONG,Khee Meng Wong,Khee Meng,Wong,Tim Dowden,Robert Ragusa,Xavier de Misouard,Tim Dowden,jwong@accuray.com,2006-09-04,406025,Project Manager V,Remote - Singapore,APAC
+1588,JWOZNIAK,James Wozniak,James,Wozniak,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,jwozniak@accuray.com,2007-04-23,802014,Field Service Engr IV,Remote - US,North America
+1012,JYSINGH,Jyoti Singh,Jyoti,Singh,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,jysingh@accuray.com,2010-09-13,155522,Product Complaint Spec II,1310 Chesapeake,North America
+1663,JZONDAG,Jeffrey Zondag,Jeffrey,Zondag,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,jzondag@accuray.com,2011-12-05,152042,Sr Mgr Quality Assurance,1209 Deming,North America
+3177,JZUG,James Zug,James,Zug,Marcus Bittman,Robert Ragusa,Robert Hill,Marcus Bittman,jzug@accuray.com,2013-05-28,408041,Mgr Treatment Planning,1310 Chesapeake,North America
+1098,KARTEL,Keith Artel,Keith,Artel,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,kartel@accuray.com,2010-08-31,404023,Software Engr III,1240 Deming,North America
+3118,KBERTSCHE,Kirk Bertsche,Kirk,Bertsche,Richard Sah,Robert Ragusa,Robert Hill,Sohail Sayeh,kbertsche@accuray.com,2012-12-03,401524,Physicist IV,1310 Orleans,North America
+1130,KBGARRISON,Katherine Bolger-Garrison,Katherine,Bolger-Garrison,Randy Joswig,Darl Moreland,Randy Joswig,Randy Joswig,kbgarrison@accuray.com,2004-05-24,157014,Doc Control Spec IV,1240 Deming,North America
+668,KBRIGHAM,Kevin Brigham,Kevin,Brigham,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,kbrigham@accuray.com,2006-09-25,802014,Field Service Engr IV,Remote - US,North America
+1142,KBROWN,Kevin Brown,Kevin,Brown,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,kbrown@accuray.com,2006-08-21,802013,Field Service Engr III,Remote - US,North America
+1148,KBUDDE,Kevin Budde,Kevin,Budde,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,kbudde@accuray.com,2005-11-29,802014,Field Service Engr IV,Remote - US,North America
+864,KCANN,Kari Cann,Kari,Cann,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,kcann@accuray.com,2008-03-31,401524,Physicist IV,Remote - US,North America
+1173,KCHIN,Kong Chin,Kong,Chin,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,kchin@accuray.com,2008-10-27,802013,Field Service Engr III,Remote - US,North America
+50066,KCWONG,King Cheung Wong,King Cheung,Wong,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,kcwong@accuray.com,2011-09-04,802051,Dir Field Service,Hong Kong,APAC
+361,KDAHLMAN,Kathryn Dahlman,Kathryn,Dahlman,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,kdahlman@accuray.com,2012-04-02,704023,Sales Specialist III,Remote - US,North America
+978,KDUONG,Kevin Duong,Kevin,Duong,Zarina Bhandari,Greg Lichtwardt,Kevin Waters,Marian Chen,kduong@accuray.com,2010-02-23,202224,Revenue Accountant IV,1320 Chesapeake,North America
+20070,KECLARK,Kerry Clark,Kerry,Clark,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,keclark@accuray.com,2007-01-01,802014,Field Service Engr IV,Remote - UK,EIMEA
+40066,KEHIROSE,Kenji Hirose,Kenji,Hirose,Atsushi Suzuki,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kehirose@accuray.com,2012-07-01,802142,Sr Mgr Field Service,Tokyo,Japan
+40045,KENISHI,Keisuke Nishi,Keisuke,Nishi,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kenishi@accuray.com,2012-01-01,802012,Field Service Engr II,Remote - Japan,Japan
+950,KEVANS,Kyle Evans,Kyle,Evans,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,kevans@accuray.com,2009-06-22,802013,Field Service Engr III,Remote - US,North America
+188,KFLECKNER,Kurt Fleckner,Kurt,Fleckner,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,kfleckner@accuray.com,1999-08-16,806023,Tech Support Engr III,1310 Chesapeake,North America
+40037,KFURUNO,Keita Furuno,Keita,Furuno,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kfuruno@accuray.com,2011-08-08,802011,Field Service Engr I,Remote - Japan,Japan
+3013,KGORCZOWSKI,Kevin Gorczowski,Kevin,Gorczowski,Richard Holloway,Robert Ragusa,Robert Hill,Marcus Bittman,kgorczowski@accuray.com,2012-07-16,404023,Software Engr III,Remote - US,North America
+20037,KGORDON,Kirsti Gordon,Kirsti,Gordon,Michael Deghuee,Robert Ragusa,Michael Deghuee,Michael Deghuee,kgordon@accuray.com,2009-07-22,701523,Cust Acct Sales Manager,Remote - UK,EIMEA
+1254,KGRAEBER,James Graeber,James,Graeber,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,kgraeber@accuray.com,2008-01-30,802013,Field Service Engr III,Remote - US,North America
+245,KGULBRAA,Kim Gulbraa,Kim,Gulbraa,Chris McKinley,Robert Ragusa,Michael Stratford Collins,Chris McKinley,kgulbraa@accuray.com,2000-09-18,505524,Traffic/Ship Coord IV,1310 Orleans,North America
+20154,KHAMMOU,Khalid Hammou,Khalid,Hammou,Nicolas Gex,Theresa Dadone,Nicolas Gex,Nicolas Gex,khammou@accuray.com,2012-02-01,301041,Mgr Human Resources,Paris,EIMEA
+40058,KHANAMURA,Kosuke Hanamura,Kosuke,Hanamura,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,khanamura@accuray.com,2012-07-01,802011,Field Service Engr I,Remote - Japan,Japan
+1266,KHANNA,Kenton Hanna,Kenton,Hanna,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,khanna@accuray.com,2007-08-21,373024,System Admin IV,1240 Deming,North America
+1268,KHARLSON,Kenneth Harlson,Kenneth,Harlson,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,kharlson@accuray.com,2007-03-11,502013,Production Tech III,1209 Deming,North America
+1269,KHARMON,Kathryn Harmon,Kathryn,Harmon,Bill Yeado,Kelly Londy,Bill Yeado,Bill Yeado,kharmon@accuray.com,2007-04-09,704024,Territory Clinical Specialist,Remote - US,North America
+50023,KHO,Kwok Weng Ho,Kwok Weng,Ho,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,kho@accuray.com,2011-03-26,701023,Sales Rep I,Remote - Singapore,APAC
+893,KHUANG,Kevin Huang,Kevin,Huang,Jeremiah Pepper,Robert Ragusa,John Liebig,Jeremiah Pepper,khuang@accuray.com,2008-07-07,803114,System Install Engr IV,1310 Chesapeake,North America
+3215,KKING,Kenneth King,Kenneth,King,James English,Kelly Londy,Bill Yeado,James English,kking@accuray.com,2013-08-12,708024,Territory Sales Manager,Remote - US,North America
+1333,KKLINE,Kenneth Kline,Kenneth,Kline,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,kkline@accuray.com,2005-05-30,802014,Field Service Engr IV,Remote - US,North America
+40052,KKOBAYASHI,Kazuyuki Kobayashi,Kazuyuki,Kobayashi,Atsushi Suzuki,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kkobayashi@accuray.com,2012-07-01,807041,Mgr Clinical Support,Tokyo,Japan
+1347,KKVASNICA,Kevin Kvasnica,Kevin,Kvasnica,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,kkvasnica@accuray.com,2008-06-16,401521,Physicist I,1240 Deming,North America
+1360,KLEBISH,Keith Lebish,Keith,Lebish,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,klebish@accuray.com,2008-06-30,802013,Field Service Engr III,Remote - US,North America
+1640,KLONDY,Kelly Londy,Kelly,Londy,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,klondy@accuray.com,2011-10-01,101072,EVP Chief Commerical Officer,1320 Chesapeake,North America
+537,KLUGOSI,Kolos Lugosi,Kolos,Lugosi,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,klugosi@accuray.com,2006-01-16,404041,Mgr Software Engineering,1310 Chesapeake,North America
+40054,KMASUDA,Kenichi Masuda,Kenichi,Masuda,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kmasuda@accuray.com,2012-04-01,802011,Field Service Engr I,Tokyo,Japan
+1396,KMCPHERSON,Kelly McPherson,Kelly,McPherson,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,kmcpherson@accuray.com,2004-01-20,802013,Field Service Engr III,Remote - US,North America
+60061,KMELARA,Karla Melara,Karla,Melara,Eric Marin,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,kmelara@accuray.com,2013-06-01,202022,Accountant II,Morges,EIMEA
+268,KMONROE,Kenneth Monroe,Kenneth,Monroe,Randy Joswig,Darl Moreland,Randy Joswig,Randy Joswig,kmonroe@accuray.com,2001-01-22,157024,Doc Service Spec IV,1310 Orleans,North America
+1411,KMUELLER,Kenneth Mueller,Kenneth,Mueller,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,kmueller@accuray.com,2005-12-05,802014,Field Service Engr IV,Remote - US,North America
+3008,KNEWBY,Kenneth Newby,Kenneth,Newby,Bill Yeado,Kelly Londy,Bill Yeado,Bill Yeado,knewby@accuray.com,2012-07-09,709022,Territory Sales Director II,Remote - US,North America
+3126,KNODERA,Kanako Nodera,Kanako,Nodera,Kiyofumi Uchizato,Greg Lichtwardt,Kevin Waters,Kiyofumi Uchizato,knodera@accuray.com,2013-01-15,202022,Accountant II,Tokyo,Japan
+1430,KOMALLEY,Kevin O'Malley,Kevin,O'Malley,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,komalley@accuray.com,2013-07-15,602042,Sr Mgr Marketing Comm,1240 Deming,North America
+40067,KOSADOHARA,Koji Sadohara,Koji,Sadohara,Atsushi Suzuki,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kosadohara@accuray.com,2012-07-01,802142,Sr Mgr Field Service,Tokyo,Japan
+1438,KPARKER,Kevin Parker,Kevin,Parker,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,kparker@accuray.com,2007-02-27,607051,Dir Business Development,1209 Deming,North America
+1056,KPAVELCHAK,Kyle Nethery-Pavelchak,Kyle,Nethery-Pavelchak,Kolos Lugosi,Robert Ragusa,Robert Hill,Sohail Sayeh,kpavelchak@accuray.com,2011-03-28,404023,Software Engr III,1310 Chesapeake,North America
+1623,KPETTY,Kelley Petty,Kelley,Petty,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,kpetty@accuray.com,2011-07-19,101025,Executive Asst to CEO,1310 Chesapeake,North America
+1456,KPICKER,Keith Picker,Keith,Picker,Greg Bange,Darl Moreland,Joy Sacmar,Greg Bange,kpicker@accuray.com,2005-11-01,155023,Reg Affairs Spec III,1240 Deming,North America
+1482,KRUCHALA,Kenneth Ruchala,Kenneth,Ruchala,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,kruchala@accuray.com,1999-12-01,401052,Sr Dir Research,1209 Deming,North America
+1513,KSHERFINSKI,Kevin Sherfinski,Kevin,Sherfinski,Paul Spalitta,Darl Moreland,Eitan Zohar,Paul Spalitta,ksherfinski@accuray.com,2005-04-25,153024,Development QA Engr IV,Remote - US,North America
+3224,KSIRIANNI,Kayla Sirianni,Kayla,Sirianni,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,ksirianni@accuray.com,2013-09-03,155522,Product Complaint Spec II,1240 Deming,North America
+1527,KSPREDEMANN,Kevin Spredemann,Kevin,Spredemann,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,kspredemann@accuray.com,2010-10-26,404041,Mgr Software Engineering,1240 Deming,North America
+40029,KTOMARI,Kazuharu Tomari,Kazuharu,Tomari,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,ktomari@accuray.com,2011-01-01,701025,Sales Rep III,Remote - Japan,Japan
+40056,KUCHIZATO,Kiyofumi Uchizato,Kiyofumi,Uchizato,Kevin Waters,Greg Lichtwardt,Kevin Waters,Kevin Waters,kuchizato@accuray.com,2012-05-17,201151,Dir Finance,Tokyo,Japan
+3125,KUNEOKA,Kenta Uneoka,Kenta,Uneoka,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,kuneoka@accuray.com,2013-01-21,802011,Field Service Engr I,Tokyo,Japan
+20123,KVANISTENDAE,Kris Van Istendael,Kris,Van Istendael,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,kvanistendael@accuray.com,2006-08-01,801051,Dir Operations,Brussels,EIMEA
+3185,KWATANABE,Kenichi Watanabe,Kenichi,Watanabe,Takako Takeda,Kelly Londy,Juki Hozumi,Takako Takeda,kwatanabe@accuray.com,2013-07-01,601223,Marketing Specialist III,Tokyo,Japan
+3252,KWATERS,Kevin Waters,Kevin,Waters,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,kwaters@accuray.com,2013-10-21,201062,SVP Finance,1320 Chesapeake,North America
+50089,kxia,Ke Xia,Ke,Xia,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,kxia@accuray.com,2010-09-15,502015,Production Tech V,Chengdu,APAC
+822,KZHANG,Kun Zhang,Kun,Zhang,James Zug,Robert Ragusa,Robert Hill,Marcus Bittman,kzhang@accuray.com,2007-11-27,404023,Software Engr III,1310 Chesapeake,North America
+50101,kzhong,Weiguo Zhong,Weiguo,Zhong,Sylvia Huen,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,kzhong@accuray.com,2012-01-04,202042,Sr Mgr Accounting,Chengdu,APAC
+20053,LABIK,Larbi Abik,Larbi,Abik,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,labik@accuray.com,2006-08-01,806023,Tech Support Engr III,Brussels,EIMEA
+3067,LAMENDOLA,Luis Amendola,Luis,Amendola,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,lamendola@accuray.com,2012-10-01,373024,System Admin IV,Morges,EIMEA
+3164,LAUGELLO,Luigi Augello,Luigi,Augello,Kirsti Gordon,Robert Ragusa,Michael Deghuee,Kirsti Gordon,laugello@accuray.com,2013-04-01,704022,Sales Specialist II,Remote - Spain,EIMEA
+20156,LBASTIEN,Bastien Loton,Bastien,Loton,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,bloton@accuray.com,2012-03-19,802012,Field Service Engr II,Remote - France,EIMEA
+3159,LBELLITTO,Lauren Bellitto,Lauren,Bellitto,May Paran,Theresa Dadone,May Paran,May Paran,lbellitto@accuray.com,2013-04-01,301023,Human Resources Rep III,1310 Chesapeake,North America
+837,LCHANG,Lilian Chang,Lilian,Chang,Glen Taniguchi,Greg Lichtwardt,Kevin Waters,Glen Taniguchi,lchang@accuray.com,2008-01-07,202523,Cost Accountant III,1320 Chesapeake,North America
+20073,LDCARLI,Luca De Carli,Luca,De Carli,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,ldcarli@accuray.com,2008-01-07,802013,Field Service Engr III,Remote - Italy,EIMEA
+3097,LDUPRIEZ,Laetitia Dupriez,Laetitia,Dupriez,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,ldupriez@accuray.com,2012-11-01,703022,Sales Ops Specialist II,Morges,EIMEA
+1228,LFOLEY,Lori Ann Foley,Lori Ann,Foley,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,lfoley@accuray.com,2006-12-05,807023,Clinical Support Spec III,Remote - Canada,North America
+3205,LFRANCIA,Lisa Francia,Lisa,Francia,David Schaal,Kelly Londy,Kelly Londy,David Schaal,lfrancia@accuray.com,2013-07-29,603542,Sr Mgr Publications,1310 Chesapeake,North America
+3082,LGOGGIN,Lisa Goggin,Lisa,Goggin,Warren Kilby,Robert Ragusa,Calvin Maurer Jr,Warren Kilby,lgoggin@accuray.com,2012-10-15,401521,Physicist I,1310 Chesapeake,North America
+1256,LGRISHABER,Lucas Grishaber,Lucas,Grishaber,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,lgrishaber@accuray.com,2006-08-15,153023,Development QA Engr III,1240 Deming,North America
+992,LGURVICH,Leonid Gurvich,Leonid,Gurvich,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,lgurvich@accuray.com,2010-05-24,704023,Sales Specialist III,Remote - US,North America
+3093,LHADJADJEBA,Lionel Hadjadjeba,Lionel,Hadjadjeba,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,lhadjadjeba@accuray.com,2012-11-01,101061,General Manager,Morges,EIMEA
+350,LHARRIS,Lee Ann Harris,Lee Ann,Harris,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,lharris@accuray.com,2004-01-05,807161,Sr Dir Global Customer Support and Training,1310 Chesapeake,North America
+1272,LHATFIELD,Sherwood Hatfield,Sherwood,Hatfield,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,lhatfield@accuray.com,2005-01-10,507014,Test Technician IV,1209 Deming,North America
+1276,LHEINRICHS,Lawrence Heinrichs,Lawrence,Heinrichs,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,lheinrichs@accuray.com,2005-11-07,802014,Field Service Engr IV,Remote - US,North America
+1296,LHOWARD,Laurie Howard,Laurie,Howard,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,lhoward@accuray.com,2006-06-13,602724,Event Coordinator IV,1240 Deming,North America
+986,LHUTCHINSON,Lee Hutchinson,Lee,Hutchinson,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,lhutchinson@accuray.com,2010-04-26,371042,Sr Mgr Infrastructure,1320 Chesapeake,North America
+3198,LILI,Lin Li,Lin,Li,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,lili@accuray.com,2013-07-01,701025,Sales Rep III,Shanghai,APAC
+1607,LKOKONA,Leida Kokona,Leida,Kokona,Ron Chavez,Robert Ragusa,John Liebig,Ron Chavez,lkokona@accuray.com,2012-12-18,801114,Knowledge Engineer IV,1310 Chesapeake,North America
+20092,LLAVIEVILLE,Laurent Lavieville,Laurent,Lavieville,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,llavieville@accuray.com,2010-05-25,802013,Field Service Engr III,Remote - France,EIMEA
+50007,LLEUNG,Kar Lai Leung,Kar Lai,Leung,Sylvia Huen,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,lleung@accuray.com,2006-03-01,202041,Mgr Accounting,Hong Kong,APAC
+1369,LLINDALL,Linda Lindall,Linda,Lindall,Heather Wilkerson,Robert Ragusa,Lee Ann Harris,Heather Wilkerson,llindall@accuray.com,2007-09-18,102023,Project Manager III (Admin),1240 Deming,North America
+914,LMAYNARD,Linda Maynard,Linda,Maynard,Bill Benton,Andy Kirkpatrick,Bill Benton,Bill Benton,lmaynard@accuray.com,2008-11-03,803624,Customer Ops Reg Mgr,Remote - US,North America
+1000,LMCCUMBER,Linda McCumber,Linda,McCumber,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,lmccumber@accuray.com,2010-07-06,807024,Clinical Support Spec IV,Remote - US,North America
+1412,LNAGLER,Laura Nagler,Laura,Nagler,Lauren Thliveris,Robert Ragusa,Robert Hill,Gerald Fordyce,lnagler@accuray.com,2007-12-18,154023,Release Engr III,1240 Deming,North America
+426,LPEEREN,Luc Peeren,Luc,Peeren,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,lpeeren@accuray.com,2002-09-01,507015,Test Technician V,1310 Orleans,North America
+20040,LPEYRE,Ludovic Peyre,Ludovic,Peyre,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,lpeyre@accuray.com,2010-03-22,651023,Training Specialist III,Remote - Spain,EIMEA
+1475,LROBECK,Lyle Robeck,Lyle,Robeck,Bradley Lang,Robert Ragusa,John Liebig,Abby Ngampongsai,lrobeck@accuray.com,2006-10-10,806029,Tech Support Engr NE,1209 Deming,North America
+1765,LRODRIQUEZ,Lola Rodriquez,Lola,Rodriquez,Darren Milliken,Darren Milliken,Darren Milliken,Darren Milliken,lrodriquez@accuray.com,2012-06-04,353014,Paralegal IV,1320 Chesapeake,North America
+1510,LSESTO,Louis Sesto,Louis,Sesto,James English,Kelly Londy,Bill Yeado,James English,lsesto@accuray.com,2003-11-03,709023,Territory Sales Director III,Remote - US,North America
+1546,LTHLIVERIS,Lauren Thliveris,Lauren,Thliveris,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,lthliveris@accuray.com,2007-06-26,154024,Release Engr IV,1240 Deming,North America
+1738,LTON,Lena Ton,Lena,Ton,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,lton@accuray.com,2012-04-23,201023,Financial Analyst III,1320 Chesapeake,North America
+50097,luqi,Lisa Yuan Qi,Lisa,Yuan Qi,Nicolas Gex,Theresa Dadone,Nicolas Gex,Nicolas Gex,luqi@accuray.com,2011-08-24,308022,HR Business Partner II,Chengdu,APAC
+1041,LVOSTER,Larry Voster,Larry,Voster,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,lvoster@accuray.com,2011-02-07,501061,VP Operations,1310 Orleans,North America
+3218,LWALTER,Laura Walter,Laura,Walter,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,lwalter@accuray.com,2013-09-03,155523,Product Complaint Spec III,1240 Deming,North America
+50094,lyang,Lin Yang,Lin,Yang,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,lyang@accuray.com,2010-02-01,502014,Production Tech IV,Chengdu,APAC
+50079,lyi,Yi Luo,Yi,Luo,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,lyi@accuray.com,2011-01-04,502014,Production Tech IV,Chengdu,APAC
+1084,MABUSBEIH,Majdi Abu Sbeih,Majdi,Abu Sbeih,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,mabusbeih@accuray.com,2005-08-29,802014,Field Service Engr IV,Remote - US,North America
+3144,MAINGUYEN,Mai Nguyen,Mai,Nguyen,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,mainguyen@accuray.com,2013-02-19,202024,Accountant IV,1320 Chesapeake,North America
+1091,MANDAZOLA,Michael Andazola,Michael,Andazola,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,mandazola@accuray.com,2007-10-29,802013,Field Service Engr III,Remote - US,North America
+3039,MAPPELL,Matthias Appell,Matthias,Appell,Philippe Degreze,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,mappell@accuray.com,2012-09-03,602021,Marcom Specialist I,Paris,EIMEA
+954,MATZ,Michael Atz,Michael,Atz,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,miatz@accuray.com,2013-06-26,802013,Field Service Engr III,Remote - US,North America
+20084,MBACHEM,Michael Bachem,Michael,Bachem,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,mbachem@accuray.com,2011-06-01,806022,Tech Support Engr II,Remote - Netherlands,EIMEA
+1102,MBADER,Michael Bader,Michael,Bader,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,mbader@accuray.com,2006-09-04,806024,Tech Support Engr IV,Remote - United Arab Emirates,EIMEA
+357,MBATOG,Mark Batog,Mark,Batog,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,mbatog@accuray.com,2004-03-22,807024,Clinical Support Spec IV,Remote - US,North America
+20049,MBELYAKOVA,Marina Belyakova,Marina,Belyakova,Achim Schefczik,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,mbelyakova@accuray.com,2011-02-14,704022,Sales Specialist II,Remote - Russia,EIMEA
+1118,MBENEKE,Matthew Beneke,Matthew,Beneke,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,mbeneke@accuray.com,2006-05-30,402224,Systems Engr IV,1240 Deming,North America
+20061,MBERTI,Matteo Berti,Matteo,Berti,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,mberti@accuray.com,2008-07-01,802014,Field Service Engr IV,Remote - Italy,EIMEA
+850,MBITTMAN,Marcus Bittman,Marcus,Bittman,Robert Hill,Robert Ragusa,Robert Hill,Robert Hill,mbittman@accuray.com,2008-02-25,408051,Dir Trmt Planning Sys,1310 Chesapeake,North America
+1745,MBRINGAS,Monico Bringas,Monico,Bringas,Eddie Martinez,Robert Ragusa,Larry Voster,Eddie Martinez,mbringas@accuray.com,2012-05-07,504124,Buyer/Planner IV,1310 Orleans,North America
+3158,MBUTYRSKAYA,Marina Butyrskaya,Marina,Butyrskaya,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,mbutyrskaya@accuray.com,2013-04-01,801513,Customer Supp Coord III,Morges,EIMEA
+1161,MCAPUTO,Michael Caputo,Michael,Caputo,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,mcaputo@accuray.com,2007-03-11,507013,Test Technician III,1209 Deming,North America
+1669,MCARRILLO,Miguel Carrillo,Miguel,Carrillo,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,mcarrillo@accuray.com,2012-01-03,201061,VP Finance,1320 Chesapeake,North America
+1165,MCHAMBERS,Matthew Chambers,Matthew,Chambers,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,mchambers@accuray.com,2007-11-05,802013,Field Service Engr III,Remote - US,North America
+3040,MCHAYKOVSKAYA,Marina Chaykovskaya,Marina,Chaykovskaya,Patrice Lompech,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,mchaykovskaya@accuray.com,2012-09-03,704022,Sales Specialist II,Paris,EIMEA
+1599,MCHEN,Meng Chen,Meng,Chen,Kevin Waters,Greg Lichtwardt,Kevin Waters,Kevin Waters,mchen@accuray.com,2011-05-31,202251,Dir Revenue Accounting,1320 Chesapeake,North America
+20160,MCOLLOMP,Marion Collomp,Marion,Collomp,Sancie Nakarat,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,mcollomp@accuray.com,2012-04-18,602721,Event Coordinator I,Paris,EIMEA
+465,MCONDIT,Monica Pirrone,Monica,Pirrone,Binh Tien,Robert Ragusa,John Liebig,Abby Ngampongsai,mcondit@accuray.com,2005-05-18,806023,Tech Support Engr III,1310 Chesapeake,North America
+1184,MCOOPER,Melissa Cooper,Melissa,Cooper,James Jacoby,Robert Ragusa,Robert Hill,Thomas Finnessy,mcooper@accuray.com,2007-04-10,405023,Electrical Engr III,1240 Deming,North America
+247,MCORE,Matthew Core,Matthew,Core,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,mcore@accuray.com,2000-10-06,402251,Dir CyberKnife Systems Engineering,1310 Chesapeake,North America
+20150,MDEBONO,Muriel Debono,Muriel,Debono,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,mdebono@accuray.com,2011-12-12,804023,Medical Physicist III,Morges,EIMEA
+447,MDEGHUEE,Michael Deghuee,Michael,Deghuee,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,mdeghuee@accuray.com,2005-02-28,701061,VP Sales,1310 Chesapeake,North America
+50026,MDEGUZMAN,Mart De Guzman,Mart,De Guzman,Waraporn Hantragulsuk,Robert Ragusa,Xavier de Misouard,Tim Dowden,mdeguzman@accuray.com,2009-09-01,153723,Development QA Physicist,Remote - Philippines,APAC
+60092,MELBALAWY,Mahmoud Elbalawy,Mahmoud,Elbalawy,Jean Kihara,Darl Moreland,Jean Kihara,Jean Kihara,melbalawy@accuray.com,2013-09-23,152023,Quality Engr III,1310 Orleans,North America
+3081,MFIRPO,Michael Firpo,Michael,Firpo,Roopa Chandramohan,Darl Moreland,Eitan Zohar,Russell MacDermott,mfirpo@accuray.com,2012-10-15,401523,Physicist III,1310 Chesapeake,North America
+3014,MFOSKEY,Mark Foskey,Mark,Foskey,Richard Holloway,Robert Ragusa,Robert Hill,Marcus Bittman,mfoskey@accuray.com,2012-07-16,404023,Software Engr III,Remote - US,North America
+3080,MFRANZ,Matthias Franz,Matthias,Franz,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,mfranz@accuray.com,2012-10-15,701061,VP Sales,Morges,EIMEA
+20137,MFUCHS,Marko Fuchs,Marko,Fuchs,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,mfuchs@accuray.com,2011-07-01,802012,Field Service Engr II,Remote - Germany,EIMEA
+740,MGEZGINCI,Mikail Gezginci,Mikail,Gezginci,David Schaal,Kelly Londy,Kelly Londy,David Schaal,mgezginci@accuray.com,2007-03-19,603224,Clinical Studies IV,1310 Chesapeake,North America
+1029,MGUTIERREZ,Miguel Gutierrez,Miguel,Gutierrez,George Asmerom,Robert Ragusa,Robert Hill,Sohail Sayeh,mgutierrez@accuray.com,2010-11-22,403222,Mechanical Engr II,1310 Orleans,North America
+3038,MHALAI,Murtaza Halai,Murtaza,Halai,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,mhalai@accuray.com,2012-09-01,802011,Field Service Engr I,Remote - Germany,EIMEA
+1271,MHARPER,Michele Harper,Michele,Harper,Kevin Parker,Ole Mikkelsen,Kevin Parker,Kevin Parker,mharper@accuray.com,2005-05-16,655023,Empl Training Spec III,1209 Deming,North America
+3070,MHATFIELD,Michael Hatfield,Michael,Hatfield,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,mhatfield@accuray.com,2012-10-01,373023,System Admin III,1320 Chesapeake,North America
+1273,MHAZEN,Mark Hazen,Mark,Hazen,Tosha Fugate,Robert Ragusa,Larry Voster,Tosha Fugate,mhazen@accuray.com,2010-05-25,504124,Buyer/Planner IV,1209 Deming,North America
+624,MHOMICK,Madelyn Homick,Madelyn,Homick,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,mhomick@accuray.com,2006-07-05,601041,Mgr Marketing,1320 Chesapeake,North America
+1767,MICONWAY,Michelle Conway,Michelle,Conway,Heather Wilkerson,Robert Ragusa,Lee Ann Harris,Heather Wilkerson,miconway@accuray.com,2012-06-11,102022,Project Manager II (Admin),1240 Deming,North America
+40043,MINOUE,Mari Inoue,Mari,Inoue,Kazuyuki Kobayashi,Kelly Londy,Juki Hozumi,Atsushi Suzuki,minoue@accuray.com,2011-12-01,808123,Physics/Applications Eng,Tokyo,Japan
+3157,MIRACI,Maria Iraci,Maria,Iraci,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,miraci@accuray.com,2013-04-01,801513,Customer Supp Coord III,Morges,EIMEA
+20140,MJAISWAL,Manish Jaiswal,Manish,Jaiswal,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,mjaiswal@accuray.com,2011-06-01,708051,Reg Business Director,Remote - India,EIMEA
+3263,MJUDGE,Michael Judge,Michael,Judge,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,mjudge@accuray.com,2013-11-11,802011,Field Service Engr I,Remote - Germany,EIMEA
+1754,MKETILSON,Mark Ketilson,Mark,Ketilson,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,mketilson@accuray.com,2012-05-29,404023,Software Engr III,1240 Deming,North America
+1325,MKHAN,Mohammad Khan,Mohammad,Khan,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,mkhan@accuray.com,2008-04-07,802013,Field Service Engr III,Remote - US,North America
+3147,MKOITZ,Mirko Koitz,Mirko,Koitz,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,mkoitz@accuray.com,2013-03-01,802013,Field Service Engr III,Remote - Germany,EIMEA
+1348,MLACKOVICH,Michael Lackovich,Michael,Lackovich,John Liebig,Robert Ragusa,John Liebig,John Liebig,mlackovich@accuray.com,2005-09-26,802043,Regional Service Mgr II,Remote - US,North America
+20026,MLAPALUS,Mathieu Lapalus,Mathieu,Lapalus,Remi Bavu,Robert Ragusa,Xavier de Misouard,Remi Bavu,mlapalus@accuray.com,2007-10-15,802041,Mgr Field Service,Remote - Germany,EIMEA
+60047,MLENNON,Monica Lennon,Monica,Lennon,Saikat Paul,Greg Lichtwardt,Kevin Waters,Saikat Paul,mlennon@accuray.com,2013-03-11,202024,Accountant IV,1320 Chesapeake,North America
+1373,MLOVELL,Mitzi Lovell,Mitzi,Lovell,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,mlovell@accuray.com,2007-06-12,157013,Doc Control Spec III,1209 Deming,North America
+20098,MMAGGIORINI,Marcello Maggiorini,Marcello,Maggiorini,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,mmaggiorini@accuray.com,2008-05-12,802013,Field Service Engr III,Remote - UK,EIMEA
+3119,MMARTINEZ,Michael Martinez,Michael,Martinez,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,mmartinez@accuray.com,2012-12-03,373524,UNIX System Admin IV,1320 Chesapeake,North America
+377,MMCGANN,Michael McGann,Michael,McGann,Bill Yeado,Kelly Londy,Bill Yeado,Bill Yeado,mmcgann@accuray.com,2004-06-01,701061,VP Sales,Remote - US,North America
+782,MMCGINNIS,Matthew McGinnis,Matthew,McGinnis,Mike McGann,Kelly Londy,Bill Yeado,Mike McGann,mmcginnis@accuray.com,2010-03-08,709025,Territory Sales Director V,Remote - US,North America
+1394,MMCGRATH,Maura McGrath,Maura,McGrath,Heinrich Juhn,Robert Ragusa,Robert Hill,Nancy Arnold,mmcgrath@accuray.com,2005-04-25,101014,Admin Assistant IV,1240 Deming,North America
+20100,MMEUCCI,Marco Meucci,Marco,Meucci,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,mmeucci@accuray.com,2010-07-01,802013,Field Service Engr III,Remote - Italy,EIMEA
+1406,MMOORE,Michael Moore,Michael,Moore,Thomas Finnessy,Robert Ragusa,Robert Hill,Thomas Finnessy,mmoore@accuray.com,2003-10-13,402015,Engineering Tech V,1240 Deming,North America
+751,MNAYLOR,Michael Naylor,Michael,Naylor,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,mnaylor@accuray.com,2007-04-30,402224,Robotics Systems Engr IV,Remote - US,North America
+1414,MNESSLAR,Mark Nesslar,Mark,Nesslar,John Westmont,Darl Moreland,Eitan Zohar,John Westmont,mnesslar@accuray.com,2005-10-18,151024,RA QA Technical Mgr,1240 Deming,North America
+541,MNGUYEN,Loc Nguyen,Loc,Nguyen,Stan Gee,Kelly Londy,Stan Gee,Stan Gee,mnguyen@accuray.com,2012-11-13,703212,Sales Order Specialist II,1320 Chesapeake,North America
+1622,MNOLL,John Noll,John,Noll,Warren Kilby,Robert Ragusa,Calvin Maurer Jr,Warren Kilby,mnoll@accuray.com,2011-07-18,401522,Physicist II,1310 Chesapeake,North America
+40040,MOKABE,Mitsuyuki Okabe,Mitsuyuki,Okabe,Atsushi Suzuki,Kelly Londy,Juki Hozumi,Atsushi Suzuki,mokabe@accuray.com,2011-09-27,701024,Sales Rep II,Tokyo,Japan
+1432,MORTON,Matthew Orton,Matthew,Orton,Scott Adler,Robert Ragusa,Robert Hill,Thomas Finnessy,morton@accuray.com,2007-05-22,403223,Mechanical Engr III,1240 Deming,North America
+3075,MOYOKAWA,Masaaki Oyokawa,Masaaki,Oyokawa,Hideki Mizutani,Kelly Londy,Juki Hozumi,Hideki Mizutani,moyokawa@accuray.com,2012-10-20,701024,Sales Rep II,Tokyo,Japan
+3088,MPARAN,Mayrav Paran,Mayrav,Paran,Theresa Dadone,Theresa Dadone,Theresa Dadone,Theresa Dadone,mparan@accuray.com,2012-10-24,301051,Dir Human Resources,1310 Chesapeake,North America
+1451,MPETERSON,Michael Peterson,Michael,Peterson,David Sloey,Robert Ragusa,Robert Hill,Gerald Fordyce,mpeterson@accuray.com,2002-08-19,409924,R&D Engineer IV,1240 Deming,North America
+1454,MPHILLIPS,Michael Phillips,Michael,Phillips,Ajay Achath,Robert Ragusa,Larry Voster,Ajay Achath,mphillips@accuray.com,2007-01-04,504041,Mgr Procurement,1209 Deming,North America
+50083,mqi,Ming Qi,Ming,Qi,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,mqi@accuray.com,2010-06-07,502014,Production Tech IV,Chengdu,APAC
+20111,MREKIK,Mohamed Rekik,Mohamed,Rekik,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,mrekik@accuray.com,2010-05-01,806023,Tech Support Engr III,Remote - United Arab Emirates,EIMEA
+1471,MRENNERT,Matthew Rennert,Matthew,Rennert,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,mrennert@accuray.com,2007-03-12,502013,Production Tech III,1209 Deming,North America
+20141,MRIAZ,Malik Riaz,Malik,Riaz,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,mriaz@accuray.com,2011-08-15,802013,Field Service Engr III,Remote - UK,EIMEA
+1491,MSCHADE,Michael Schade,Michael,Schade,Jeremiah Pepper,Robert Ragusa,John Liebig,Jeremiah Pepper,mschade@accuray.com,2008-04-07,802013,Field Service Engr III,Remote - US,North America
+1492,MSCHAEFER,Michael Schaefer,Michael,Schaefer,Daniel Garrett,Robert Ragusa,Lee Ann Harris,Daniel Garrett,mschaefer@accuray.com,2005-11-22,653024,Curriculum Developer IV,1240 Deming,North America
+1506,MSCHUBERT,Melissa Schubert,Melissa,Schubert,David Sloey,Robert Ragusa,Robert Hill,Gerald Fordyce,mschubert@accuray.com,2010-09-21,409923,R&D Engineer III,1240 Deming,North America
+531,MSCOLLINS,Michael Stratford Collins,Michael,Stratford Collins,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,mstratford-collins@accuray.com,2006-01-03,503052,Sr Dir Manufacturing,1310 Orleans,North America
+40015,MSUGAYA,Masashi Sugaya,Masashi,Sugaya,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,msugaya@accuray.com,2009-06-01,802012,Field Service Engr II,Tokyo,Japan
+20118,MTACCOLA,Michele Taccola,Michele,Taccola,Remi Bavu,Robert Ragusa,Xavier de Misouard,Remi Bavu,mtaccola@accuray.com,2010-10-01,802142,Sr Mgr Field Service,Remote - Italy,EIMEA
+1541,MTAYLOR,Michael Taylor,Michael,Taylor,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,mtaylor@accuray.com,2008-06-10,401521,Physicist I,1240 Deming,North America
+3061,MTOKUNAGA,Makoto Tokunaga,Makoto,Tokunaga,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,mtokunaga@accuray.com,2012-09-24,802011,Field Service Engr I,Remote - Japan,Japan
+1646,MVANDERVOORT,Matthew VanDerVort,Matthew,VanDerVort,Joy Sacmar,Darl Moreland,Joy Sacmar,Joy Sacmar,mvandervoort@accuray.com,2011-10-24,158013,Radiation Safety Officer III,1310 Chesapeake,North America
+1709,MVAZQUEZ,Maria Vazquez,Maria,Vazquez,Brian Mock,Greg Lichtwardt,Kevin Waters,Marian Chen,mvazquez@accuray.com,2012-03-12,202223,Revenue Accountant III,1320 Chesapeake,North America
+50090,mxiao,Xinwei Xiao,Xinwei,Xiao,James Wu,Robert Ragusa,Robert Zahn,Guang Fang,mxiao@accuray.com,2008-11-03,503022,Manufacturing Engr II,Chengdu,APAC
+1650,NALI,Na Li,Na,Li,Saikat Paul,Greg Lichtwardt,Kevin Waters,Saikat Paul,nali@accuray.com,2011-10-31,202024,Accountant IV,1320 Chesapeake,North America
+482,NARNOLD,Nancy Arnold,Nancy,Arnold,Robert Hill,Robert Ragusa,Robert Hill,Robert Hill,narnold@accuray.com,2005-06-27,406051,Dir Program Management,1310 Chesapeake,North America
+1155,NBUSSE,Nicholas Busse,Nicholas,Busse,Jeremy Heil,Robert Ragusa,Robert Hill,Marcus Bittman,nbusse@accuray.com,2006-05-23,404023,Software Engr III,1240 Deming,North America
+1157,NCADY,Nicholas Cady,Nicholas,Cady,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,ncady@accuray.com,2004-03-23,802013,Field Service Engr III,Remote - US,North America
+20018,NCHADEAU,Nathalie Chadeau,Nathalie,Chadeau,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,nchadeau@accuray.com,2007-02-01,603724,Clinical Program Mgr IV,Paris,EIMEA
+3134,NCHARRETTE,Noe Charrette,Noe,Charrette,Denis Hafon,Robert Ragusa,Xavier de Misouard,Denis Hafon,ncharrette@accuray.com,2013-01-07,803011,Sys Install Tech I,Morges,EIMEA
+1207,NDOSTAL,Nick Dostal,Nick,Dostal,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,ndostal@accuray.com,2006-10-30,802013,Field Service Engr III,Remote - US,North America
+20149,NGEX,Nicolas Gex,Nicolas,Gex,Theresa Dadone,Theresa Dadone,Theresa Dadone,Theresa Dadone,ngex@accuray.com,2011-12-01,301061,VP Human Resources,Morges,EIMEA
+927,NHENDERSON,Nero Henderson,Nero,Henderson,Binh Tien,Robert Ragusa,John Liebig,Abby Ngampongsai,nhenderson@accuray.com,2008-12-15,806029,Tech Support Engr NE,Remote - US,North America
+40049,NHOSOKAWA,Noriko Hosokawa,Noriko,Hosokawa,Hajime Hongo,Kelly Londy,Juki Hozumi,Hajime Hongo,nhosokawa@accuray.com,2012-04-01,155023,Reg Affairs Spec III,Tokyo,Japan
+3089,NHUSAIN,Naushin Husain,Naushin,Husain,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,nhusain@accuray.com,2012-10-29,101012,Admin Assistant II,1320 Chesapeake,North America
+1303,NJAFARI,Nader Jafari,Nader,Jafari,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,njafari@accuray.com,2004-11-08,807024,Clinical Support Spec IV,1240 Deming,North America
+20088,NKADDOURI,Nordine Kaddouri,Nordine,Kaddouri,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,nkaddouri@accuray.com,2010-12-01,802012,Field Service Engr II,Brussels,EIMEA
+40002,NKOBAYASHI,Noboru Kobayashi,Noboru,Kobayashi,Kenji Hirose,Kelly Londy,Juki Hozumi,Atsushi Suzuki,nkobayashi@accuray.com,2006-08-01,806041,Mgr Technical Support,Tokyo,Japan
+1366,NLI,Nan Li,Nan,Li,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,nli@accuray.com,2011-04-26,404022,Software Engr II,1240 Deming,North America
+3210,NMANKEY,Nelson Mankey,Nelson,Mankey,Jeremiah Pepper,Robert Ragusa,John Liebig,Jeremiah Pepper,nmankey@accuray.com,2013-08-02,803111,System Install Engr I,1310 Chesapeake,North America
+3186,NMOROIZUMI,Naoto Moroizumi,Naoto,Moroizumi,Kenji Hirose,Kelly Londy,Juki Hozumi,Atsushi Suzuki,nmoroizumi@accuray.com,2013-08-01,802011,Field Service Engr I,Remote - Japan,Japan
+20134,NNASSAR,Najib Nassar,Najib,Nassar,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,nnassar@accuray.com,2011-05-23,802013,Field Service Engr III,Remote - France,EIMEA
+1417,NNICOLES,William Nicoles,William,Nicoles,Bradley Lang,Robert Ragusa,John Liebig,Abby Ngampongsai,nnicoles@accuray.com,2007-11-12,806022,Tech Support Engr II,1240 Deming,North America
+20138,NPATEL,Nishant Patel,Nishant,Patel,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,npatel@accuray.com,2011-07-04,802012,Field Service Engr II,Remote - Germany,EIMEA
+3191,NPEVZNER,Nekhama Pevzner,Nekhama,Pevzner,Brian Mock,Greg Lichtwardt,Kevin Waters,Marian Chen,npevzner@accuray.com,2013-06-26,202323,Credit and Collect Analyst III,1320 Chesapeake,North America
+1467,NREDDING,Veronika Redding,Veronika,Redding,Brian Dresen,Robert Ragusa,Robert Zahn,Brian Dresen,nredding@accuray.com,2007-11-20,504222,Logistics Analyst II,1209 Deming,North America
+920,NREYNOLDS,Nicole Reynolds,Nicole,Reynolds,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,nreynolds@accuray.com,2008-11-12,354051,Dir Legal,1320 Chesapeake,North America
+1493,NSCHAUER,Nancy Schauer,Nancy,Schauer,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,nschauer@accuray.com,2006-06-27,807024,Clinical Support Spec IV,1240 Deming,North America
+929,NSONG,Nancy Song,Nancy,Song,Russell MacDermott,Darl Moreland,Eitan Zohar,Russell MacDermott,nsong@accuray.com,2008-12-15,153023,Development QA Engr III,1310 Chesapeake,North America
+766,NWONG,Nancy Wong,Nancy,Wong,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,nwong@accuray.com,2007-06-04,207051,Dir Tax,1320 Chesapeake,North America
+1040,OCERDA,Oria De La Cerda,Oria,De La Cerda,Darren Milliken,Darren Milliken,Darren Milliken,Darren Milliken,ocerda@accuray.com,2011-02-07,204041,Mgr Stock Admin,1320 Chesapeake,North America
+3085,OHIRT,Olga Hirt,Olga,Hirt,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,ohirt@accuray.com,2012-10-22,202024,Accountant IV,Morges,EIMEA
+3238,OKARTAL,Mustafa Kartal,Mustafa,Kartal,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,okartal@accuray.com,2013-10-01,802012,Field Service Engr II,Remote - Germany,EIMEA
+3136,OMIKKELSEN,Ole Mikkelsen,Ole,Mikkelsen,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,omikkelsen@accuray.com,2013-01-15,371073,SVP Chief Info Officer,1320 Chesapeake,North America
+1722,OOKULIST,Oksana Okulist,Oksana,Okulist,Miguel Carrillo,Greg Lichtwardt,Miguel Carrillo,Miguel Carrillo,ookulist@accuray.com,2012-04-02,373024,System Admin IV,1320 Chesapeake,North America
+20015,OPEYROUTET,Olivier Peyroutet,Olivier,Peyroutet,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,opeyroutet@accuray.com,2006-10-23,801041,Mgr Global Cust Support,Morges,EIMEA
+1166,PCHANCE,Peter Chance,Peter,Chance,Ronald Utz,Darl Moreland,Eitan Zohar,Ronald Utz,pchance@accuray.com,2007-05-22,153023,Development QA Engr III,1240 Deming,North America
+1175,PCLAGGETT,Patrick Claggett,Patrick,Claggett,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,pclaggett@accuray.com,2004-03-29,802013,Field Service Engr III,Remote - US,North America
+20159,PDEGREZE,Philippe Degreze,Philippe,Degreze,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,pdegreze@accuray.com,2012-04-16,601041,Mgr Marketing,Paris,EIMEA
+3142,PESTEVES,Patrick Esteves,Patrick,Esteves,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,pesteves@accuray.com,2013-02-01,806022,Tech Support Engr II,Morges,EIMEA
+1221,PFARRINGTON,Patrick Farrington,Patrick,Farrington,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,pfarrington@accuray.com,2007-09-24,802013,Field Service Engr III,Remote - US,North America
+20064,PFROST,Paul Frost,Paul,Frost,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,pfrost@accuray.com,2010-11-01,802013,Field Service Engr III,Remote - Germany,EIMEA
+50028,PHANTRAGULSU,Waraporn Hantragulsuk,Waraporn,Hantragulsuk,Tim Dowden,Robert Ragusa,Xavier de Misouard,Tim Dowden,phantragulsuk@accuray.com,2006-08-01,401525,Physicist V,Remote - Thailand,APAC
+1028,PHIMSL,Perry Himsl,Perry,Himsl,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,phimsl@accuray.com,2010-11-15,802014,Field Service Engr IV,Remote - US,North America
+909,PJONES,Paul Jones,Paul,Jones,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,pjones@accuray.com,2008-10-20,802014,Field Service Engr IV,Remote - US,North America
+903,PJORDAN,Petr Jordan,Petr,Jordan,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,pjordan@accuray.com,2008-09-15,401041,Mgr Imaging Research,1310 Chesapeake,North America
+3261,PKAKIS,Paul Kakis,Paul,Kakis,Julius Fortuna,Kelly Londy,Susan Hopkins,Johann Fernando,pkakis@accuray.com,2013-11-11,709123,Strategic Business Mgr,Remote - US,North America
+1054,PKUMAR,Praveen Kumar,Praveen,Kumar,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,pkumar@accuray.com,2011-03-21,404023,Software Engr III,1310 Chesapeake,North America
+765,PLANDI,Patricia Landi,Patricia,Landi,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,plandi@accuray.com,2007-05-29,807024,Clinical Support Spec IV,Remote - US,North America
+20094,PLECLERC,Philippe Leclerc,Philippe,Leclerc,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,pleclerc@accuray.com,2009-04-01,802013,Field Service Engr III,Remote - France,EIMEA
+3229,PLEE,Po Yee Lee,Po Yee,Lee,Wicky He,Kelly Londy,Lionel Hadjadjeba,Roger Cao,plee@accuray.com,2013-09-10,602024,Marcom Specialist IV,Hong Kong,APAC
+20096,PLOMPECH,Patrice Lompech,Patrice,Lompech,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,plompech@accuray.com,2007-04-16,708051,Reg Business Director,Remote - France,EIMEA
+816,PLUONG,Phat Luong,Phat,Luong,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,pluong@accuray.com,2007-11-05,802012,Field Service Engr II,1310 Chesapeake,North America
+1061,PMALLARKANDY,Praveena Mallarkandy,Praveena,Mallarkandy,Russell MacDermott,Darl Moreland,Eitan Zohar,Russell MacDermott,pmallarkandy@accuray.com,2011-04-04,153023,Development QA Engr III,1310 Chesapeake,North America
+20099,PMCDONALD,Paul McDonald,Paul,McDonald,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,pmcdonald@accuray.com,2010-09-01,802013,Field Service Engr III,Remote - UK,EIMEA
+3006,PMORSE,Patrick Morse,Patrick,Morse,Victor Chen,Kelly Londy,Kelly Londy,Victor Chen,pmorse@accuray.com,2012-07-09,603723,Clinical Studies Manager,1310 Chesapeake,North America
+1418,PNIEDZIELSKI,Paul Niedzielski,Paul,Niedzielski,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,pniedzielski@accuray.com,2007-02-27,807023,Clinical Support Spec III,Remote - US,North America
+1427,POJHA,Preeti Ojha,Preeti,Ojha,Gabe Westmont,Robert Ragusa,Robert Hill,Marcus Bittman,pojha@accuray.com,2002-12-02,404023,Software Engr III,1240 Deming,North America
+20151,POPRABHU,Prabhu Ponnuswamy,Prabhu,Ponnuswamy,Jagmeet Singh,Robert Ragusa,Xavier de Misouard,Remi Bavu,poprabhu@accuray.com,2011-08-01,802013,Field Service Engr III,Remote - India,EIMEA
+3048,POST,Patricia Ost,Patricia,Ost,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,post@accuray.com,2012-09-04,372042,Sr Mgr IT Applications,1320 Chesapeake,North America
+3103,PRAMANAN,Prakash Ramanan,Prakash,Ramanan,Kevin Parker,Ole Mikkelsen,Kevin Parker,Kevin Parker,pramanan@accuray.com,2012-11-12,406024,Project Manager IV (R&D),1310 Chesapeake,North America
+741,PSANTOS,Philip Santos,Philip,Santos,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,psantos@accuray.com,2007-03-26,503022,Manufacturing Engr II,1310 Orleans,North America
+1503,PSCHNELL,Paul Schnell,Paul,Schnell,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,pschnell@accuray.com,2011-05-24,802013,Field Service Engr III,Remote - US,North America
+516,PSPALITTA,Paul Spalitta,Paul,Spalitta,Eitan Zohar,Darl Moreland,Eitan Zohar,Eitan Zohar,pspalitta@accuray.com,2005-10-31,153041,Mgr Development QA,1240 Deming,North America
+955,PSULLIVAN,Michael Sullivan,Michael,Sullivan,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,psullivan@accuray.com,2009-07-27,802014,Field Service Engr IV,Remote - US,North America
+522,PTREAS,Paul Treas,Paul,Treas,George Asmerom,Robert Ragusa,Robert Hill,Sohail Sayeh,ptreas@accuray.com,2005-12-05,402223,Systems Engr III,1310 Orleans,North America
+637,PVACCA,Paul Vacca,Paul,Vacca,Shiby John,Robert Ragusa,Robert Hill,Marcus Bittman,pvacca@accuray.com,2006-07-19,404023,Software Engr III,1310 Chesapeake,North America
+3233,PVAIL,Peter Vaughan-Vail,Peter,Vaughan-Vail,Susan Savich,Theresa Dadone,Susan Savich,Susan Savich,pvail@accuray.com,2013-09-23,305024,HRIS Analyst IV,1310 Chesapeake,North America
+585,PVALENTINE,Patrick Valentine,Patrick,Valentine,George Asmerom,Robert Ragusa,Robert Hill,Sohail Sayeh,pvalentine@accuray.com,2006-04-24,405024,Electrical Engr IV,1310 Orleans,North America
+1042,PVI,Phat Vi,Phat,Vi,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,pvi@accuray.com,2011-02-07,503022,Manufacturing Engr II,1310 Orleans,North America
+1587,PWOODWORTH,Philip Woodworth,Philip,Woodworth,Andy Prochaska,Robert Ragusa,Robert Zahn,Gary Tarpinian,pwoodworth@accuray.com,2002-09-09,409022,Continuing Engineer II,1240 Deming,North America
+3034,QDINH,Quoc An Dinh,Quoc An,Dinh,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,qdinh@accuray.com,2012-08-06,506041,Mgr Materials,Morges,EIMEA
+346,QNGUYEN,Quang Nguyen,Quang,Nguyen,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,qnguyen@accuray.com,2004-09-01,502015,Production Tech V,1310 Orleans,North America
+20054,RAFKIR,Rachid Afkir,Rachid,Afkir,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,rafkir@accuray.com,2010-09-01,802012,Field Service Engr II,Brussels,EIMEA
+20152,RAKUMBHAR,Ravindra Prakash Kumbhar,Ravindra,Prakash Kumbhar,Jagmeet Singh,Robert Ragusa,Xavier de Misouard,Remi Bavu,rakumbhar@accuray.com,2011-08-01,802013,Field Service Engr III,Remote - India,EIMEA
+3143,RANDERSEN,Rebecca Andersen,Rebecca,Andersen,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,randersen@accuray.com,2013-02-04,156051,Dir Reg Affairs & QA,1240 Deming,North America
+1101,RBADE,Robert Bade,Robert,Bade,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,rbade@accuray.com,2006-05-02,372024,Business Sys Analyst IV,1209 Deming,North America
+20060,RBAVU,Remi Bavu,Remi,Bavu,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,rbavu@accuray.com,2011-03-28,802051,Dir Field Service,Remote - France,EIMEA
+729,RBIVALKAR,Rahul Bivalkar,Rahul,Bivalkar,Jason Ehrlich,Darl Moreland,Eitan Zohar,Jason Ehrlich,rbivalkar@accuray.com,2007-02-13,153023,Development QA Engr III,1310 Chesapeake,North America
+1131,RBOLMAN,Rodney Bolman Jr.,Rodney,Bolman Jr.,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,rbolman@accuray.com,2005-11-29,802014,Field Service Engr IV,Remote - US,North America
+1134,RBORCHARDT,Ross Borchardt,Ross,Borchardt,Scott Adler,Robert Ragusa,Robert Hill,Thomas Finnessy,rborchardt@accuray.com,2012-06-18,403222,Mechanical Engr II,1240 Deming,North America
+20066,RBRAUN,Richard Braun,Richard,Braun,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,rbraun@accuray.com,2009-10-05,807123,Applications Support Spec,Remote - Germany,EIMEA
+878,RBROWN,Russell Brown,Russell,Brown,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,rbrown@accuray.com,2008-04-28,802013,Field Service Engr III,Remote - US,North America
+3201,RBYRNE,Rebecca Byrne,Rebecca,Byrne,Madelyn Homick,Kelly Londy,Susan Hopkins,Madelyn Homick,rbyrne@accuray.com,2013-07-29,602724,Event Coordinator IV,1320 Chesapeake,North America
+502,RCAMARA,Russell Camara,Russell,Camara,Jeffrey Patterson,Robert Ragusa,Michael Stratford Collins,Jeffrey Patterson,rcamara@accuray.com,2005-09-06,507014,Test Technician IV,1310 Orleans,North America
+1159,RCAMDEN,Richard Camden,Richard,Camden,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,rcamden@accuray.com,2011-03-28,802013,Field Service Engr III,Remote - US,North America
+3165,RCAO,Yong Sheng Cao,Yong Sheng,Cao,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,rcao@accuray.com,2013-04-02,101052,Managing Director Region,Hong Kong,APAC
+663,RCHANDRAMOHAN,Roopadarshini Chandramohan,Roopadarshini,Chandramohan,Russell MacDermott,Darl Moreland,Eitan Zohar,Russell MacDermott,rchandramohan@accuray.com,2006-09-20,153031,Supv Development QA,1310 Chesapeake,North America
+1006,RCHAVEZ,Ron Chavez,Ron,Chavez,John Liebig,Robert Ragusa,John Liebig,John Liebig,rchavez@accuray.com,2010-08-02,801051,Dir Operations,1310 Chesapeake,North America
+1180,RCOLLINS,Ronald Collins,Ronald,Collins,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,rcollins@accuray.com,2007-11-06,507013,Test Technician III,1209 Deming,North America
+20072,RCONGER,Robert Conger,Robert,Conger,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,rconger@accuray.com,2008-01-22,806022,Tech Support Engr II,Remote - Spain,EIMEA
+1188,RCRAVENS,Robert Cravens,Robert,Cravens,Kenneth Ruchala,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,rcravens@accuray.com,2003-01-20,401241,Mgr Research,1240 Deming,North America
+1203,RDIXON,Ronney Dixon,Ronney,Dixon,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,rdixon@accuray.com,2004-11-08,802013,Field Service Engr III,Remote - US,North America
+3183,RDUEMKE,Ryan Duemke,Ryan,Duemke,James Jacoby,Robert Ragusa,Robert Hill,Thomas Finnessy,rduemke@accuray.com,2013-06-10,405021,Electrical Engr I,1240 Deming,North America
+1115,REBAYLOR,Richard Baylor,Richard,Baylor,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,rebaylor@accuray.com,2013-06-17,802013,Field Service Engr III,Remote - US,North America
+20034,REFINGER,Robert Efinger,Robert,Efinger,Matthias Franz,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,refinger@accuray.com,2009-01-15,708024,Territory Sales Manager,Remote - Germany,EIMEA
+3244,RENG,Rose Eng,Rose,Eng,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,reng@accuray.com,2013-10-14,102022,Project Manager II (Admin),1310 Chesapeake,North America
+1761,REWERT,Roselle Ewert,Roselle,Ewert,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,rewert@accuray.com,2012-08-13,203031,Supv Payroll,1320 Chesapeake,North America
+577,RFARNELL,Russell Farnell,Russell,Farnell,Sean Rokni,Robert Ragusa,Robert Hill,Sohail Sayeh,rfarnell@accuray.com,2011-12-19,402513,Mech Designer III,1310 Chesapeake,North America
+3247,RFLINT,Rebecca Flint,Rebecca,Flint,Barry Bonner,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,rflint@accuray.com,2013-10-14,704023,Sales Specialist III,Remote - UK,EIMEA
+1782,RGANESAN,Mohanram Ganesan,Mohanram,Ganesan,Heinrich Juhn,Robert Ragusa,Robert Hill,Nancy Arnold,rganesan@accuray.com,2012-06-25,406024,Project Manager IV (R&D),1240 Deming,North America
+3259,RGILL,Robina Gill,Robina,Gill,Manish Jaiswal,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,rgill@accuray.com,2013-11-05,601021,Marketing Analyst I,Remote - India,EIMEA
+1774,RHARRIS,Rene Harris,Rene,Harris,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,rharris@accuray.com,2012-06-18,705012,Lead Generation Spec II,1310 Chesapeake,North America
+3214,RHEITZ,Roxana Heitz,Roxana,Heitz,Eyad Kishawi,Robert Ragusa,Robert Hill,Sohail Sayeh,rheitz@accuray.com,2013-08-13,405024,Electrical Engr IV,1310 Chesapeake,North America
+820,RHILL,Robert Hill,Robert,Hill,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,rhill@accuray.com,2007-11-14,401062,SVP Engineering,1310 Chesapeake,North America
+3011,RHOLLOWAY,Richard Holloway,Richard,Holloway,Marcus Bittman,Robert Ragusa,Robert Hill,Marcus Bittman,rholloway@accuray.com,2012-07-16,404042,Sr Mgr Software Eng,Remote - US,North America
+1644,RJAIN,Rohit Jain,Rohit,Jain,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,Ole Mikkelsen,rjain@accuray.com,2011-10-17,371052,Sr Dir Info Technology,1310 Chesapeake,North America
+1314,RJOSWIG,Randal Joswig,Randal,Joswig,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,rjoswig@accuray.com,2006-03-14,157041,Mgr Doc Services,1209 Deming,North America
+463,RKAHN,Robert Kahn,Robert,Kahn,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,rkahn@accuray.com,2005-05-02,404026,Software Engr VI,1310 Chesapeake,North America
+20097,RLUTH,Rieks Luth,Rieks,Luth,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,rluth@accuray.com,2006-07-03,802013,Field Service Engr III,Remote - Netherlands,EIMEA
+1030,RMACABUGAO,Ronald Macabugao,Ronald,Macabugao,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,rmacabugao@accuray.com,2010-11-22,371013,Desktop Sup Spec III,1320 Chesapeake,North America
+1732,RMACDERMOTT,Russell MacDermott,Russell,MacDermott,Eitan Zohar,Darl Moreland,Eitan Zohar,Eitan Zohar,rmacdermott@accuray.com,2012-04-16,153041,Mgr Development QA,1310 Chesapeake,North America
+1383,RMARQUEZ,Roberto Marquez,Roberto,Marquez,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,rmarquez@accuray.com,2007-08-27,802013,Field Service Engr III,Remote - US,North America
+1601,RMARTINEZ,Rhysly Martinez,Rhysly,Martinez,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,rmartinez@accuray.com,2011-07-29,155522,Product Complaint Spec II,1310 Chesapeake,North America
+20011,RMERONI,Raffaele Meroni,Raffaele,Meroni,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,rmeroni@accuray.com,2006-07-10,651041,Mgr Customer Training,Remote - Italy,EIMEA
+3096,RMICHALKE,Robert Michalke,Robert,Michalke,Quoc An Dinh,Robert Ragusa,Xavier de Misouard,Quoc An Dinh,rmichalke@accuray.com,2012-11-01,504224,Logistics Analyst IV,Morges,EIMEA
+1404,RMILTON,Robert Milton,Robert,Milton,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,rmilton@accuray.com,2007-12-10,802013,Field Service Engr III,Remote - US,North America
+1405,RMIROSHNIK,Roman Miroshnik,Roman,Miroshnik,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,rmiroshnik@accuray.com,2008-03-10,802013,Field Service Engr III,Remote - US,North America
+3258,RMORETTI,Richard Moretti,Richard,Moretti,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,rmoretti@accuray.com,2013-11-04,102024,Project Manager IV (Admin),Remote - US,North America
+1647,RNASH,Richard Nash,Richard,Nash,Marcus Bittman,Robert Ragusa,Robert Hill,Marcus Bittman,rnash@accuray.com,2011-10-24,408042,Sr Mgr Trmt Planning Sys,Remote - US,North America
+1425,ROCONNELL,Robert O'Connell,Robert,O'Connell,Carl Mauer,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,roconnell@accuray.com,2008-07-01,401023,Research Scientist III,1240 Deming,North America
+1654,RPHILLIPS,Rebecca Phillips,Rebecca,Phillips,Madelyn Homick,Kelly Londy,Susan Hopkins,Madelyn Homick,rphillips@accuray.com,2011-11-01,602524,Public Relations Mgr IV,1320 Chesapeake,North America
+982,RRAGUSA,Robert Ragusa,Robert,Ragusa,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,rragusa@accuray.com,2010-04-12,101073,EVP Engineering & Global Operations,1310 Orleans,North America
+3114,RRAHMAN,Rameen Rahman,Rameen,Rahman,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,rrahman@accuray.com,2012-12-01,372024,Business Sys Analyst IV,Morges,EIMEA
+50009,RRAZON,Ranell Martos-Razon,Ranell,Martos-Razon,Waraporn Hantragulsuk,Robert Ragusa,Xavier de Misouard,Tim Dowden,rrazon@accuray.com,2006-05-01,401521,Physicist I,Remote - Philippines,APAC
+1742,RSAH,Richard Sah,Richard,Sah,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,rsah@accuray.com,2012-04-30,402051,Dir Engineering,1310 Orleans,North America
+1725,RSHAAR,Rafeek Shaar,Rafeek,Shaar,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,rshaar@accuray.com,2012-04-05,802013,Field Service Engr III,Remote - Canada,North America
+3154,RSHRAWAGI,Rohit Shrawagi,Rohit,Shrawagi,Steven Anheier,Greg Lichtwardt,Miguel Carrillo,Steven Anheier,rshrawagi@accuray.com,2013-03-11,201024,Financial Analyst IV,1320 Chesapeake,North America
+1519,RSINKLAIR,Robert Sinklair,Robert,Sinklair,Thomas Finnessy,Robert Ragusa,Robert Hill,Thomas Finnessy,rsinklair@accuray.com,2004-03-22,402014,Engineering Tech IV,1240 Deming,North America
+3193,RSMITH,Rhonda Smith,Rhonda,Smith,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,rsmith@accuray.com,2013-07-15,607024,Corporate Dev Mgr,Remote - US,North America
+1531,RSTARR,Roger Starr,Roger,Starr,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,rstarr@accuray.com,2005-01-18,502013,Production Tech III,1209 Deming,North America
+1629,RSTRZALA,Robert Strzala,Robert,Strzala,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,rstrzala@accuray.com,2011-08-01,502215,Microwave Technician V,1310 Orleans,North America
+1037,RTAGULAO,Rosauro Tagulao,Rosauro,Tagulao,Russell MacDermott,Darl Moreland,Eitan Zohar,Russell MacDermott,rtagulao@accuray.com,2011-01-19,153024,Development QA Engr IV,1310 Chesapeake,North America
+40057,RTOOL,Ryoko Fukada,Ryoko,Fukada,Quoc An Dinh,Robert Ragusa,Xavier de Misouard,Quoc An Dinh,rtool@accuray.com,2013-08-01,505024,Logistics Manager IV,Remote - Japan,Japan
+1558,RUTZ,Ronald Utz,Ronald,Utz,Eitan Zohar,Darl Moreland,Eitan Zohar,Eitan Zohar,rutz@accuray.com,2005-04-25,153041,Mgr Development QA,1240 Deming,North America
+1559,RVADEN,Richard Vaden,Richard,Vaden,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,rvaden@accuray.com,2007-11-05,807024,Clinical Support Spec IV,Remote - US,North America
+1718,RVAKIL,Raj Vakil,Raj,Vakil,Miguel Carrillo,Greg Lichtwardt,Miguel Carrillo,Miguel Carrillo,rvakil@accuray.com,2012-03-26,201151,Dir Finance,1320 Chesapeake,North America
+727,RVOGT,Robert Vogt,Robert,Vogt,Bill Yeado,Kelly Londy,Bill Yeado,Bill Yeado,bvogt@accuray.com,2007-02-05,709023,Territory Sales Director III,Remote - US,North America
+1577,RWEIER,Randolph Weier,Randolph,Weier,Abby Ngampongsai,Robert Ragusa,John Liebig,Abby Ngampongsai,rweier@accuray.com,2006-11-28,806029,Tech Support Engr NE,1240 Deming,North America
+1581,RWHISLER,Robert Whisler,Robert,Whisler,Heinrich Juhn,Robert Ragusa,Robert Hill,Nancy Arnold,rwhisler@accuray.com,2012-05-07,406024,Project Manager IV (R&D),1240 Deming,North America
+1728,RWILDONER,Barbara Wildoner,Barbara,Wildoner,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,rwildoner@accuray.com,2012-10-29,101023,Executive Asst,1320 Chesapeake,North America
+3148,RYAHAGI,Ryotaro Yahagi,Ryotaro,Yahagi,Shinichi Yamamoto,Kelly Londy,Juki Hozumi,Yuri Hioki,ryahagi@accuray.com,2013-03-09,803521,Site Planner I,Tokyo,Japan
+1592,RZAHN,Robert Zahn,Robert,Zahn,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,rzahn@accuray.com,2007-07-31,503061,VP Manufacturing,1209 Deming,North America
+1086,SADLER,Scott Adler,Scott,Adler,Thomas Finnessy,Robert Ragusa,Robert Hill,Thomas Finnessy,sadler@accuray.com,2006-01-31,403242,Sr Mgr Mechanical Engrg,1240 Deming,North America
+3245,SAMILLER,Samantha Miller,Samantha,Miller,Kevin Parker,Ole Mikkelsen,Kevin Parker,Kevin Parker,samiller@accuray.com,2013-10-14,406024,Project Manager IV (R&D),1320 Chesapeake,North America
+979,SANHEIER,Steven Anheier,Steven,Anheier,Miguel Carrillo,Greg Lichtwardt,Miguel Carrillo,Miguel Carrillo,sanheier@accuray.com,2010-03-01,201241,Mgr Finance,1320 Chesapeake,North America
+1068,SASINGH,Sarbjit Singh,Sarbjit,Singh,Jian Gao,Robert Ragusa,Robert Hill,Sohail Sayeh,sasingh@accuray.com,2011-04-11,404023,Software Engr III,1310 Chesapeake,North America
+1103,SBAGLEY,Sheila Bagley,Sheila,Bagley,Ronald Utz,Darl Moreland,Eitan Zohar,Ronald Utz,sbagley@accuray.com,2006-10-24,153023,Development QA Engr III,1240 Deming,North America
+684,SBARARPOUR,Shameen Bararpour,Shameen,Bararpour,Eddie Martinez,Robert Ragusa,Larry Voster,Eddie Martinez,sbararpour@accuray.com,2006-11-06,504123,Buyer/Planner III,1310 Orleans,North America
+1109,SBARFKNECHT,Steven Barfknecht,Steven,Barfknecht,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,sbarfknecht@accuray.com,2006-08-29,502013,Production Tech III,1209 Deming,North America
+20146,SBONHOMMEAU,Stephane Bonhommeau,Stephane,Bonhommeau,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,sbonhommeau@accuray.com,2011-04-01,802013,Field Service Engr III,Remote - France,EIMEA
+1135,SBOSWELL,Sarah Boswell,Sarah,Boswell,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,sboswell@accuray.com,2007-04-10,401523,Physicist III,1240 Deming,North America
+3195,SBOULAS,Scott Boulas,Scott,Boulas,Steve Wright,Kelly Londy,Bill Yeado,Steve Wright,sboulas@accuray.com,2013-07-08,708024,Territory Sales Manager,Remote - US,North America
+1139,SBOWERS,Scott Bowers,Scott,Bowers,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,sbowers@accuray.com,2004-07-27,507015,Test Technician V,1209 Deming,North America
+20132,SBUNCH,Stuart Bunch,Stuart,Bunch,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,sbunch@accuray.com,2011-06-06,802013,Field Service Engr III,Remote - UK,EIMEA
+641,SCHAN,Sophal Chan,Sophal,Chan,Sean Rokni,Robert Ragusa,Robert Hill,Sohail Sayeh,schan@accuray.com,2006-07-31,409022,Continuing Engineer II,1310 Chesapeake,North America
+1598,SCOLLIANDER,Sandra Colliander,Sandra,Colliander,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,scolliander@accuray.com,2011-05-31,401524,Physicist IV,Remote - US,North America
+1181,SCONNELL,Sean Connell,Sean,Connell,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,sconnell@accuray.com,2005-09-27,402224,Systems Engr IV,1240 Deming,North America
+1182,SCOON,Stephen Coon,Stephen,Coon,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,scoon@accuray.com,1999-06-01,409123,Compliance Engineer III,1240 Deming,North America
+1183,SCOOPER,Shawn Cooper,Shawn,Cooper,Brian Dresen,Robert Ragusa,Robert Zahn,Brian Dresen,scooper@accuray.com,2007-02-20,505524,Traffic/Ship Coord IV,1209 Deming,North America
+1198,SDENNINGHAM,Stewart Denningham,Stewart,Denningham,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,sdenningham@accuray.com,2006-10-02,802013,Field Service Engr III,Remote - US,North America
+60080,SDERIAZ,Sarah Deriaz,Sarah,Deriaz,Greta Scotolati,Kelly Londy,Lionel Hadjadjeba,Greta Scotolati,sderiaz@accuray.com,2013-09-17,101011,Admin Assistant I,Morges,EIMEA
+40038,SDOMOTO,Shinami Domoto,Shinami,Domoto,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,sdomoto@accuray.com,2011-08-01,101241,Mgr Bus Support & Admin,Tokyo,Japan
+1213,SDURST,Samuel Durst,Samuel,Durst,Scott Adler,Robert Ragusa,Robert Hill,Thomas Finnessy,sdurst@accuray.com,2006-03-21,403223,Mechanical Engr III,1240 Deming,North America
+674,SFAUMUINA,Si-Rarotoga Faumuina,Si-Rarotoga,Faumuina,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,sfaumuina@accuray.com,2006-10-09,202022,Accountant II,1320 Chesapeake,North America
+1232,SFRATIANNE,Scott Fratianne,Scott,Fratianne,Jonathan McIntosh,Robert Ragusa,Robert Hill,Thomas Finnessy,sfratianne@accuray.com,2008-08-26,507523,Reliability Engineer III,1240 Deming,North America
+1236,SFRISCIA,Steven Friscia,Steven,Friscia,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,sfriscia@accuray.com,2007-12-10,802013,Field Service Engr III,Remote - US,North America
+900,SGEE,Stanley Gee,Stanley,Gee,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,sgee@accuray.com,2008-08-25,703053,VP Sales Operations,1320 Chesapeake,North America
+659,SGHAVI,Sasha Casas,Sasha,Casas,Madelyn Homick,Kelly Londy,Susan Hopkins,Madelyn Homick,sghavi@accuray.com,2006-09-11,602041,Mgr Marketing Comm,1320 Chesapeake,North America
+1652,SGLIESSMANN,Stefan Gliessmann,Stefan,Gliessmann,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,sgliessmann@accuray.com,2011-11-07,601052,Sr Dir Marketing,1310 Chesapeake,North America
+1072,SGRANFORS,Sussan Pourjavid-Granfors,Sussan,Pourjavid-Granfors,Nancy Arnold,Robert Ragusa,Robert Hill,Nancy Arnold,sgranfors@accuray.com,2011-04-21,406024,Project Manager IV (R&D),1310 Chesapeake,North America
+3095,SGREGORIO,Sonia Copt-Gregorio,Sonia,Copt-Gregorio,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,scopt@accuray.com,2012-11-01,351023,Corp Counsel III,Morges,EIMEA
+943,SGRIFFIN,Samuel Griffin,Samuel,Griffin,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,sgriffin@accuray.com,2009-03-16,802014,Field Service Engr IV,Remote - US,North America
+3068,SHEBIA,Sylvie Hebia,Sylvie,Hebia,Sonia Copt-Gregorio,Darren Milliken,Alaleh Nouri,Sonia Copt-Gregorio,shebia@accuray.com,2012-10-01,352014,Contracts Manager IV,Morges,EIMEA
+774,SHERRERA,Steven Herrera,Steven,Herrera,Sean Rokni,Robert Ragusa,Robert Hill,Sohail Sayeh,sherrera@accuray.com,2007-06-18,402013,Engineering Tech III,1310 Chesapeake,North America
+1287,SHOLLENBECK,Stephanie Hollenbeck,Stephanie,Hollenbeck,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,shollenbeck@accuray.com,2006-05-02,502013,Production Tech III,1209 Deming,North America
+3146,SHOPKINS,Susan Hopkins,Susan,Hopkins,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,shopkins@accuray.com,2013-02-25,601061,VP Marketing,1320 Chesapeake,North America
+50024,SHUEN,Wing-yiu Huen,Wing-yiu,Huen,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,shuen@accuray.com,2011-05-03,201151,Dir Finance,Hong Kong,APAC
+650,SJOHN,Shiby John,Shiby,John,Marcus Bittman,Robert Ragusa,Robert Hill,Marcus Bittman,sjohn@accuray.com,2006-08-21,404042,Sr Mgr Software Eng,1310 Chesapeake,North America
+60026,SKAUSHIK,Shweta Kaushik,Shweta,Kaushik,Greg Bange,Darl Moreland,Joy Sacmar,Greg Bange,skaushik@accuray.com,2012-11-12,155021,Reg Affairs Spec I,1310 Chesapeake,North America
+382,SKESELMAN,Sherry Keselman,Sherry,Keselman,Heather Wilkerson,Robert Ragusa,Lee Ann Harris,Heather Wilkerson,skeselman@accuray.com,2004-07-26,102023,Project Manager III (Admin),1310 Chesapeake,North America
+1038,SKRISHNASWAMY,Shanthi Krishnaswamy,Shanthi,Krishnaswamy,Kevin Waters,Greg Lichtwardt,Kevin Waters,Kevin Waters,skrishnaswamy@accuray.com,2011-01-24,201241,Mgr Finance,1320 Chesapeake,North America
+1351,SLAI,Scott Lai,Scott,Lai,Carl Mauer,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,slai@accuray.com,2004-02-02,401023,Research Scientist III,1240 Deming,North America
+3064,SLIN,Dan Lin,Dan,Lin,Patricia Ost,Ole Mikkelsen,Rohit Jain,Patricia Ost,slin@accuray.com,2012-09-24,372024,Business Sys Analyst IV,1320 Chesapeake,North America
+50011,SLUK,Sau Ching Luk,Sau Ching,Luk,Ryoko Tool,Robert Ragusa,Xavier de Misouard,Quoc An Dinh,sluk@accuray.com,2006-07-31,505023,Logistics Manager III,Hong Kong,APAC
+1039,SMACDONALD,William MacDonald,William,MacDonald,Johann Fernando,Kelly Londy,Susan Hopkins,Johann Fernando,smacdonald@accuray.com,2011-01-31,601823,Product Demo Spec III,Remote - US,North America
+3240,SMADARI,Madari Szilard,Szilard,Madari,Achim Schefczik,Kelly Londy,Lionel Hadjadjeba,Matthias Franz,smadari@accuray.com,2013-10-01,701041,Mgr Sales,Remote - Hungary,EIMEA
+3115,SMASSEL,Simon Massel,Simon,Massel,Eric Arnould,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,smassel@accuray.com,2012-12-01,207024,Tax Accountant IV,Morges,EIMEA
+1388,SMAVES,Scott Maves,Scott,Maves,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,smaves@accuray.com,2008-05-12,802013,Field Service Engr III,Remote - US,North America
+1391,SMCCONNELL,Scott McConnell,Scott,McConnell,Jeremiah Pepper,Robert Ragusa,John Liebig,Jeremiah Pepper,smcconnell@accuray.com,2005-05-16,803014,Sys Install Tech IV,1209 Deming,North America
+1633,SMENESES,Sharon Meneses,Sharon,Meneses,Lee Hutchinson,Ole Mikkelsen,Lee Hutchinson,Lee Hutchinson,smeneses@accuray.com,2011-08-15,371014,Desktop Sup Spec IV,1320 Chesapeake,North America
+1401,SMILLER,Shane Miller,Shane,Miller,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,smiller@accuray.com,2005-09-12,502013,Production Tech III,1209 Deming,North America
+3110,SMORIN,Scott Morin,Scott,Morin,Ronald Utz,Darl Moreland,Eitan Zohar,Ronald Utz,smorin@accuray.com,2012-11-19,153021,Development QA Engr I,1240 Deming,North America
+40011,SMORITA,Seiki Morita,Seiki,Morita,Atsushi Mitsuishi,Kelly Londy,Juki Hozumi,Atsushi Suzuki,smorita@accuray.com,2008-05-12,806024,Tech Support Engr IV,Tokyo,Japan
+20006,SNAKARAT,Sancie Nakarat,Sancie,Nakarat,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,snakarat@accuray.com,2006-01-30,602042,Sr Mgr Marketing Comm,Paris,EIMEA
+997,SNOEL,Dirk Noel,Dirk,Noel,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,snoel@accuray.com,2010-06-28,601942,Sr Mgr Product Marketing,Remote - US,North America
+1420,SNOLAN,Stephen Nolan,Stephen,Nolan,Heinrich Juhn,Robert Ragusa,Robert Hill,Nancy Arnold,snolan@accuray.com,2007-04-17,406025,Project Manager V,1240 Deming,North America
+3020,SOBATA,Satsuki Obata,Satsuki,Obata,Kiyofumi Uchizato,Greg Lichtwardt,Kevin Waters,Kiyofumi Uchizato,sobata@accuray.com,2012-08-11,202023,Accountant III,Tokyo,Japan
+60112,SOGAWA,Stephanie Ogawa,Stephanie,Ogawa,Joel Traurig,Theresa Dadone,Joel Traurig,Joel Traurig,sogawa@accuray.com,2013-10-14,302024,Recruiter IV,1310 Chesapeake,North America
+20063,SPACCAGNELLA,Sergio Paccagnella,Sergio,Paccagnella,Michele Taccola,Robert Ragusa,Xavier de Misouard,Remi Bavu,spaccagnella@accuray.com,2011-04-01,802013,Field Service Engr III,Remote - Italy,EIMEA
+474,SPAINTER,Scott Painter,Scott,Painter,John Liebig,Robert Ragusa,John Liebig,John Liebig,spainter@accuray.com,2005-06-21,802044,Regional Service Mgr III,Remote - US,North America
+1665,SPAUL,Saikat Paul,Saikat,Paul,Kevin Waters,Greg Lichtwardt,Kevin Waters,Kevin Waters,spaul@accuray.com,2011-12-12,202042,Sr Mgr Accounting,1320 Chesapeake,North America
+1082,SPRINCE,Shawn Prince,Shawn,Prince,Susan Thompson,Kelly Londy,Susan Hopkins,Susan Thompson,sprince@accuray.com,2011-05-23,603925,Market Access Sr Mgr,1310 Chesapeake,North America
+1025,SRADHAKRISHNAN,Sunandini Radhakrishnan,Sunandini,Radhakrishnan,Shiby John,Robert Ragusa,Robert Hill,Marcus Bittman,sradhakrishnan@accuray.com,2010-11-15,404024,Software Engr IV,1310 Chesapeake,North America
+771,SRAMRAJ,Sankaralingam Ramraj,Sankaralingam,Ramraj,Jian Gao,Robert Ragusa,Robert Hill,Sohail Sayeh,sramraj@accuray.com,2007-06-18,404525,Systems Software Engr V,1310 Chesapeake,North America
+1769,SRAWLUK,Stephen Rawluk,Stephen,Rawluk,Ron Chavez,Robert Ragusa,John Liebig,Ron Chavez,srawluk@accuray.com,2012-06-11,801524,Service Ops Prog Mgr,1310 Chesapeake,North America
+20110,SREID,Susan Reid,Susan,Reid,Philippe Degreze,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,sreid@accuray.com,2008-04-07,601941,Mgr Product Marketing,Morges,EIMEA
+990,SROKNI,Shahryar Rokni,Shahryar,Rokni,Sohail Sayeh,Robert Ragusa,Robert Hill,Sohail Sayeh,srokni@accuray.com,2010-05-24,409041,Mgr Continuing Engrg,1310 Chesapeake,North America
+1741,SROTTKE,Stefan Rottke,Stefan,Rottke,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,srottke@accuray.com,2012-04-30,701162,SVP Intl Bus Excellence,Remote - Germany,EIMEA
+1008,SSAVICH,Susan Savich,Susan,Savich,Theresa Dadone,Theresa Dadone,Theresa Dadone,Theresa Dadone,ssavich@accuray.com,2010-08-16,301061,VP Human Resources,1310 Chesapeake,North America
+265,SSAYEH,Sohail Sayeh,Sohail,Sayeh,Robert Hill,Robert Ragusa,Robert Hill,Robert Hill,ssayeh@accuray.com,2001-01-01,402052,Sr Dir CyberKnife Engineering,1310 Chesapeake,North America
+3001,SSCHMIDT,Sarah Schmidt,Sarah,Schmidt,Andy Prochaska,Robert Ragusa,Robert Zahn,Gary Tarpinian,sschmidt@accuray.com,2012-07-09,409022,Continuing Engineer II,1209 Deming,North America
+636,SSCHMITZ,Stefan Schmitz,Stefan,Schmitz,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,sschmitz@accuray.com,2013-06-14,404024,Software Engr IV,1310 Chesapeake,North America
+1504,SSCHOEPEL,Steven Schoepel,Steven,Schoepel,Elizabeth Osuna,Robert Ragusa,Lee Ann Harris,Elizabeth Osuna,sschoepel@accuray.com,2001-02-26,653023,Curriculum Developer III,1240 Deming,North America
+3060,SSCHWANTES,Steven Schwantes,Steven,Schwantes,Brian Dresen,Robert Ragusa,Robert Zahn,Brian Dresen,sschwantes@accuray.com,2012-09-17,506014,Material Handler IV,1209 Deming,North America
+1514,SSHERMAN,Steven Sherman,Steven,Sherman,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,ssherman@accuray.com,2007-03-05,802014,Field Service Engr IV,Remote - US,North America
+1515,SSHIMETA,Scott Shimeta,Scott,Shimeta,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,sshimeta@accuray.com,2006-04-18,404023,Software Engr III,1240 Deming,North America
+1649,SSHORTT,Steven Shortt,Steven,Shortt,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,sshortt@accuray.com,2011-10-24,503024,Manufacturing Engr IV,1310 Orleans,North America
+959,SSIVAPRAKASAM,Suresh Sivaprakasam,Suresh,Sivaprakasam,Shiby John,Robert Ragusa,Robert Hill,Marcus Bittman,ssivaprakasam@accuray.com,2009-09-28,404023,Software Engr III,1310 Chesapeake,North America
+858,SSMITH,Shawn Smith,Shawn,Smith,Jason Gorman,Robert Ragusa,Lee Ann Harris,Jason Gorman,ssmith@accuray.com,2008-03-17,807023,Clinical Support Spec III,Remote - US,North America
+3066,STACHON,Stephane Tachon,Stephane,Tachon,Francis Gardes,Robert Ragusa,Xavier de Misouard,Remi Bavu,stachon@accuray.com,2012-10-01,802013,Field Service Engr III,Remote - France,EIMEA
+3030,STAKAZAWA,Shoji Takazawa,Shoji,Takazawa,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,stakazawa@accuray.com,2012-08-20,802011,Field Service Engr I,Tokyo,Japan
+3182,STATRO,Shawn Tatro,Shawn,Tatro,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,statro@accuray.com,2013-06-10,802013,Field Service Engr III,Remote - US,North America
+3033,STGRIFFIN,Stewart Griffin,Stewart,Griffin,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,stgriffin@accuray.com,2012-08-01,804023,Medical Physicist III,Morges,EIMEA
+840,STHOMPSON,Susan Thompson,Susan,Thompson,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,sthompson@accuray.com,2008-01-14,604052,Sr Dir Patient Access,1320 Chesapeake,North America
+3028,SUTHAKKAN,Shibin Uthakkan,Shibin,Uthakkan,Jagmeet Singh,Robert Ragusa,Xavier de Misouard,Remi Bavu,suthakkan@accuray.com,2012-07-23,802013,Field Service Engr III,Remote - India,EIMEA
+20039,SVIGNIER,Stephane Vignier,Stephane,Vignier,Olivier Peyroutet,Robert Ragusa,Xavier de Misouard,Olivier Peyroutet,svignier@accuray.com,2010-01-04,806023,Tech Support Engr III,Paris,EIMEA
+1575,SWEBER,Steven Weber,Steven,Weber,Larry Voster,Robert Ragusa,Larry Voster,Larry Voster,sweber@accuray.com,2004-08-16,506041,Mgr Materials,1209 Deming,North America
+1584,SWILKE,Steven Wilke,Steven,Wilke,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,swilke@accuray.com,2004-06-01,502041,Mgr Production,Remote - US,North America
+3167,SWRIGHT,Stephen Wright,Stephen,Wright,Bill Yeado,Kelly Londy,Bill Yeado,Bill Yeado,swright@accuray.com,2013-05-05,701052,Sr Dir Sales,Remote - US,North America
+40059,SYAMAMOTO,Shinichi Yamamoto,Shinichi,Yamamoto,Yuri Hioki,Kelly Londy,Juki Hozumi,Yuri Hioki,syamamoto@accuray.com,2012-07-14,803524,Site Planner IV,Tokyo,Japan
+20136,SYOUSUF,Syed Yousuf,Syed,Yousuf,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,syousuf@accuray.com,2011-06-01,802012,Field Service Engr II,Remote - Germany,EIMEA
+52002,SYUEN,Sau Mei Yuen,Sau Mei,Yuen,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,syuen@accuray.com,2011-07-04,601923,Product Mktg Manager III,Hong Kong,APAC
+3192,SZIRN,Silas Zirn,Silas,Zirn,Jeffrey Zondag,Darl Moreland,Jeffrey Zondag,Jeffrey Zondag,szirn@accuray.com,2013-07-08,152023,Quality Engr III,1209 Deming,North America
+3111,TALLENDER,Therese Allender,Therese,Allender,Susan Savich,Theresa Dadone,Susan Savich,Susan Savich,tallender@accuray.com,2012-11-19,303051,Dir Comp & Benefits,1310 Chesapeake,North America
+3145,TAMATSUURA,Takuya Matsuura,Takuya,Matsuura,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,tamatsuura@accuray.com,2013-04-01,802012,Field Service Engr II,Remote - Japan,Japan
+60000,TANDERSON,Teri Lynn Anderson,Teri Lynn,Anderson,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,tanderson@accuray.com,2012-11-12,202014,Accounting Clerk IV,1320 Chesapeake,North America
+3160,TAWANG,Taiping Wang,Taiping,Wang,Frida Wu,Robert Ragusa,Robert Zahn,Guang Fang,TaWang@accuray.com,2013-03-25,505531,Supv Warehouse,Chengdu,APAC
+1117,TBENDFELT,Timothy Bendfelt,Timothy,Bendfelt,Gerald Fordyce,Robert Ragusa,Robert Hill,Gerald Fordyce,tbendfelt@accuray.com,2006-05-30,404024,Software Engr IV,1240 Deming,North America
+1120,TBIDDLE,Todd Biddle,Todd,Biddle,Bradley Lang,Robert Ragusa,John Liebig,Abby Ngampongsai,tbiddle@accuray.com,2005-06-20,806029,Tech Support Engr NE,Remote - US,North America
+1127,TBOELTER,Trisha Boelter,Trisha,Boelter,Robert Zahn,Robert Ragusa,Robert Zahn,Robert Zahn,tboelter@accuray.com,2005-05-31,102023,Project Manager III (Admin),1240 Deming,North America
+20065,TBRADBURY,Tony Bradbury,Tony,Bradbury,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,tbradbury@accuray.com,2007-03-19,802013,Field Service Engr III,Remote - UK,EIMEA
+1664,TBURSAC,Tammy Bursac,Tammy,Bursac,Terri Allender,Theresa Dadone,Susan Savich,Terri Allender,tbursac@accuray.com,2011-11-22,304023,Benefits Analyst III,1240 Deming,North America
+3227,TCHANG,Terry Chang,Terry,Chang,Susan Hopkins,Kelly Londy,Susan Hopkins,Susan Hopkins,tchang@accuray.com,2013-09-09,601051,Dir Marketing,1320 Chesapeake,North America
+3202,TCHEN,Yunwei Chen,Yunwei,Chen,Saikat Paul,Greg Lichtwardt,Kevin Waters,Saikat Paul,tchen@accuray.com,2013-07-29,202024,Accountant IV,1320 Chesapeake,North America
+783,TCHIENG,Toupao Chieng,Toupao,Chieng,Binh Tien,Robert Ragusa,John Liebig,Abby Ngampongsai,tchieng@accuray.com,2007-07-02,806023,Tech Support Engr III,Remote - US,North America
+781,TDADONE,Theresa Dadone,Theresa,Dadone,Joshua Levine,Joshua Levine,Joshua Levine,Joshua Levine,tdadone@accuray.com,2007-07-02,301062,SVP Human Resources,1310 Chesapeake,North America
+1193,TDAUGHERTY,Tonya Daugherty,Tonya,Daugherty,Lee Ann Harris,Robert Ragusa,Lee Ann Harris,Lee Ann Harris,tdaugherty@accuray.com,2008-06-30,807041,Mgr Clinical Support,Remote - US,North America
+1200,TDESPINS,Timothy Despins,Timothy,Despins,Steven Wilke,Robert Ragusa,Robert Zahn,Steven Wilke,tdespins@accuray.com,2006-07-05,502013,Production Tech III,1209 Deming,North America
+3255,TDO,Tran Do,Tran,Do,Darl Moreland,Darl Moreland,Darl Moreland,Darl Moreland,tdo@accuray.com,2013-10-28,102024,Project Manager IV (Admin),1310 Chesapeake,North America
+645,TDOAN,Anthony Doan,Anthony,Doan,Ajay Achath,Robert Ragusa,Larry Voster,Ajay Achath,tdoan@accuray.com,2006-08-03,504025,Commodity Spec V,1310 Orleans,North America
+50027,TDOWDEN,Tim Dowden,Tim,Dowden,Xavier de Misouard,Robert Ragusa,Xavier de Misouard,Xavier de Misouard,tdowden@accuray.com,2005-08-20,802051,Dir Field Service,Hong Kong,APAC
+1215,TEICHMAN,Thomas Eichman,Thomas,Eichman,Gary Tarpinian,Robert Ragusa,Robert Zahn,Gary Tarpinian,teichman@accuray.com,2005-03-28,409023,Continuing Engineer III,1209 Deming,North America
+1225,TFINNESSY,Thomas Finnessy,Thomas,Finnessy,Robert Hill,Robert Ragusa,Robert Hill,Robert Hill,tfinnessy@accuray.com,2001-04-16,402251,Dir Systems Engineering,1240 Deming,North America
+20080,TFOERSTER,Torsten Foerster,Torsten,Foerster,Mathieu Lapalus,Robert Ragusa,Xavier de Misouard,Remi Bavu,tfoerster@accuray.com,2010-06-07,802013,Field Service Engr III,Remote - Germany,EIMEA
+1234,TFREIMUTH,Todd Freimuth,Todd,Freimuth,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,tfreimuth@accuray.com,2004-05-03,507014,Test Technician IV,1209 Deming,North America
+3220,TFREYE,Thomas Freye,Thomas,Freye,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,tfreye@accuray.com,2013-09-03,155523,Product Complaint Spec III,1240 Deming,North America
+1239,TFUGATE,Tosha Fugate,Tosha,Fugate,Larry Voster,Robert Ragusa,Larry Voster,Larry Voster,tfugate@accuray.com,2007-10-09,504041,Mgr Procurement,1209 Deming,North America
+3219,TGORMAN,Toni Gorman,Toni,Gorman,Rebecca Andersen,Darl Moreland,Rebecca Andersen,Rebecca Andersen,tgorman@accuray.com,2013-09-03,155524,Product Complaint Spec IV,1240 Deming,North America
+970,THAINES,Troy Haines,Troy,Haines,Bill Benton,Andy Kirkpatrick,Bill Benton,Bill Benton,thaines@accuray.com,2009-12-21,803624,Customer Ops Reg Mgr,Remote - US,North America
+1283,THILL,Edward Hill,Edward,Hill,Carl Mauer,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,thill@accuray.com,2000-08-01,401023,Research Scientist III,1240 Deming,North America
+3168,THOLLAND,Thomas Holland,Thomas,Holland,Benoit Deniel,Robert Ragusa,Xavier de Misouard,Remi Bavu,tholland@accuray.com,2013-05-01,802012,Field Service Engr II,Remote - UK,EIMEA
+3156,THUI,Tiffany Hui,Tiffany,Hui,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,thui@accuray.com,2013-03-25,351024,Corp Counsel IV,1320 Chesapeake,North America
+3099,TJANSEN,Trent Jansen,Trent,Jansen,Carlton Bridgeforth,Darl Moreland,Rebecca Andersen,Carlton Bridgeforth,tjansen@accuray.com,2012-11-05,155522,Product Complaint Spec II,1240 Deming,North America
+1768,TJIN,Yi Jin,Yi,Jin,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,tjin@accuray.com,2012-06-11,372023,Business Sys Analyst III,1320 Chesapeake,North America
+1317,TKAMMEYER,Thomas Kammeyer,Thomas,Kammeyer,Eric Schnarr,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,tkammeyer@accuray.com,2006-04-04,401024,Research Scientist IV,1240 Deming,North America
+3216,TKENNEDY,Thomas Kennedy,Thomas,Kennedy,Carl Grosspietsch II,Ole Mikkelsen,Lee Hutchinson,Carl Grosspietsch II,tkennedy@accuray.com,2013-08-26,373023,System Admin III,1240 Deming,North America
+1402,TKMILLER,Timothy Miller,Timothy,Miller,James Jacoby,Robert Ragusa,Robert Hill,Thomas Finnessy,tkmiller@accuray.com,2005-08-22,409023,Continuing Engineer III,1240 Deming,North America
+1341,TKRANZ,Thomas Kranz,Thomas,Kranz,Walter Sparks,Robert Ragusa,John Liebig,Walter Sparks,tkranz@accuray.com,2011-03-16,802013,Field Service Engr III,Remote - US,North America
+1346,TKRUMBACH,Theodore Krumbach,Theodore,Krumbach,Robert Cravens,Robert Ragusa,Calvin Maurer Jr,Kenneth Ruchala,tkrumbach@accuray.com,2006-05-23,401023,Research Scientist III,1240 Deming,North America
+1002,TLAING,Trevor Laing,Trevor,Laing,Jian Gao,Robert Ragusa,Robert Hill,Sohail Sayeh,tlaing@accuray.com,2010-07-19,404023,Software Engr III,1310 Chesapeake,North America
+1367,TLIEBAU,Timothy Liebau,Timothy,Liebau,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,tliebau@accuray.com,2010-02-15,404023,Software Engr III,1240 Deming,North America
+695,TLORD,Philip Lord,Philip,Lord,Scott Painter,Robert Ragusa,John Liebig,Scott Painter,tlord@accuray.com,2006-11-27,802014,Field Service Engr IV,Remote - US,North America
+886,TLYNCH,Anthony Lynch,Anthony,Lynch,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,tlynch@accuray.com,2008-06-02,802014,Field Service Engr IV,Remote - US,North America
+3036,TMATSUO,Tomoyuki Matsuo,Tomoyuki,Matsuo,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,tmatsuo@accuray.com,2012-09-01,802011,Field Service Engr I,Remote - Japan,Japan
+3180,TMCVAUGH,Timothy McVaugh,Timothy,McVaugh,Richard Nash,Robert Ragusa,Robert Hill,Marcus Bittman,tmcvaugh@accuray.com,2013-06-03,404023,Software Engr III,Remote - US,North America
+899,TMILLER,Tracy Miller,Tracy,Miller,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,tmiller@accuray.com,2008-08-18,802014,Field Service Engr IV,Remote - US,North America
+40046,TMIURA,Takashi Miura,Takashi,Miura,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,tmiura@accuray.com,2012-01-01,701024,Sales Rep II,Remote - Japan,Japan
+3078,TNAKABAYASHI,Tadashi Nakabayashi,Tadashi,Nakabayashi,Kazuyuki Kobayashi,Kelly Londy,Juki Hozumi,Atsushi Suzuki,tnakabayashi@accuray.com,2012-11-01,808123,Physics/Applications Eng,Tokyo,Japan
+1021,TNELSON,Trina Nelson,Trina,Nelson,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,tnelson@accuray.com,2010-10-25,207023,Tax Accountant III,1320 Chesapeake,North America
+40018,TOOTANI,Tadashi Ootani,Tadashi,Ootani,Noboru Kobayashi,Kelly Londy,Juki Hozumi,Atsushi Suzuki,tootani@accuray.com,2009-08-01,802012,Field Service Engr II,Tokyo,Japan
+1437,TPARISI,Travis Parisi,Travis,Parisi,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,tparisi@accuray.com,2005-05-23,802014,Field Service Engr IV,Remote - US,North America
+1445,TPEAK,Timothy Peak,Timothy,Peak,Ajay Achath,Robert Ragusa,Larry Voster,Ajay Achath,tpeak@accuray.com,2005-01-24,504041,Mgr Procurement,1209 Deming,North America
+3235,TPERSIANI,Theresa Persiani,Theresa,Persiani,Terry Reay,Robert Ragusa,Michael Deghuee,Terry Reay,tpersiani@accuray.com,2013-09-30,704023,Sales Specialist III,Remote - US,North America
+3169,TPETERSON,Timothy Peterson,Timothy,Peterson,Jeffrey Zondag,Darl Moreland,Jeffrey Zondag,Jeffrey Zondag,tpeterson@accuray.com,2013-05-06,507012,Test Technician II,1209 Deming,North America
+1746,TREAY,Terry Reay,Terry,Reay,Michael Deghuee,Robert Ragusa,Michael Deghuee,Michael Deghuee,treay@accuray.com,2012-05-07,701052,Sr Dir Sales,Remote - US,North America
+633,TSAIN,Lucy Sain,Lucy,Sain,Stan Gee,Kelly Londy,Stan Gee,Stan Gee,tsain@accuray.com,2006-07-17,703024,Sales Ops Specialist IV,Remote - US,North America
+1489,TSARTORI,Terrence Sartori,Terrence,Sartori,Heinrich Juhn,Robert Ragusa,Robert Hill,Nancy Arnold,tsartori@accuray.com,2006-04-04,406024,Project Manager IV (R&D),1240 Deming,North America
+20042,TSHAMRAY,Tatyana Shamray,Tatyana,Shamray,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,tshamray@accuray.com,2010-04-01,101015,Admin Assistant V,Paris,EIMEA
+560,TSHIMOTOMAI,Tomoko Shimotomai,Tomoko,Shimotomai,Jason Ehrlich,Darl Moreland,Eitan Zohar,Jason Ehrlich,tshimotomai@accuray.com,2006-03-13,154524,Localization Engr IV,1310 Chesapeake,North America
+3212,TSHUTO,Tatsuhiro Shuto,Tatsuhiro,Shuto,Hajime Hongo,Kelly Londy,Juki Hozumi,Hajime Hongo,tshuto@accuray.com,2013-09-01,155022,Reg Affairs Spec II,Tokyo,Japan
+406,TSINGH,Navtej Singh,Navtej,Singh,Ron Chavez,Robert Ragusa,John Liebig,Ron Chavez,tsingh@accuray.com,2004-11-29,803524,Site Planner IV,1320 Chesapeake,North America
+3246,TSINGLETON,Timothy Singleton,Timothy,Singleton,Chris McDaniel,Robert Ragusa,John Liebig,Chris McDaniel,tsingleton@accuray.com,2013-10-14,802013,Field Service Engr III,Remote - US,North America
+3206,TSOKOLICH,Timothy Sokolich,Timothy,Sokolich,Steve Wright,Kelly Londy,Bill Yeado,Steve Wright,tsokolich@accuray.com,2013-08-12,708024,Territory Sales Manager,Remote - US,North America
+1763,TSTALEY,Wallace Staley,Wallace,Staley,Charles Pigos,Robert Ragusa,Larry Voster,Charles Pigos,tstaley@accuray.com,2012-06-04,504224,Logistics Analyst IV,1209 Deming,North America
+40022,TTAKEDA,Takako Takeda,Takako,Takeda,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,ttakeda@accuray.com,2010-02-01,601051,Dir Marketing,Tokyo,Japan
+944,TTAN,Telly Tan,Telly,Tan,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,ttan@accuray.com,2009-03-30,503021,Manufacturing Engr I,1310 Orleans,North America
+951,TTATMAN,Thomas Tatman,Thomas,Tatman,George Asmerom,Robert Ragusa,Robert Hill,Sohail Sayeh,ttatman@accuray.com,2009-06-26,405023,Electrical Engr III,1310 Orleans,North America
+514,TTNGUYEN,Tu Nguyen,Tu,Nguyen,Jonathan Li,Robert Ragusa,Michael Stratford Collins,Jonathan Li,ttnguyen@accuray.com,2005-10-17,502215,Microwave Technician V,1310 Orleans,North America
+40051,TTSUCHIYA,Takayoshi Tsuchiya,Takayoshi,Tsuchiya,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,ttsuchiya@accuray.com,2012-04-01,802011,Field Service Engr I,Tokyo,Japan
+623,TTUCKER,Tiffanie Tucker,Tiffanie,Tucker,Alaleh Nouri,Darren Milliken,Alaleh Nouri,Alaleh Nouri,ttucker@accuray.com,2013-04-02,352014,Contracts Manager IV,1320 Chesapeake,North America
+743,TTVO,Tiffani Vo,Tiffani,Vo,Zarina Bhandari,Greg Lichtwardt,Kevin Waters,Marian Chen,tvo@accuray.com,2007-04-03,202224,Revenue Accountant IV,1320 Chesapeake,North America
+1571,TWASHKO,Thomas Washko,Thomas,Washko,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,twashko@accuray.com,2005-11-07,802014,Field Service Engr IV,Remote - US,North America
+60068,TWATANABE,Tomoko Watanabe,Tomoko,Watanabe,Yuri Hioki,Kelly Londy,Juki Hozumi,Yuri Hioki,twatanabe@accuray.com,2013-10-22,101014,Admin Assistant IV,Tokyo,Japan
+813,TWOLFE,Timothy Wolfe,Timothy,Wolfe,Mike McGann,Kelly Londy,Bill Yeado,Mike McGann,twolfe@accuray.com,2007-10-22,709025,Territory Sales Director V,Remote - US,North America
+40035,TYAGUCHI,Takeshi Yaguchi,Takeshi,Yaguchi,Theresa Dadone,Theresa Dadone,Theresa Dadone,Theresa Dadone,tyaguchi@accuray.com,2011-05-18,301051,Dir Human Resources,Tokyo,Japan
+50025,UAHLUND,Ulf Ahlund,Ulf,Ahlund,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,uahlund@accuray.com,2004-07-01,701041,Mgr Sales,Hong Kong,APAC
+1764,UGARAD,Umesh Garad,Umesh,Garad,Rohit Jain,Ole Mikkelsen,Rohit Jain,Rohit Jain,ugarad@accuray.com,2012-06-04,372024,Business Sys Analyst IV,1320 Chesapeake,North America
+3003,VCHEN,Victor Chen,Victor,Chen,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,vchen@accuray.com,2012-07-09,603751,Dir Clinical Research,1310 Chesapeake,North America
+984,VCHIANG,Vincent Chiang,Vincent,Chiang,Binh Tien,Robert Ragusa,John Liebig,Abby Ngampongsai,vchiang@accuray.com,2010-04-26,806022,Tech Support Engr II,1310 Chesapeake,North America
+3181,VCOLIN,Valery Colin,Valery,Colin,Eric Marin,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,vcolin@accuray.com,2013-06-04,202023,Accountant III,Morges,EIMEA
+60057,VERARD,Vasana Erard,Vasana,Erard,Eric Marin,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,verard@accuray.com,2013-05-01,202022,Accountant II,Morges,EIMEA
+3046,VGAVRILUTSA,Valeriy Gavrilutsa,Valeriy,Gavrilutsa,Patricia Ost,Ole Mikkelsen,Rohit Jain,Patricia Ost,vgavrilutsa@accuray.com,2012-09-04,372024,Business Sys Analyst IV,1320 Chesapeake,North America
+1252,VGOLOVKINA,Viktoriya Golovkina,Viktoriya,Golovkina,Tonya Daugherty,Robert Ragusa,Lee Ann Harris,Tonya Daugherty,vgolovkina@accuray.com,2004-06-28,401523,Physicist III,1240 Deming,North America
+388,VLUCAS,Victor Lucas,Victor,Lucas,Steven Anheier,Greg Lichtwardt,Miguel Carrillo,Steven Anheier,vlucas@accuray.com,2004-08-02,201024,Financial Analyst IV,1320 Chesapeake,North America
+303,VMITROVIC,Vladimir Mitrovic,Vladimir,Mitrovic,Matt Core,Robert Ragusa,Robert Hill,Sohail Sayeh,vmitrovic@accuray.com,2002-06-17,402226,Systems Engr VI,1310 Chesapeake,North America
+50031,VSATARATANAKUL,Veerathep Sataratanakul,Veerathep,Sataratanakul,Waraporn Hantragulsuk,Robert Ragusa,Xavier de Misouard,Tim Dowden,vsataratanakul@accuray.com,2009-10-01,153723,Development QA Physicist,Remote - Thailand,APAC
+1716,VSOMERA,Violet Somera,Violet,Somera,Glen Taniguchi,Greg Lichtwardt,Kevin Waters,Glen Taniguchi,vsomera@accuray.com,2012-03-26,202523,Cost Accountant III,1320 Chesapeake,North America
+3063,VTARANENKO,Valery Taranenko,Valery,Taranenko,David Biggs,Robert Ragusa,Xavier de Misouard,David Biggs,vtaranenko@accuray.com,2012-09-18,804023,Medical Physicist III,Morges,EIMEA
+60004,VTO,Van To,Van,To,Angel Malinao,Greg Lichtwardt,Kevin Waters,Saikat Paul,vto@accuray.com,2012-11-12,202014,Accounting Clerk IV,1320 Chesapeake,North America
+20130,VZASSEDATEL,Valeri Zassedatel,Valeri,Zassedatel,Denis Hafon,Robert Ragusa,Xavier de Misouard,Denis Hafon,vzassedatel@accuray.com,2006-11-28,406023,Project Manager III (R&D),Brussels,EIMEA
+296,WDAI,Weijun Dai,Weijun,Dai,Jason Ehrlich,Darl Moreland,Eitan Zohar,Jason Ehrlich,wdai@accuray.com,2002-03-25,153023,Development QA Engr III,1310 Chesapeake,North America
+1032,WELBHASSI,Waeil Elbhassi,Waeil,Elbhassi,Eyad Kishawi,Robert Ragusa,Robert Hill,Sohail Sayeh,welbhassi@accuray.com,2010-12-13,405023,Electrical Engr III,1310 Chesapeake,North America
+1608,WEMLEY,William Emley,William,Emley,Joe Swauger,Robert Ragusa,John Liebig,Joe Swauger,wemley@accuray.com,2011-06-13,802013,Field Service Engr III,Remote - US,North America
+50086,whaibo,Haibo Wang,Haibo,Wang,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,whaibo@accuray.com,2011-11-14,502014,Production Tech IV,Chengdu,APAC
+1069,WILWU,Xin Wu,Xin,Wu,Ajay Achath,Robert Ragusa,Larry Voster,Ajay Achath,wilwu@accuray.com,2011-04-11,504025,Commodity Spec V,1310 Orleans,North America
+395,WKILBY,Warren Kilby,Warren,Kilby,Calvin Maurer Jr,Robert Ragusa,Calvin Maurer Jr,Calvin Maurer Jr,wkilby@accuray.com,2006-03-01,401641,Mgr Physics R&D,Remote - UK,EIMEA
+3152,WKING,William King,William,King,Heinrich Juhn,Robert Ragusa,Robert Hill,Nancy Arnold,wking@accuray.com,2013-03-11,406024,Project Manager IV (R&D),1240 Deming,North America
+3162,WNDIMBA,Wawi Ndimba,Wawi,Ndimba,Sancie Nakarat,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,wndimba@accuray.com,2013-02-01,101013,Admin Assistant III,Paris,EIMEA
+50010,WNGAN,Wai Bing Ngan,Wai Bing,Ngan,Roger Cao,Kelly Londy,Lionel Hadjadjeba,Roger Cao,wngan@accuray.com,2006-06-19,101023,Executive Asst,Hong Kong,APAC
+3007,WPELZL,William Pelzl,William,Pelzl,Angela Arts,Robert Ragusa,Lee Ann Harris,Angela Arts,wpelzl@accuray.com,2012-07-09,652012,Training Support Spec II,1310 Chesapeake,North America
+1499,WSCHMIDT,William Schmidt,William,Schmidt,Joseph Barni,Robert Ragusa,Robert Zahn,Joseph Barni,wschmidt@accuray.com,2008-02-26,507013,Test Technician III,1209 Deming,North America
+1524,WSPARKS,Walter Sparks,Walter,Sparks,John Liebig,Robert Ragusa,John Liebig,John Liebig,wsparks@accuray.com,2005-05-09,802043,Regional Service Mgr II,Remote - US,North America
+1675,WSUN,WeiDong Sun,WeiDong,Sun,Russell MacDermott,Darl Moreland,Eitan Zohar,Russell MacDermott,wsun@accuray.com,2012-01-16,153023,Development QA Engr III,1310 Chesapeake,North America
+50087,wwei,Wei Wang,Wei,Wang,James Wu,Robert Ragusa,Robert Zahn,Guang Fang,wwei@accuray.com,2011-02-09,502015,Production Tech V,Chengdu,APAC
+462,WYEADO,William Yeado,William,Yeado,Kelly Londy,Kelly Londy,Kelly Londy,Kelly Londy,wyeado@accuray.com,2005-05-02,101061,General Manager,Remote - US,North America
+50091,xbo,Bo Xie,Bo,Xie,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,xbo@accuray.com,2011-02-09,502014,Production Tech IV,Chengdu,APAC
+20008,XDEMISOUARD,Xavier de Misouard,Xavier,de Misouard,Robert Ragusa,Robert Ragusa,Robert Ragusa,Robert Ragusa,xdemisouard@accuray.com,2006-04-29,501061,VP Operations,Remote - France,EIMEA
+50072,xdong,Xueping Dong,Xueping,Dong,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,xdong@accuray.com,2008-11-03,502015,Production Tech V,Chengdu,APAC
+3041,XFRANZ,Xavier Franz,Xavier,Franz,Lionel Hadjadjeba,Kelly Londy,Lionel Hadjadjeba,Lionel Hadjadjeba,xfranz@accuray.com,2012-09-03,602541,Mgr Public Relations,Paris,EIMEA
+50085,xtan,Xu Gang Tan,Xu Gang,Tan,Frida Wu,Robert Ragusa,Robert Zahn,Guang Fang,xtan@accuray.com,2010-11-01,152013,QA Inspector III,Chengdu,APAC
+50098,xzeng,Xia Zeng,Xia,Zeng,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,xzeng@accuray.com,2008-11-03,502015,Production Tech V,Chengdu,APAC
+1595,XZHANG,Xun Zhang,Xun,Zhang,Jeremy Heil,Robert Ragusa,Robert Hill,Marcus Bittman,xzhang@accuray.com,2006-11-28,404023,Software Engr III,1240 Deming,North America
+3100,YASONG,Yang Song,Yang,Song,Kevin Spredemann,Robert Ragusa,Robert Hill,Gerald Fordyce,yasong@accuray.com,2012-11-05,404022,Software Engr II,1240 Deming,North America
+629,YDONG,Yen Dong,Yen,Dong,Raj Vakil,Greg Lichtwardt,Miguel Carrillo,Raj Vakil,ydong@accuray.com,2006-07-10,201024,Financial Analyst IV,1320 Chesapeake,North America
+3053,YHIGASHIYAMA,Yuki Higashiyama,Yuki,Higashiyama,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,yhigashiyama@accuray.com,2012-09-22,802011,Field Service Engr I,Tokyo,Japan
+40041,YHIOKI,Yuri Hioki,Yuri,Hioki,Juki Hozumi,Kelly Londy,Juki Hozumi,Juki Hozumi,yhioki@accuray.com,2011-10-24,801051,Dir Operations,Tokyo,Japan
+40050,YIKEZAWA,Yuki Ikezawa,Yuki,Ikezawa,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,yikezawa@accuray.com,2012-04-01,802011,Field Service Engr I,Remote - Japan,Japan
+40028,YKUNIHIRO,Yu Kunihiro,Yu,Kunihiro,Hidetaka Koga,Kelly Londy,Juki Hozumi,Atsushi Suzuki,ykunihiro@accuray.com,2010-10-01,802012,Field Service Engr II,Remote - Japan,Japan
+998,YRATNAYAKE,Yannick Ratnayake,Yannick,Ratnayake,James English,Kelly Londy,Bill Yeado,James English,yratnayake@accuray.com,2010-06-28,709023,Territory Sales Director III,Remote - US,North America
+3176,YSHEN,Yuan Shen,Yuan,Shen,Kevin Zhong,Greg Lichtwardt,Greg Lichtwardt,Greg Lichtwardt,yshen@accuray.com,2013-05-22,202023,Accountant III,Chengdu,APAC
+3211,YSHIBUYA,Yuko Shibuya,Yuko,Shibuya,Yuri Hioki,Kelly Londy,Juki Hozumi,Yuri Hioki,yshibuya@accuray.com,2013-10-01,504223,Logistics Analyst III,Tokyo,Japan
+3151,YSONE,Yukihiro Sone,Yukihiro,Sone,Koji Sadohara,Kelly Londy,Juki Hozumi,Atsushi Suzuki,ysone@accuray.com,2013-03-19,802011,Field Service Engr I,Tokyo,Japan
+40064,YUISHIKAWA,Yukiko Ishikawa,Yukiko,Ishikawa,Yuri Hioki,Kelly Londy,Juki Hozumi,Yuri Hioki,yuishikawa@accuray.com,2012-07-01,504222,Logistics Analyst II,Tokyo,Japan
+1075,YVORONENKO,Yevgen Voronenko,Yevgen,Voronenko,John Dooley,Robert Ragusa,Calvin Maurer Jr,John Dooley,yvoronenko@accuray.com,2011-05-09,401022,Research Scientist II,1310 Chesapeake,North America
+50104,yzhou,Yang Zhou,Yang,Zhou,Xinwei Xiao,Robert Ragusa,Robert Zahn,Guang Fang,yzhou@accuray.com,2010-11-01,503021,Manufacturing Engr I,Chengdu,APAC
+611,ZBHANDARI,Zarina Bhandari,Zarina,Bhandari,Marian Chen,Greg Lichtwardt,Kevin Waters,Marian Chen,zbhandari@accuray.com,2006-06-12,202242,Sr Mgr Revenue Acctg,1320 Chesapeake,North America
+50100,zguosong,Guosong Zhou,Guosong,Zhou,James Wu,Robert Ragusa,Robert Zahn,Guang Fang,zguosong@accuray.com,2011-08-01,503023,Manufacturing Engr III,Chengdu,APAC
+1319,ZKARIM,Zaki Karim,Zaki,Karim,Michael Lackovich,Robert Ragusa,John Liebig,Michael Lackovich,zkarim@accuray.com,2008-01-21,802014,Field Service Engr IV,Remote - US,North America
+50108,zyong,Yong Zhang,Yong,Zhang,Zemin Zhou,Robert Ragusa,Robert Zahn,Guang Fang,zyong@accuray.com,2013-10-28,502014,Production Tech IV,Chengdu,APAC
+50105,zzhou,Zemin Zhou,Zemin,Zhou,James Wu,Robert Ragusa,Robert Zahn,Guang Fang,zzhou@accuray.com,2008-11-03,502041,Mgr Production,Chengdu,APAC

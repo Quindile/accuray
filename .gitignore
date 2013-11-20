@@ -17,6 +17,6 @@ build
 *dev.py
 
 logs/
-
 media/
 static/
+.csv
